@@ -1,0 +1,14 @@
+What is NLP (Natural Language Processing) and 
+how it influences our lives
+
+From Hinton’s model of linguistics structure, we can gain a clear idea of languages from raw spoken sounds to the complexities of meanings influenced by the context.
+
+Today NLP (Natural Language Processing) is an extremely hot field in computer science, AI and linguistics to help computer “understand” natural language input and generate corresponding output automatics. Famous market products are well known as Siri by Apple, Echo by Amazon, Tmall Genie X1 by Alibaba.
+
+Witnessing the NLP from zero to such a big market, I do have a few words about how it’s actually changing our lives.
+
+First of all, at the quite early stage of NLP, it’s not as smart as what it is today, especially before deep learning method is applied to NLP. Yet it still makes huge difference to human society. For example, voice navigation system in private cars. On the one hand, it improves the efficiency of checking for a certain route in the digital map. On the other hand, the voice navigation also helps drivers to take care of their speed and the traffics rules, thus prevents countless potential traffic accidents. Imagine to stare at the digital map and set the route while driving, how dangerous it could be!
+
+Secondly, the appearing of voice assistants make a huge step in our intelligent life. Apple has Siri, Amazon has Alexa, Microsoft has Cortana and Google has their Google Assistant. From setting clocks and asking simple (silly) questions, now we’re able to open our TV, adjust the AC temperature or even control the light in our living rooms. Of course there’s no angels or devils living in those small devices. It’s the programmer designing the NLP algorithm who really understand what we need.
+
+Finally, it can be anticipated that as the AI tech develops from supervised learning to unsupervised learning, our devices would be more and more intelligent. However, I am still not holding a positive attitude towards the NLP to reach human level cognition ability. The reason is simple: NLP is a inter-disciplinary area consisting not only computer science, but also linguistics and psychology. Unless we can fully figure out the secret of linguistics and psychology, it’s impossible for computers to actually think and response like a real human.

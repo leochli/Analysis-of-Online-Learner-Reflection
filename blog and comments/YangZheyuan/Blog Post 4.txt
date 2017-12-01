@@ -1,0 +1,8 @@
+How do machines process information?
+
+Nowadays, more and more people can access to digital devices, such as computers and mobile phones. And these devices or machines have a common feature--they can process information. We have learned that information can be divided into three layers: physical layer, semantic layer and digital layer. And we also know about how humans learn and develop information from embodiment to abstraction. However, machine process information from the opposite dimension.
+ 
+Firstly,??machines use digital technologies to de-contextualize information. Other forms of representation such as vectors are used to convert pure words or graphical symbols into something that machines can work with. After that, machines can use mathematical tools to do calculations. For example, we can use cosine similarity or?Euclidean distance to calculate the similarity of two vectors which represent two items.
+Besides, documents can be represented by bag-of-words. We can also calculate the similarity of two documents. The first method simply use the ratio between intersection and union of two given sets. This is called?Jaccard¡¯s Index. But this method ignores the importance degree of each word. To improve this, we can use another method to "weigh the importance" of each word. It's called term weighting. It uses term frequency times inverse document frequency (TF-IDF) as the weight. After that, we can also use previous method to calculate the similarity of two documents.
+In conclusion, machines cannot process semantic information directly. They will convert semantic information into other forms which have numerical values. Consequently, they can handle the information quantitatively.
+

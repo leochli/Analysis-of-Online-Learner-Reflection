@@ -1,0 +1,6134 @@
+{
+    "0912": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "10": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "100": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "11": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "123": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "12th": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "1997": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "20": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "2016": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "2017": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "20170912111455491": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "20th": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "21": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "50": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "769025": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "abilities": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "ability": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "able": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "about": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "above": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "abroad": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "absorbing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "abstract": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "abstraction": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "ac": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "academic": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "academically": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "acceleration": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "accept": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "access": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "accidents": {
+        "neg": 0.75, 
+        "pos": 0.0
+    }, 
+    "accommodation": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "according": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "accordingly": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "account": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "accuracy": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "accurate": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "achieve": {
+        "neg": 0.125, 
+        "pos": 0.125
+    }, 
+    "acquire": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "acquiring": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "across": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "act": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "action": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "actions": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "activities": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "activity": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "actually": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "adapt": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "adaptation": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "adaption": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "add": {
+        "neg": 0.125, 
+        "pos": 0.625
+    }, 
+    "adding": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "additionally": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "adjust": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "admire": {
+        "neg": 0.125, 
+        "pos": 0.625
+    }, 
+    "admitted": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "ads": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "advanced": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "advantage": {
+        "neg": 0.0, 
+        "pos": 0.625
+    }, 
+    "advantages": {
+        "neg": 0.0, 
+        "pos": 0.625
+    }, 
+    "advertisement": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "after": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "again": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "agent": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "agents": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "ago": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "agree": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "algorithm": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "algorithms": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "all": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "allocation": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "allow": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "almost": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "already": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "also": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "although": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "always": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "am": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "amazing": {
+        "neg": 0.25, 
+        "pos": 0.0
+    }, 
+    "amazon": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "among": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "amount": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "an": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "analysis": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "analyze": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "analyzing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "ancestors": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "and": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "angels": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "annoying": {
+        "neg": 0.25, 
+        "pos": 0.0
+    }, 
+    "another": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "answer": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "answered": {
+        "neg": 0.25, 
+        "pos": 0.0
+    }, 
+    "answering": {
+        "neg": 0.25, 
+        "pos": 0.0
+    }, 
+    "anticipated": {
+        "neg": 0.25, 
+        "pos": 0.25
+    }, 
+    "any": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "anything": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "anyway": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "apart": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "appear": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "appearing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "apple": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "applications": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "applied": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "applies": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "apply": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "appraise": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "appreciate": {
+        "neg": 0.125, 
+        "pos": 0.125
+    }, 
+    "approach": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "appropriate": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "appropriately": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "are": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "area": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "arises": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "arm": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "around": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "arrive": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "article": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "artifacts": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "as": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "asked": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "asking": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "aspect": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "aspects": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "assessing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "assign": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "assigned": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "assimilation": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "assistant": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "assistants": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "assumable": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "at": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "attending": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "attitude": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "attributes": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "audible": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "automatics": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "autonomous": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "available": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "avoid": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "aware": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "awareness": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "awesome": {
+        "neg": 0.125, 
+        "pos": 0.875
+    }, 
+    "back": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "background": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "bad": {
+        "neg": 0.875, 
+        "pos": 0.0
+    }, 
+    "bag": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "bank": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "bar": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "barely": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "barrier": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "barriers": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "based": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "baseline": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "basic": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "be": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "beat": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "beating": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "beats": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "because": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "become": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "becomes": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "becoming": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "been": {
+        "neg": 0.125, 
+        "pos": 0.25
+    }, 
+    "before": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "behave": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "behavior": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "behaviors": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "behind": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "being": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "believe": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "belongs": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "benefits": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "besides": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "better": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "between": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "biases": {
+        "neg": 0.875, 
+        "pos": 0.0
+    }, 
+    "big": {
+        "neg": 0.125, 
+        "pos": 0.25
+    }, 
+    "biological": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "bit": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "bits": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "black": {
+        "neg": 0.375, 
+        "pos": 0.0
+    }, 
+    "blind": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "blindness": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "blocker": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "blockers": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "blue": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "board": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "bodies": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "body": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "bold": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "book": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "both": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "bother": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "box": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "brain": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "brains": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "bridge": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "bring": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "brings": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "brought": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "browser": {
+        "neg": 0.5, 
+        "pos": 0.0
+    }, 
+    "browsers": {
+        "neg": 0.5, 
+        "pos": 0.0
+    }, 
+    "bug": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "build": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "buildings": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "burger": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "bus": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "but": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "buttons": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "by": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "bypassing": {
+        "neg": 0.75, 
+        "pos": 0.0
+    }, 
+    "calculate": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "calculated": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "calculation": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "calculations": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "call": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "called": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "came": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "camera": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "cameras": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "can": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "cane": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "cannot": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "captain": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "capture": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "captures": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "car": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "card": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "care": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "career": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "carried": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "carries": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "carry": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "cars": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "case": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "category": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "cause": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "certain": {
+        "neg": 0.5, 
+        "pos": 0.125
+    }, 
+    "challenges": {
+        "neg": 0.25, 
+        "pos": 0.375
+    }, 
+    "champion": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "change": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "changed": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "changes": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "changing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "channel": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "channels": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "check": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "checking": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "chess": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "child": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "childhood": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "choose": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "chrome": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "circumstances": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "cities": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "city": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "class": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "classes": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "classification": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "classifier": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "clear": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "clearly": {
+        "neg": 0.25, 
+        "pos": 0.25
+    }, 
+    "click": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "clips": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "clocks": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "closed": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "codes": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "cognition": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "cognitive": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "coin": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "coins": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "collaborative": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "collaboratively": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "collectively": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "collects": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "college": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "color": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "colors": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "com": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "come": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "comes": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "commercial": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "common": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "communicate": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "communicating": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "communication": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "community": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "companies": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "compared": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "comparison": {
+        "neg": 0.25, 
+        "pos": 0.0
+    }, 
+    "competence": {
+        "neg": 0.25, 
+        "pos": 0.625
+    }, 
+    "complementary": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "completing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "complex": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "complexities": {
+        "neg": 0.25, 
+        "pos": 0.5
+    }, 
+    "component": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "components": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "composition": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "comprehend": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "comprehensible": {
+        "neg": 0.0, 
+        "pos": 0.625
+    }, 
+    "computed": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "computer": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "computers": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "concentrated": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "concept": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "conclude": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "conclusion": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "conditions": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "confident": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "confuse": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "confused": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "confusing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "connect": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "connection": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "consciously": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "consequently": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "consider": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "considering": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "consisting": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "consists": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "construct": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "constructed": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "constructing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "construction": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "constructions": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "contact": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "contain": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "contains": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "content": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "contents": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "context": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "contextualize": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "continuously": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "contrary": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "contrasting": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "control": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "controllers": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "convenience": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "convention": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "conventional": {
+        "neg": 0.375, 
+        "pos": 0.375
+    }, 
+    "convert": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "converted": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "converting": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "converts": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "convey": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "conveys": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "convincing": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "core": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "corner": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "corrective": {
+        "neg": 0.25, 
+        "pos": 0.125
+    }, 
+    "correspond": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "corresponding": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "cosine": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "cost": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "could": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "countless": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "countries": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "country": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "course": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "courses": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "cover": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "create": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "creating": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "credibility": {
+        "neg": 0.375, 
+        "pos": 0.375
+    }, 
+    "credible": {
+        "neg": 0.0, 
+        "pos": 0.625
+    }, 
+    "criteria": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "cross": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "crucial": {
+        "neg": 0.25, 
+        "pos": 0.5
+    }, 
+    "cube": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "culture": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "current": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "curve": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "customers": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "daily": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "dangerous": {
+        "neg": 0.75, 
+        "pos": 0.0
+    }, 
+    "dangers": {
+        "neg": 0.625, 
+        "pos": 0.125
+    }, 
+    "dark": {
+        "neg": 0.5, 
+        "pos": 0.125
+    }, 
+    "data": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "day": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "days": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "deadline": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "deaf": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "deal": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "decision": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "decode": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "decoding": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "decreases": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "deep": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "deeper": {
+        "neg": 0.125, 
+        "pos": 0.25
+    }, 
+    "defined": {
+        "neg": 0.125, 
+        "pos": 0.5
+    }, 
+    "definition": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "degradation": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "degree": {
+        "neg": 0.25, 
+        "pos": 0.0
+    }, 
+    "demonstrates": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "depend": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "deployed": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "deploying": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "describe": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "deserve": {
+        "neg": 0.125, 
+        "pos": 0.75
+    }, 
+    "design": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "designed": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "designers": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "designing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "destination": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "destroy": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "develop": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "developing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "development": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "develops": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "devices": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "devils": {
+        "neg": 0.375, 
+        "pos": 0.125
+    }, 
+    "did": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "difference": {
+        "neg": 0.625, 
+        "pos": 0.25
+    }, 
+    "different": {
+        "neg": 0.0, 
+        "pos": 0.625
+    }, 
+    "difficult": {
+        "neg": 0.75, 
+        "pos": 0.0
+    }, 
+    "dig": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "digest": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "digital": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "diligent": {
+        "neg": 0.0, 
+        "pos": 0.625
+    }, 
+    "diligently": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "dimension": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "dimensions": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "direction": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "directions": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "directly": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "disadvantages": {
+        "neg": 0.75, 
+        "pos": 0.0
+    }, 
+    "disciplinary": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "disclosed": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "disclosure": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "discussing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "discussion": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "discussions": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "disobeys": {
+        "neg": 0.375, 
+        "pos": 0.0
+    }, 
+    "distance": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "distinguishing": {
+        "neg": 0.25, 
+        "pos": 0.0
+    }, 
+    "distracted": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "divide": {
+        "neg": 0.375, 
+        "pos": 0.0
+    }, 
+    "divided": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "do": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "document": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "documents": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "does": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "dog": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "doing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "don": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "double": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "down": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "draw": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "drawing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "drivers": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "driving": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "due": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "dull": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "duty": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "each": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "early": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "easier": {
+        "neg": 0.25, 
+        "pos": 0.625
+    }, 
+    "easily": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "eats": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "echo": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "edges": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "effectively": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "effects": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "efficiency": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "efforts": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "either": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "elaborated": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "electronic": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "element": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "elements": {
+        "neg": 0.375, 
+        "pos": 0.0
+    }, 
+    "email": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "embedded": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "embodied": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "embodiment": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "emphasis": {
+        "neg": 0.0, 
+        "pos": 0.75
+    }, 
+    "encode": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "encoded": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "encounter": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "encountering": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "engaged": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "engineering": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "engineers": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "enhance": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "enough": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "enshrined": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "entities": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "entity": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "entropy": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "environment": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "epistemic": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "equality": {
+        "neg": 0.5, 
+        "pos": 0.0
+    }, 
+    "equally": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "especially": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "essay": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "essential": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "estimation": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "et": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "etc": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "euclidean": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "evaluate": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "evaluating": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "evaluation": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "even": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "events": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "every": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "everyday": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "everyone": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "everything": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "everywhere": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "evidence": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "evolve": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "evolves": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "exactly": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "exam": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "examiner": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "example": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "examples": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "execute": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "exercise": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "existing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "exists": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "expected": {
+        "neg": 0.25, 
+        "pos": 0.25
+    }, 
+    "experience": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "experienced": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "experiences": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "explain": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "explained": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "explaining": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "explains": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "explanation": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "explicitly": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "explored": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "extended": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "extent": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "extracted": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "extraordinary": {
+        "neg": 0.0, 
+        "pos": 0.625
+    }, 
+    "extremely": {
+        "neg": 0.0, 
+        "pos": 0.625
+    }, 
+    "eyes": {
+        "neg": 0.25, 
+        "pos": 0.5
+    }, 
+    "face": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "faces": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "facilitate": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "facing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "fact": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "factorization": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "factors": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "facts": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "fail": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "fair": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "fake": {
+        "neg": 0.5, 
+        "pos": 0.125
+    }, 
+    "fall": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "false": {
+        "neg": 0.75, 
+        "pos": 0.0
+    }, 
+    "famous": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "fascinates": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "fashion": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "fast": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "faster": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "father": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "feature": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "features": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "feedback": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "feel": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "felt": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "female": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "few": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "field": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "fields": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "figure": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "figures": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "final": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "finally": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "find": {
+        "neg": 0.0, 
+        "pos": 0.625
+    }, 
+    "finding": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "fingerprint": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "finish": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "first": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "firstly": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "fit": {
+        "neg": 0.5, 
+        "pos": 0.0
+    }, 
+    "fixed": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "flow": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "flows": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "focus": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "focusing": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "follow": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "following": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "food": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "for": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "foraging": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "foregoing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "form": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "formally": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "format": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "former": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "forms": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "formulas": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "found": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "four": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "frequencies": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "frequency": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "frequently": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "friend": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "friends": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "from": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "fully": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "functionalities": {
+        "neg": 0.0, 
+        "pos": 0.625
+    }, 
+    "functions": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "fundamental": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "funny": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "further": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "gain": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "game": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "gathers": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "gave": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "gender": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "gene": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "generate": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "genie": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "genius": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "get": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "gets": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "getting": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "gift": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "girls": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "give": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "given": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "gives": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "glance": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "go": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "goal": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "going": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "good": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "governing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "government": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "graduate": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "graphical": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "great": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "green": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "grow": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "guide": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "had": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "hair": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "hall": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "hand": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "handle": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "hands": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "happen": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "hard": {
+        "neg": 0.75, 
+        "pos": 0.0
+    }, 
+    "hardest": {
+        "neg": 0.75, 
+        "pos": 0.0
+    }, 
+    "hardworking": {
+        "neg": 0.375, 
+        "pos": 0.25
+    }, 
+    "harmful": {
+        "neg": 0.625, 
+        "pos": 0.0
+    }, 
+    "has": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "have": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "having": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "he": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "health": {
+        "neg": 0.0, 
+        "pos": 0.625
+    }, 
+    "healthy": {
+        "neg": 0.0, 
+        "pos": 0.75
+    }, 
+    "hear": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "hearing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "heart": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "hearty": {
+        "neg": 0.25, 
+        "pos": 0.5
+    }, 
+    "heavy": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "height": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "help": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "helped": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "helpful": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "helps": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "hence": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "her": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "hides": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "hierarchically": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "high": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "higher": {
+        "neg": 0.125, 
+        "pos": 0.5
+    }, 
+    "highly": {
+        "neg": 0.0, 
+        "pos": 0.625
+    }, 
+    "his": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "holding": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "homepage": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "hong": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "hope": {
+        "neg": 0.125, 
+        "pos": 0.25
+    }, 
+    "horizontal": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "hot": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "hottest": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "how": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "however": {
+        "neg": 0.5, 
+        "pos": 0.125
+    }, 
+    "huge": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "human": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "humans": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "icons": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "id": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "idea": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "ideas": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "identify": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "identities": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "if": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "ignores": {
+        "neg": 0.5, 
+        "pos": 0.0
+    }, 
+    "illusion": {
+        "neg": 0.5, 
+        "pos": 0.0
+    }, 
+    "illustrate": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "illustrated": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "image": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "imagine": {
+        "neg": 0.5, 
+        "pos": 0.0
+    }, 
+    "imagining": {
+        "neg": 0.5, 
+        "pos": 0.0
+    }, 
+    "immediately": {
+        "neg": 0.375, 
+        "pos": 0.0
+    }, 
+    "implicated": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "importance": {
+        "neg": 0.125, 
+        "pos": 0.75
+    }, 
+    "important": {
+        "neg": 0.0, 
+        "pos": 0.875
+    }, 
+    "impossible": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "impressed": {
+        "neg": 0.125, 
+        "pos": 0.125
+    }, 
+    "impression": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "improve": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "improvement": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "improvements": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "improves": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "improving": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "in": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "includes": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "including": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "increase": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "increasing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "indeed": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "independent": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "index": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "indispensable": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "inferring": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "influence": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "influenced": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "influences": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "inform": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "information": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "informations": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "informed": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "innovative": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "input": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "inside": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "inspiration": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "install": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "instance": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "instead": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "instruct": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "instructed": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "instruction": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "instructions": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "integrate": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "integration": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "intelligence": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "intelligent": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "inter": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "interact": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "interacting": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "interaction": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "interactions": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "interconnected": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "interesting": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "interpersonal": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "intersection": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "intertwine": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "into": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "intrinsic": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "introduced": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "inverse": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "irrelevant": {
+        "neg": 0.625, 
+        "pos": 0.0
+    }, 
+    "is": {
+        "neg": 0.125, 
+        "pos": 0.25
+    }, 
+    "it": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "items": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "its": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "itself": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "job": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "journal": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "journals": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "joy": {
+        "neg": 0.25, 
+        "pos": 0.5
+    }, 
+    "just": {
+        "neg": 0.0, 
+        "pos": 0.625
+    }, 
+    "justified": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "keep": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "keynote": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "keywords": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "kind": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "kinds": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "king": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "knew": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "know": {
+        "neg": 0.0, 
+        "pos": 0.625
+    }, 
+    "knowing": {
+        "neg": 0.25, 
+        "pos": 0.125
+    }, 
+    "knowledge": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "knowledges": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "known": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "landmark": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "landmarks": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "language": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "languages": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "larger": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "last": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "later": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "latter": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "layer": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "layers": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "lead": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "leads": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "learn": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "learned": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "learning": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "learns": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "least": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "lecture": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "lectures": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "led": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "lee": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "left": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "legs": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "less": {
+        "neg": 0.375, 
+        "pos": 0.125
+    }, 
+    "let": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "letters": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "letting": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "level": {
+        "neg": 0.25, 
+        "pos": 0.0
+    }, 
+    "levels": {
+        "neg": 0.25, 
+        "pos": 0.0
+    }, 
+    "license": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "life": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "light": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "lights": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "like": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "likely": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "lines": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "linguistics": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "literally": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "little": {
+        "neg": 0.25, 
+        "pos": 0.0
+    }, 
+    "live": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "lived": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "lives": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "living": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "ll": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "load": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "local": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "location": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "long": {
+        "neg": 0.375, 
+        "pos": 0.375
+    }, 
+    "longer": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "look": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "looking": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "lose": {
+        "neg": 0.5, 
+        "pos": 0.0
+    }, 
+    "lot": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "lots": {
+        "neg": 0.25, 
+        "pos": 0.0
+    }, 
+    "loud": {
+        "neg": 0.125, 
+        "pos": 0.375
+    }, 
+    "love": {
+        "neg": 0.0, 
+        "pos": 0.625
+    }, 
+    "lower": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "lucky": {
+        "neg": 0.0, 
+        "pos": 0.75
+    }, 
+    "machine": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "machines": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "made": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "magic": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "mail": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "mainly": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "maintain": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "major": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "majoring": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "make": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "makes": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "making": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "malicious": {
+        "neg": 0.625, 
+        "pos": 0.25
+    }, 
+    "manage": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "manages": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "many": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "map": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "march": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "market": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "massive": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "matches": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "matching": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "material": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "materials": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "mathematical": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "mathematically": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "mathematics": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "matrices": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "matrix": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "may": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "maybe": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "me": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "mean": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "meaning": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "meaningful": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "meanings": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "means": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "meantime": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "mechanisms": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "media": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "meet": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "memorized": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "memory": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "mental": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "mentioned": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "message": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "messy": {
+        "neg": 0.875, 
+        "pos": 0.0
+    }, 
+    "metaphor": {
+        "neg": 0.5, 
+        "pos": 0.0
+    }, 
+    "method": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "methods": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "middle": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "might": {
+        "neg": 0.5, 
+        "pos": 0.375
+    }, 
+    "minds": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "minutes": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "missing": {
+        "neg": 0.25, 
+        "pos": 0.0
+    }, 
+    "mobile": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "model": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "models": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "modern": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "monitor": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "monitoring": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "more": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "moreover": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "most": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "move": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "moves": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "movie": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "movies": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "much": {
+        "neg": 0.125, 
+        "pos": 0.125
+    }, 
+    "multiple": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "muscles": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "music": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "must": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "my": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "myself": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "nations": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "natural": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "navigate": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "navigation": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "nearly": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "necessary": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "need": {
+        "neg": 0.125, 
+        "pos": 0.125
+    }, 
+    "needs": {
+        "neg": 0.125, 
+        "pos": 0.125
+    }, 
+    "nerves": {
+        "neg": 0.25, 
+        "pos": 0.0
+    }, 
+    "network": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "networks": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "neural": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "never": {
+        "neg": 0.625, 
+        "pos": 0.0
+    }, 
+    "nevertheless": {
+        "neg": 0.5, 
+        "pos": 0.125
+    }, 
+    "new": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "news": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "next": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "nick": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "night": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "no": {
+        "neg": 0.25, 
+        "pos": 0.0
+    }, 
+    "noise": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "non": {
+        "neg": 0.625, 
+        "pos": 0.0
+    }, 
+    "not": {
+        "neg": 0.625, 
+        "pos": 0.0
+    }, 
+    "notable": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "notes": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "notice": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "now": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "nowadays": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "number": {
+        "neg": 0.375, 
+        "pos": 0.0
+    }, 
+    "numbers": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "numerical": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "numerous": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "object": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "objects": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "observe": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "obtain": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "obviously": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "occasions": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "ocean": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "octagon": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "of": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "offending": {
+        "neg": 0.375, 
+        "pos": 0.125
+    }, 
+    "offer": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "office": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "old": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "on": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "once": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "one": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "only": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "open": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "opened": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "opinion": {
+        "neg": 0.625, 
+        "pos": 0.0
+    }, 
+    "opinions": {
+        "neg": 0.625, 
+        "pos": 0.0
+    }, 
+    "opportunity": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "opposite": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "optimize": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "or": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "order": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "organization": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "organized": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "original": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "originates": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "other": {
+        "neg": 0.625, 
+        "pos": 0.0
+    }, 
+    "others": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "our": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "ourselves": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "out": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "outperform": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "output": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "outside": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "over": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "overflow": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "own": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "page": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "palace": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "papers": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "part": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "participants": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "particular": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "parts": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "passed": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "passengers": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "past": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "people": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "perceive": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "perceived": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "perceives": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "perceiving": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "perception": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "perceptual": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "perfectly": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "performance": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "performances": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "performing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "performs": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "period": {
+        "neg": 0.125, 
+        "pos": 0.125
+    }, 
+    "person": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "personal": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "phases": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "phenomenon": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "philosophy": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "phones": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "photos": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "physical": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "picture": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "pictures": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "piece": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "pixel": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "pixels": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "place": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "places": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "plan": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "planning": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "play": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "playing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "plays": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "point": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "points": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "popular": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "positive": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "possibility": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "post": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "postmen": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "posts": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "potential": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "potentially": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "powerful": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "practical": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "practice": {
+        "neg": 0.125, 
+        "pos": 0.25
+    }, 
+    "precise": {
+        "neg": 0.0, 
+        "pos": 0.75
+    }, 
+    "preferences": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "premier": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "premise": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "preparing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "presentation": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "presented": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "pretty": {
+        "neg": 0.125, 
+        "pos": 0.875
+    }, 
+    "prevent": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "prevents": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "previous": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "previously": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "principle": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "privacies": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "private": {
+        "neg": 0.125, 
+        "pos": 0.25
+    }, 
+    "problem": {
+        "neg": 0.625, 
+        "pos": 0.0
+    }, 
+    "problems": {
+        "neg": 0.625, 
+        "pos": 0.0
+    }, 
+    "process": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "processes": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "processing": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "products": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "professors": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "program": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "programmer": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "propagated": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "propagation": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "proper": {
+        "neg": 0.0, 
+        "pos": 0.75
+    }, 
+    "properly": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "properties": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "prospective": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "provide": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "provided": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "psychology": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "pure": {
+        "neg": 0.125, 
+        "pos": 0.375
+    }, 
+    "purpose": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "put": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "quality": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "quantitative": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "quantitatively": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "quantity": {
+        "neg": 0.375, 
+        "pos": 0.0
+    }, 
+    "question": {
+        "neg": 0.25, 
+        "pos": 0.125
+    }, 
+    "questions": {
+        "neg": 0.25, 
+        "pos": 0.125
+    }, 
+    "quite": {
+        "neg": 0.625, 
+        "pos": 0.0
+    }, 
+    "raise": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "rather": {
+        "neg": 0.5, 
+        "pos": 0.5
+    }, 
+    "rating": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "ratings": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "ratio": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "rational": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "raw": {
+        "neg": 0.25, 
+        "pos": 0.0
+    }, 
+    "re": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "reach": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "reaction": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "reactions": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "reacts": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "read": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "reading": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "ready": {
+        "neg": 0.25, 
+        "pos": 0.0
+    }, 
+    "real": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "realistic": {
+        "neg": 0.25, 
+        "pos": 0.25
+    }, 
+    "realized": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "really": {
+        "neg": 0.0, 
+        "pos": 0.625
+    }, 
+    "reason": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "receive": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "received": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "receiver": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "receiving": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "recent": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "recently": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "recognition": {
+        "neg": 0.375, 
+        "pos": 0.25
+    }, 
+    "recognize": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "recommend": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "recommendation": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "recommendations": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "recommends": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "reconstructed": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "reconstructing": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "red": {
+        "neg": 0.375, 
+        "pos": 0.0
+    }, 
+    "reduce": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "reduced": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "reduces": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "reference": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "refers": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "reflections": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "regard": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "regulation": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "relate": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "related": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "relates": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "relationships": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "released": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "reliable": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "relies": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "rely": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "remember": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "remind": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "replaced": {
+        "neg": 0.5, 
+        "pos": 0.0
+    }, 
+    "represent": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "representation": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "representational": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "representations": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "represented": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "represents": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "research": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "researches": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "respectively": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "response": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "responsible": {
+        "neg": 0.0, 
+        "pos": 0.625
+    }, 
+    "responsive": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "result": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "resulted": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "results": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "retrieve": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "retrieving": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "reveal": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "reversely": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "review": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "reviewing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "right": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "rights": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "road": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "robot": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "role": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "rooms": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "route": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "rules": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "running": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "safari": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "safe": {
+        "neg": 0.0, 
+        "pos": 0.625
+    }, 
+    "same": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "save": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "saved": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "say": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "says": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "scene": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "schema": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "school": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "science": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "scientific": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "scientists": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "screen": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "screens": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "sec": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "second": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "secondly": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "secret": {
+        "neg": 0.25, 
+        "pos": 0.0
+    }, 
+    "security": {
+        "neg": 0.125, 
+        "pos": 0.5
+    }, 
+    "see": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "seeing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "seem": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "seems": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "seen": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "selection": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "self": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "semantic": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "sender": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "sense": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "sensed": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "senses": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "sensing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "sensors": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "sent": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "sentence": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "sentiment": {
+        "neg": 0.25, 
+        "pos": 0.125
+    }, 
+    "sequence": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "serious": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "serve": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "server": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "servers": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "serves": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "set": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "sets": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "setting": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "several": {
+        "neg": 0.5, 
+        "pos": 0.0
+    }, 
+    "shape": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "shaping": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "share": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "shared": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "sharing": {
+        "neg": 0.375, 
+        "pos": 0.0
+    }, 
+    "she": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "should": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "show": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "shown": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "shows": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "side": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "sign": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "signal": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "signals": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "signified": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "signifier": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "signify": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "signs": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "silly": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "similar": {
+        "neg": 0.25, 
+        "pos": 0.375
+    }, 
+    "similarity": {
+        "neg": 0.375, 
+        "pos": 0.375
+    }, 
+    "simple": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "simpler": {
+        "neg": 0.375, 
+        "pos": 0.125
+    }, 
+    "simply": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "simulated": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "since": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "situation": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "situations": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "size": {
+        "neg": 0.375, 
+        "pos": 0.125
+    }, 
+    "skills": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "skipping": {
+        "neg": 0.5, 
+        "pos": 0.0
+    }, 
+    "slowly": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "small": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "smaller": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "smart": {
+        "neg": 0.625, 
+        "pos": 0.0
+    }, 
+    "smarter": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "smiling": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "so": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "social": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "society": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "software": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "solve": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "solved": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "solving": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "some": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "somehow": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "someone": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "someplace": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "something": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "sometimes": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "sounds": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "source": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "sources": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "space": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "specific": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "speed": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "spoken": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "spreading": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "stack": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "stage": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "staircases": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "stare": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "start": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "starts": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "statement": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "states": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "station": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "step": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "steps": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "stick": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "stickers": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "still": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "stimuli": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "stolen": {
+        "neg": 0.5, 
+        "pos": 0.0
+    }, 
+    "stop": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "store": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "stores": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "story": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "striking": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "striving": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "strongly": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "structure": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "structures": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "student": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "students": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "studied": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "study": {
+        "neg": 0.125, 
+        "pos": 0.125
+    }, 
+    "stupid": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "style": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "subject": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "subjects": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "subtle": {
+        "neg": 0.25, 
+        "pos": 0.5
+    }, 
+    "success": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "successful": {
+        "neg": 0.0, 
+        "pos": 0.625
+    }, 
+    "such": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "suddenly": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "suffering": {
+        "neg": 0.375, 
+        "pos": 0.0
+    }, 
+    "suggests": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "summary": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "summer": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "super": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "supervised": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "support": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "sure": {
+        "neg": 0.5, 
+        "pos": 0.25
+    }, 
+    "surrounding": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "surroundings": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "sustained": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "symbol": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "symbols": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "system": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "systems": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "take": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "takes": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "taking": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "talk": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "talked": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "talking": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "talks": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "tasks": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "taxi": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "tech": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "technologies": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "technology": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "telephones": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "tell": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "temperature": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "term": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "terminologies": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "test": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "tested": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "text": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "texture": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "than": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "that": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "the": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "their": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "them": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "themselves": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "then": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "theoretical": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "theory": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "there": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "therefore": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "these": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "they": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "thing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "things": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "think": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "thinking": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "third": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "this": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "thoroughly": {
+        "neg": 0.0, 
+        "pos": 0.625
+    }, 
+    "those": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "thought": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "three": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "through": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "thus": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "time": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "times": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "to": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "today": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "together": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "told": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "took": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "tool": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "tools": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "top": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "topic": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "topics": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "totally": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "towards": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "trace": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "traditional": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "traditionally": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "traffic": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "traffics": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "trailer": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "trailers": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "training": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "transformation": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "translate": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "translates": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "translations": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "transmission": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "transmit": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "transmitted": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "transmitter": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "transmitting": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "travel": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "tree": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "trend": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "trick": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "tried": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "true": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "truth": {
+        "neg": 0.0, 
+        "pos": 0.625
+    }, 
+    "try": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "trying": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "turn": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "tutor": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "tutorial": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "two": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "type": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "ultimate": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "unbelievable": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "uncertain": {
+        "neg": 0.125, 
+        "pos": 0.25
+    }, 
+    "uncertainty": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "under": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "underlying": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "understand": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "understandable": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "understanding": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "understandings": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "understands": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "undoubtedly": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "unfortunately": {
+        "neg": 0.875, 
+        "pos": 0.0
+    }, 
+    "unintuitive": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "union": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "unique": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "united": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "unless": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "unnecessary": {
+        "neg": 0.25, 
+        "pos": 0.25
+    }, 
+    "unsupervised": {
+        "neg": 0.5, 
+        "pos": 0.125
+    }, 
+    "up": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "updating": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "upgrading": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "upon": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "us": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "usage": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "use": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "used": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "useful": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "user": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "users": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "uses": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "using": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "usually": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "values": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "varies": {
+        "neg": 0.375, 
+        "pos": 0.125
+    }, 
+    "vectors": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "vehicle": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "vertical": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "very": {
+        "neg": 0.0, 
+        "pos": 0.5
+    }, 
+    "vessels": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "video": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "view": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "viewed": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "violence": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "vision": {
+        "neg": 0.25, 
+        "pos": 0.25
+    }, 
+    "visions": {
+        "neg": 0.25, 
+        "pos": 0.25
+    }, 
+    "visit": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "visual": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "vivid": {
+        "neg": 0.0, 
+        "pos": 0.625
+    }, 
+    "vividly": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "voice": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "waiting": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "walk": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "walking": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "want": {
+        "neg": 0.25, 
+        "pos": 0.0
+    }, 
+    "was": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "watch": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "wave": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "waves": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "way": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "ways": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "we": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "weaver": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "website": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "websites": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "week": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "weigh": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "weight": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "weighting": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "well": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "were": {
+        "neg": 0.125, 
+        "pos": 0.25
+    }, 
+    "what": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "when": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "whenever": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "where": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "whether": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "which": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "while": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "white": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "who": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "whole": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "why": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "will": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "winners": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "wins": {
+        "neg": 0.0, 
+        "pos": 0.125
+    }, 
+    "with": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "without": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "witnessing": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "won": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "wondering": {
+        "neg": 0.0, 
+        "pos": 0.375
+    }, 
+    "word": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "words": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "work": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "workers": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "working": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "works": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "world": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "would": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "wrong": {
+        "neg": 0.75, 
+        "pos": 0.0
+    }, 
+    "wrongly": {
+        "neg": 0.5, 
+        "pos": 0.0
+    }, 
+    "yahoo": {
+        "neg": 0.75, 
+        "pos": 0.125
+    }, 
+    "yeah": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "year": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "years": {
+        "neg": 0.0, 
+        "pos": 0.0
+    }, 
+    "yep": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "yes": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "yet": {
+        "neg": 0.0, 
+        "pos": 0.25
+    }, 
+    "you": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "young": {
+        "neg": 0.125, 
+        "pos": 0.0
+    }, 
+    "your": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "yours": {
+        "neg": 0, 
+        "pos": 0
+    }, 
+    "zero": {
+        "neg": 0.25, 
+        "pos": 0.25
+    }
+}
