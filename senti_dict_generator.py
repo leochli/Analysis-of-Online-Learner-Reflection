@@ -10,28 +10,19 @@ from nltk.corpus import sentiwordnet as swn
 
 
 rootdir = 'blog and comments/'
-post1_dict = {}
-post2_dict = {}
-post3_dict = {}
-post4_dict = {}
+comments_rootdir = 'received blog comments/'
 
-student_dicts = {}
+
 senti_dict = {}
 
 for subdir, dirs, files in os.walk(rootdir):
 
 	#Collect all the data in blog posts and comments
-	
-	student_name = os.path.basename(os.path.normpath(subdir))
-	#Create a collector for each individual students
-	if (student_name != 'blog and comments'):
-		student_dicts[student_name] = {}
 
 	for file in files:
 		#Collect data for blog post 1 from all students
 		if file == 'Blog Post 1.txt':
 			with open(os.path.join(subdir,file),'r') as f:
-				word_dict = {}
 				article = f.read()
 				wordlist = nltk.WordPunctTokenizer().tokenize(article)
 				d = enchant.Dict("en_US")
@@ -55,7 +46,6 @@ for subdir, dirs, files in os.walk(rootdir):
 
 		if file == 'Blog Post 2.txt':
 			with open(os.path.join(subdir,file),'r') as f:
-				word_dict = {}
 				article = f.read()
 				wordlist = nltk.WordPunctTokenizer().tokenize(article)
 				d = enchant.Dict("en_US")
@@ -77,7 +67,6 @@ for subdir, dirs, files in os.walk(rootdir):
 
 		if file == 'Blog Post 3.txt':
 			with open(os.path.join(subdir,file),'r') as f:
-				word_dict = {}
 				article = f.read()
 				wordlist = nltk.WordPunctTokenizer().tokenize(article)
 				d = enchant.Dict("en_US")
@@ -99,7 +88,6 @@ for subdir, dirs, files in os.walk(rootdir):
 
 		if file == 'Blog Post 4.txt':
 			with open(os.path.join(subdir,file),'r') as f:
-				word_dict = {}
 				article = f.read()
 				wordlist = nltk.WordPunctTokenizer().tokenize(article)
 				d = enchant.Dict("en_US")
@@ -147,7 +135,6 @@ for subdir, dirs, files in os.walk(rootdir):
 				print(subdir, len(article_comments[0]),len(article_comments[1]),len(article_comments[2]),len(article_comments[3]))
 
 			for index, article in enumerate(article_comments):
-				word_dict = {}
 				wordlist = nltk.WordPunctTokenizer().tokenize(article)
 				d = enchant.Dict("en_US")
 				#Lowercase							
@@ -164,7 +151,29 @@ for subdir, dirs, files in os.walk(rootdir):
 								neg = swn.senti_synset(senti_word.name()).neg_score()
 								senti_dict[word]['pos'] = pos
 								senti_dict[word]['neg'] = neg
-							
+
+for subdir, dirs, files in os.walk(comments_rootdir):
+	for file in files:
+		if file.endswith('.txt'):
+			with open(os.path.join(subdir,file), 'rb') as comments_f:
+				article = comments_f.read()
+				wordlist = nltk.WordPunctTokenizer().tokenize(article)
+				d = enchant.Dict("en_US")
+				#Lowercase
+				wordlist = map(lambda x:x.lower(),wordlist)
+				for word, pos in nltk.pos_tag(wordlist):
+					#Check if the word is a valid english word
+					if (d.check(word) and len(word) >= 2):
+						#Construct sentiment directory
+						if word not in senti_dict:
+							senti_dict[word] = {'pos':0, 'neg':0}
+							if wn.synsets(word):
+								senti_word = wn.synsets(word)[0]
+								pos = swn.senti_synset(senti_word.name()).pos_score()
+								neg = swn.senti_synset(senti_word.name()).neg_score()
+								senti_dict[word]['pos'] = pos
+								senti_dict[word]['neg'] = neg
+						
 
 
 with open('senti_dict.txt','wb') as senti_f:
