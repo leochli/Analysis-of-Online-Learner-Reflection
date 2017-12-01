@@ -1,0 +1,389 @@
+﻿----------------------- Page 1-----------------------
+
+     IERG3320/ESTR3306 
+ Social Media and Human Social Media and Human  
+  Information Interactions 
+
+Week Ten (I): Social Media Analytics 
+
+           Prof. Rosanna Y.-Y. Chan 
+             6 November 2017 
+
+----------------------- Page 2-----------------------
+
+        Information and Big Data 
+
+•   Information is truthful, well-formed, and meaningful  
+   datadata ((FloridiFloridi, 2005, 2005).). 
+     –  It is possible to turn data into information. 
+
+•   Nowadays, big data has become a popular  
+    phenomenon.  
+
+•• These data come from everywhere: E.g., sensors for These data come from everywhere: E.g., sensors for  
+   gathering climate, traffic, and flight information, user- 
+   generated contents (texts, digital images, and videos  
+    etc.) in social media sites, cell phone GPS signals, etc. 
+
+                                                                                     2 
+
+----------------------- Page 3-----------------------
+
+       Social Media and Big Data 
+
+•  Social media has become one of the most important  
+    data sources for big data.data sources for big data. 
+
+•  Social Big Data is a term that combines social media  
+    and big data (Bello-Orgaz, Jung, and Camacho, 2015),  
+   with a strong focus on social media. 
+
+•• The analysis of social big data involves techniques in The analysis of social big data involves techniques in  
+    multiple areas including data mining, machine  
+    learning, graph theory, statistics, information retrieval,  
+    and natural language processing. 
+
+                                                                                     3 
+
+----------------------- Page 4-----------------------
+
+               Social Big Data Analysis 
+
+                                                           •   Social media is the  
+                                                               source for social big source for social big  
+                                                               data analysis. 
+                                                           •   Big data is a parallel  
+                                                               and massive  
+                                                               processing technology  
+                                                               paradigm. 
+                                                           ••  Data analysisData analysis includes includes  
+                                                               a set of algorithms and  
+                                                               methods used to  
+                                                               extract and the data. 
+
+•   The conceptual map of social big data (Image source:  Bello-Orgaz et al, 2015) 
+                                                                                                4 
+
+----------------------- Page 5-----------------------
+
+  Social Media Content Analysis and  
+     Its Relationship to “Information” 
+
+                                                                      One way for people to  
+                                                                      express their beliefs  
+                                                                      towards goods and towards goods and  
+                                                                      services is to provide  
+                                                                      opinions through  
+                                                                      online commenting (in  
+                                                                      form of written  
+                                                                       language).  
+
+                                                                      We can employ We can employ natural natural  
+                                                                       language processing  
+                                                                      and machine learning  
+Three modes of information and the pace layers of                     techniques to analyze  
+information.                                                          the textual contents  
+
+                                                                      and learn about the  
+                                                                       users’ belief and  
+                                                                      sentiments.                  5 
+
+----------------------- Page 6-----------------------
+
+          Social Media Analytics 
+
+•  Analytics is to make sense of the data and  
+   uncover meaningful trends (uncover meaningful trends (MarrsMarrs, 2016), 2016) 
+
+   Three steps in social media analytics: 
+•  Step 1: Collect Data from Social Media Sites 
+••  Step 2: Perform analyticsStep 2: Perform analytics 
+•  Step 3: Interpret insights 
+
+                                                                               6 
+
+----------------------- Page 7-----------------------
+
+   Social Media Analytics: Methods  
+                     and Algorithms 
+
+•  Social Network Analysis (SNA) 
+     –– To analyze the structure of the social networkTo analyze the structure of the social network 
+     –  Based on  graph theory 
+     –  Compute SNA indexes such as density, and centralities  
+        e.g., degree (out-degree and in-degree), closeness and  
+        betweenness. 
+
+•  Social Media Content Analysis 
+     ––  Mostly text analytic (analysis of the textual contents)Mostly text analytic (analysis of the textual contents) 
+     –  Based on techniques in natural language processing, data  
+        mining, and machine learning 
+     –  Examples include topic modeling, trend analysis, and  
+        sentiment analysis 
+
+                                                                                     7 
+
+----------------------- Page 8-----------------------
+
+Case Study          Social Media Analytics on 
+
+                                 Twitter Data 
+
+    (Park, Ok and Chae, 2015) 
+    ••  Studied Twitter data Studied Twitter data related to cruise related to cruise travel.travel. 
+    •  Provides a holistic review of the cruise industry  
+       and communication patterns among diverse  
+       stakeholders. 
+    •  Analyzed tweets by three types of user groups: 
+        – Commercial 
+        –– News/blogs; andNews/blogs; and 
+        – Private. 
+    •  Results suggest feasible 
+       marketing strategies. 
+
+                                                                                   8 
+                                                      (Image source: cruisecritic.com) 
+
+----------------------- Page 9-----------------------
+
+Case Study         Social Media Analytics on 
+
+                                Twitter Data 
+
+    •  Twitter has become a useful data source for  
+       addressing business and societal addressing business and societal problems.problems. 
+
+    •  Twitter data are available to businesses and  
+       researchers through the Twitter APIs. (e.g., see  
+       https://developer.twitter.com/en/docs) 
+        – Allow analysts to capture 1% random sample of all  
+          tweets passing through Twitter.tweets passing through Twitter. 
+        – Can also follow tweets from a specified set of up to  
+           5000 users. 
+        – While other social media platforms often restrict data  
+           collection (especially of user-generated content)  
+           under their terms and conditions for use.) 
+
+                                                                                 9 
+
+----------------------- Page 10-----------------------
+
+Case Study 
+
+               Tweets 
+
+    •   Twitter allows users to  
+        compose short messages  
+        (called tweets). (called tweets).  
+    •   Each tweet contains two  
+        pieces of information: a  
+        text message itself and  
+        its metadata. 
+         –  Text message contains  
+            140 characters (or less). 
+         ––  The metadata includes a The metadata includes a  
+            diverse set of                         Example of Tweet data attributes 
+            information about user,  
+            language, location,                                                   Message 
+            follower, retweet count,  
+            followers, etc. 
+                                                                                    Metadata 
+
+                                                                                            10 
+
+----------------------- Page 11-----------------------
+
+Case Study 
+
+      Social Relationships in Tweets 
+
+   •  Twitter allows different types of social  
+       relationships through Twitter features and user relationships through Twitter features and user  
+       interactions, which include 
+       – Follow 
+       – Reply 
+       – Retweet 
+
+   •  Other Twitter features include 
+       – Favorite 
+       – Hashtag (#) 
+
+                                                                             11 
+
+----------------------- Page 12-----------------------
+
+Case Study 
+
+                           Twitter Data 
+
+    •  Twitter data allows analysts to investigate  
+        different aspects includingdifferent aspects including 
+
+              • Social network association (through “follow”) 
+Social  
+Network       • Communication pattern (through “reply” and  
+Analysis        “mention”) 
+(SNA) 
+              •  Information diffusion (through “retweets”); and  
+ Social       •• Communities of practice (through selecting a subgroup Communities of practice (through selecting a subgroup  
+ Media          with hashtag) 
+ Content  
+              • Tweets contents 
+ Analysis 
+
+                                                                                         12 
+
+----------------------- Page 13-----------------------
+
+Case Study 
+
+                     Data Collection 
+
+   •  In the study, Twitter data about cruise tours  
+       (for about one month) were collected. (for about one month) were collected.  
+   •  Tweets containing search words are collected  
+       and archived. 
+       – Cruise-related hashtags like #cruise and  
+          ##cruisechatcruisechat were used as the keywords in Twitter were used as the keywords in Twitter  
+          API to collect targeted tweets and their metadata.  
+
+   •  The final dataset contained 42,785 tweets. 
+   •  Gephi (https://gephi.org/) was used for SNA. 
+
+                                                                             13 
+
+----------------------- Page 14-----------------------
+
+Case Study 
+
+                                Results 
+
+    •  Entire network with tweets regarding cruise travel  
+       (42,785 tweets).(42,785 tweets). 
+    •  There exists several large user subgroups in the  
+       network.  
+
+                                                                                    14 
+
+----------------------- Page 15-----------------------
+
+Case Study 
+
+                              Results 
+
+    •  The largest subgroup  
+       (Group 1) represents (Group 1) represents  
+       12.97% of all users 
+
+    •  @TheCarlosPena, a singer  
+       and actor with over 2.5  
+       million followers, is the  
+       most central user.most central user. 
+        – This celebrity-centered  
+          group formed through more  
+          than 1900 retweets of a  
+          single tweet by the celebrity. 
+
+                                                                               15 
+
+----------------------- Page 16-----------------------
+
+Case Study 
+
+                              Results 
+
+   •  Group 2, the blogger- 
+       centered group, accounts centered group, accounts  
+       for 7.55% of the network.  
+   •  This group is a blogger  
+       (@CruiseMiss) in the  
+       United Kingdom (UK)  
+       who shares cruise who shares cruise  
+       tourism- related  
+       information and pictures.  
+
+                                                                              16 
+
+----------------------- Page 17-----------------------
+
+Case Study 
+
+                           Results 
+
+   •  Group 3 is a network  
+      centered around centered around  
+      cruise ship  
+      companies (5.43%).  
+   •  In this group, several  
+      active users like  
+      @@royalcaribbeanroyalcaribbean and and  
+      @cruisenorwegian 
+      are major cruise line  
+      companies. 
+
+                                                                         17 
+
+----------------------- Page 18-----------------------
+
+Case Study 
+
+                                 Results 
+
+    •  Group 4 is a network  
+       centered around travel  
+       agencies and accounts for agencies and accounts for  
+       5.3% of the overall  
+       network.  
+    •  In this group,  
+       @waldoworldtrvl, a travel  
+       agency, was the most  
+       central user.  
+    •• Like Group 1, Like Group 1,  
+       @waldoworldtrvl’s tweets  
+       draw much attention from  
+       other users, with more  
+       than 2000 retweets. 
+
+                                                                                      18 
+
+----------------------- Page 19-----------------------
+
+Case Study 
+
+         Discussion and Implications 
+
+    •  Further content analyses of three user groups  
+       (commercial, news/blogs, and private (commercial, news/blogs, and private  
+       individuals) shows that businesses and  
+       individuals have different purposes in mind when  
+       using Twitter in the context of cruise tourism. 
+        – For businesses, Twitter is used primarily for  
+           marketing and promotion; 
+        –– For news and tourism bloggers, it is used for For news and tourism bloggers, it is used for  
+           disseminating cruisedisseminating cruise--related news and information;related news and information; 
+        – For individual users, Twitter is used to share cruise  
+           experiences. (Individual users’ Tweets can be a  
+           valuable resource for effective marketing and  
+           promotion.) 
+
+                                                                                     19 
+
+----------------------- Page 20-----------------------
+
+                       References 
+
+•  Floridi, L., 2005, Semantic Conceptions of Information,  
+   Stanford Encyclopedia of Information, Zalta, E. N., ed.,  
+   StanfordStanford.. 
+•  G. Bello-Orgaz, J. J. Jung, and D. Camacho, 2016,  
+   “Social big data: Recent achievements and new  
+   challenges”, Information Fusion, vol. 28, 45-59. 
+•  Megan Marrs, 2016, “The Difference Between Data,  
+   Analytics, and Insights”, URL:  
+   http://http://info.localytics.com/blog/differenceinfo.localytics.com/blog/difference--betweenbetween-- 
+   data-analytics-insights 
+•  Park, S., Ok, C. & Chae, B. (2015). Using Twitter Data  
+   for Cruise Tourism Marketing and Research, Journal of  
+   Travel & Tourism Marketing. 
+
+                                                                               20 

@@ -1,0 +1,554 @@
+﻿----------------------- Page 1-----------------------
+
+IERG3320/ESTR3306 Social Media and  
+     Human Information Interaction 
+
+       Week Three (II): Information and  
+               Human Cognition (2) 
+
+                 Prof. Rosanna Y.-Y. Chan 
+                  22 September 2017 
+
+----------------------- Page 2-----------------------
+
+What did you have for lunch  
+               yesterday? 
+
+                                                           2 
+
+----------------------- Page 3-----------------------
+
+      Information as Thought and  
+                     Memory 
+
+•  “Information in the head” is the set of  
+   concepts and relationships active at a given  
+   time interval.  
+
+•  This condition may arise through 
+   – introspection and reflection on concepts or  
+      events recalled from memory; or 
+   – external stimuli acquired by our perceptual  
+      system. 
+
+                                                               3 
+
+----------------------- Page 4-----------------------
+
+      Information as Thought and  
+                     Memory 
+
+•  Information as what we know depends on  
+   our perception and our memory .  
+   – Perception defines our instantaneous attention  
+      and awareness of the world.  
+   – Memory defines our past thought, sensations,  
+      and experiences. 
+
+•  Information in this sense is what is in our  
+   memory and what our perceptual system  
+   brings to thought. 
+
+                                                             4 
+
+----------------------- Page 5-----------------------
+
+   Social Context of Information 
+
+•  Example: Which card(s) you must turn over in  
+   order to verify the rule below?  
+   – The rule is: “If there is a vowel on one side of the  
+      card, then there is an even number on the other  
+      side of the card .” 
+
+   4               A                L                7 
+
+                                                               5 
+
+----------------------- Page 6-----------------------
+
+    Social context of information 
+
+•  The correct solution is A and 7 
+•  Now add some social meaning: “if a person uses  
+   public transportation, he must have a valid ticket.”  
+
+                                          Person 
+  Person has        Person uses                             Person 
+                                         does not 
+    a valid            public                               has no 
+                                        use public 
+     ticket        transportation                         valid ticket 
+                                      transportation 
+
+•  Introducing a social context may change the  
+   mediating processes in logical reasoning. 
+
+                                                                        6 
+
+----------------------- Page 7-----------------------
+
+     Human Information Processing 
+
+                  Stimulus events                                 Behavioral response 
+
+External environment 
+
+Human cognitive  
+system 
+
+ Working                                   Initial encoding        Further inferences 
+  Memory             Perception             categorization        decisions/judgments 
+
+  Long Term  
+  Memory                                              Organized knowledge 
+
+                                                                                             7 
+
+----------------------- Page 8-----------------------
+
+ Human Information Processing 
+
+•  Signals flow from the world to our brains  
+   (through our senses) and only upon working  
+   memory deciding whether to use the signal does  
+   it become information. 
+
+•  Information received from the external world  
+   can result in the change our mental state. 
+
+•  E.g., receiving the family’s reply to your party  
+   invitation.  
+
+                                                                  8 
+
+----------------------- Page 9-----------------------
+
+Human Information Processing 
+
+               •  For example, 
+                   – Light streaming through our eyes  
+                     activates sensor cells in our retinas  
+                     that, in turn, are propagated along  
+                     nerve cells to our working memory. 
+                   – Working memory activates and  
+                     compares long term memory images  
+                     (recognition), computes (decides)  
+                     whether subsequent mental or motor  
+                     action is necessary, and if so, executes  
+                     action (e.g., remember, write down the  
+                     number). 
+
+                                                                     9 
+
+----------------------- Page 10-----------------------
+
+10 
+
+----------------------- Page 11-----------------------
+
+                 Mental Models 
+
+•  Suppose you visit a new country in which all  
+   pedestrians can walk on a red light but need to stop  
+   at green light. 
+    – You cannot immediately know why the traffic signals are  
+       encoded in this way, but you can adapt instantaneously if  
+      you do not want to get hit by the cars. 
+
+•  We always start with what we have learned and try  
+   to reconstruct our thought and knowledge on that  
+   basis in order to adapt to new situations. 
+
+                                                                         11 
+
+----------------------- Page 12-----------------------
+
+              Mental Models 
+
+•  If the new information corresponds to  
+   something that you have already known, no  
+   adaptation is needed 
+
+•  Else, an adaptation is needed, then it causes a  
+   change in our mental models. 
+
+•  We organize our knowledge within our mind  
+   as cognitive schemas. 
+
+                                                             12 
+
+----------------------- Page 13-----------------------
+
+            Cognitive Schemas 
+
+•  Cognitive  
+   psychologists  
+   suggest that we  
+   represent and  
+   organize our  
+   knowledge in mind  
+   in form of  
+   interconnected  
+   networks of simple  
+   units (e.g., a  
+   semantic network).  
+                               Image source: (Collins and Loftus, 1975) 
+
+                                                                   13 
+
+----------------------- Page 14-----------------------
+
+            Cognitive Schemas 
+
+•  Schemas will be changed when we learn upon  
+   receiving new information. 
+
+•  According to Jean Piaget’s theory of cognitive  
+   development, we are born with certain innate  
+   schemas, as we encounter things in our  
+   surrounding environment, our schemas will be  
+   modified. 
+   – The schemas become more complex as the brain  
+      matures and when we acquire new knowledge. 
+
+                                                                 14 
+
+----------------------- Page 15-----------------------
+
+   Assimilation and Association 
+
+•  Piaget further suggests that we modify our  
+   cognitive schemas via two possible processes:  
+   assimilation and accommodation. 
+
+                Image source: (Dan MacIsaac, 1991) 
+                                                                     15 
+
+----------------------- Page 16-----------------------
+
+   Assimilation and Association 
+
+•  Assimilation happens when we encounter new  
+   information that can fit into our existing  
+   schema. 
+    – The new concept will be appended to an existing  
+      unit in the schema. 
+
+•  Accommodation happens when we encounter  
+   new information that cannot fit into our  
+   existing schema.  
+    – The schema will be restructured so as to include the  
+      new concept. 
+
+                                                                  16 
+
+----------------------- Page 17-----------------------
+
+     Neural Information Processing  
+            (Barsalou et al., 2003) 
+
+Representation of information in amodal symbol systems (Barsalou et al., 2003) 17 
+
+----------------------- Page 18-----------------------
+
+      Neural Information Processing  
+             (Barsalou et al., 2003) 
+
+Representation of information in perceptual symbol systems (Barsalou et al., 2003) 18 
+
+----------------------- Page 19-----------------------
+
+  Three Levels of Human Cognitive  
+                       Processing 
+
+•  Three vertical levels of human cognitive processing on  
+   information during open-ended problem solving  
+   (Kitchener, 1983): 
+    –  First Level: Cognition 
+    – Second Level: Metacognition 
+    – Third Level: Epistemic Cognition  knowing and  
+       knowledge 
+
+                                                  InformationInformation 
+
+                                                                            19 
+
+----------------------- Page 20-----------------------
+
+  Three Levels of Human Cognitive  
+                   Processing 
+
+•  (Kitchener, 1983): 
+•  Level 1: Cognition: individuals memorize,  
+   read, write, and perceive media. 
+
+•  Level 2: Metacognition: individuals monitor  
+   and self-regulate their own progress when  
+   they are engaged in these first-order tasks. 
+
+•  Level 3: Epistemic Cognition: individuals  
+   reflect on the limits of knowing, the certainty  
+   of knowing, and criteria of knowing. 
+
+                                                              20 
+
+----------------------- Page 21-----------------------
+
+        Three Levels of Human Cognitive  
+                                  Processing 
+
+•  Let’s try solving the following problem: 
+
+ A board was sawed into A board was sawed into     Solution: 
+ two piecestwo pieces: A and B: A and B. . AA 
+ was was 2/32/3 as long asas long as the the       Let the length of the  
+ whole boardwhole board, B , B was was 4 feet 4 feet  board be x. 
+ longer than A.longer than A. How long How long  
+ was the board before it was the board before it  
+                                                   A = 2/3 x 
+ was cut?was cut? 
+                                                   B = A + 4 
+                                                   … 
+
+                                                                                                      21 
+
+----------------------- Page 22-----------------------
+
+  Three Levels of Human Cognitive  
+                         Processing 
+
+•  Try another question: 
+
+            There are 26 sheep and 10 goats There are 26 sheep and 10 goats  
+            on a ship. How old is the captain?on a ship. How old is the captain? 
+
+•  Most adults have enough expertise to realize that  
+   this problem is unsolvable, but many school children  
+   didn’t realize this at all. 
+    –  More than 3/4 of the children in one study attempted to  
+       provide a numerical answer to the problems. 
+
+                                                                              22 
+
+----------------------- Page 23-----------------------
+
+  Three Levels of Human Cognitive  
+                    Processing 
+
+•  Let’s try this question, in which the answer is  
+   a number. 
+
+      Consider a double-decker bus. There are 10  
+         passengers on the lower deck, and 15  
+    passengers on the upper deck. The question is:  
+               How old is the bus captain? 
+
+                                                                 23 
+
+----------------------- Page 24-----------------------
+
+  Three Levels of Human Cognitive  
+                     Processing 
+
+•  In the previous example: 
+    – we were engaged in cognition (the first level)  
+      when we read the question;  
+    – we were engaged in metacognition (the second  
+      level) when we paid attention to particular part of  
+      the question (e.g. the numbers); and 
+    – we were engaged in epistemic cognition (the  
+      highest level) when we thought about whether  
+      we have enough knowledge and information to  
+      answer the question, as well as whether it is  
+      reasonable / logical to ask / answer the question. 
+
+                                                                  24 
+
+----------------------- Page 25-----------------------
+
+                     Cognition 
+
+•  When we come across new things, it would  
+   process in cognitive stage. 
+•  E.g. we read tweets from Twitter / watch a  
+   video from Youtube 
+
+                                                                 25 
+
+----------------------- Page 26-----------------------
+
+                 Metacognition 
+
+•  Metacognition is sometimes defined as “cognition  
+   about cognition”, or “knowing about knowing.”; e.g.: 
+    – Data processing: e.g. categorization of data and  
+      notes taking 
+    – Checking on current progress and identification of  
+      the working task 
+
+•  Metacognition helps people to perform many  
+   cognitive tasks more effectively.  
+
+                                                                    26 
+
+----------------------- Page 27-----------------------
+
+                     Metacognition 
+
+  •  Examples of metacognitive strategies in social  
+     websites 
+
+Youtube allows user to  
+add the watched video to  
+a categorized favorite list 
+
+                                                                                27 
+
+----------------------- Page 28-----------------------
+
+                  Metacognition 
+
+•  Examples of metacognitive strategies in social  
+   websites: Twitter’s browse categories 
+
+                                                                         28 
+
+----------------------- Page 29-----------------------
+
+            Epistemic Cognition 
+
+•  Epistemic cognition is an essential condition  
+   for solving real world open problems 
+   – which are very often ill-defined and unsolved, in  
+      contrast to puzzles with defined solutions. 
+
+•  Epistemic cognition can lead to innovation and  
+   new knowledge formation. 
+
+                                                                  29 
+
+----------------------- Page 30-----------------------
+
+              Epistemic Cognition 
+
+•  The 5-component Epistemic Cognition Framework (Chinn  
+   et al., 2011) 
+    –  Epistemic aims and values 
+    –  Structure of knowledge 
+    –  Source, justification, and epistemic stances 
+    –  Epistemic virtues and vices 
+    –  Process of achieving epistemic aims 
+
+•  EC is driven by epistemic aims such as knowing,  
+   understanding, justification, and new knowledge  
+   construction 
+
+•  Remark: EC has both individual and social dimensions.  
+
+                                                                              30 
+
+----------------------- Page 31-----------------------
+
+        Epistemology (知識論) 
+
+•  Epistemology is a central field of Philosophy. 
+
+•  Epistemology is the philosophical study of  
+   knowledge and knowing, which also referred  
+  to as “theory of knowledge”. 
+
+                    What is knowledge? 
+
+                                                              31 
+
+----------------------- Page 32-----------------------
+
+   Truth, Belief, and Knowledge 
+
+•  Truth is a relation that holds between a  
+   proposition and reality. 
+   – i.e. truth is the correspondence to reality 
+
+      It is raining. 
+
+                             Truth 
+      Proposition                              Reality 
+                         (correspondence) 
+
+                                                                 32 
+
+----------------------- Page 33-----------------------
+
+    Truth, Belief, and Knowledge 
+
+•  Belief is a relation between a believer and a  
+   proposition. 
+    – The relation here is “holding to be true” 
+
+•  Reality is the object of the proposition. 
+
+                             It is raining. 
+
+               Belief                          Truth 
+                             Proposition                    Reality 
+            (holding to be true)           (correspondence) 
+
+  Believer 
+
+                                                                        33 
+
+----------------------- Page 34-----------------------
+
+   Truth, Belief, and Knowledge 
+
+•  A classical definition for knowledge isjustified  
+   true belief (JTB). 
+•  A subject S knows that a proposition P is true  
+   if and only if: 
+    – P is true  
+    – S believes that P is true, and  
+    – S is justified in believing that P is true  
+
+                                                                       34 
+
+----------------------- Page 35-----------------------
+
+   Truth, Belief, and Knowledge 
+
+•  JTB is a generally accepted definition of knowledge but  
+   epistemologists are not all satisfy with it. 
+    – The knower may simply knows by luck through justified  
+       but invalid processes. 
+
+•  A better definition of knowledge 
+    –  Knowledge is true belief formulated in epistemically  
+       conscientious ways. 
+
+•  In later part of this course, we will explore how social  
+   media can facilitate our knowledge acquisition  
+   activities. 
+
+                                                                          35 
+
+----------------------- Page 36-----------------------
+
+References and Further Readings 
+
+•   Barsalou, L. W. et al. (2003). Grounding conceptual knowledge in  
+    modality-specific systems, Trends in Cognitive Sciences, 7(2), 84-91. 
+•   Chinn, C., Buckland, L. and Samarapungavan, A. Expanding the  
+    dimensions of epistemic cognition: arguments from philosophy and  
+    psychology. Educational Psychologist, 46, 3 (2011), 141-167. 
+•   Collins, A. M. & Loftus, E. F. (1975). A spreading activation theory of  
+    semantic processing, Psychological Review, 82, 407-428. 
+•   Kitchener, K.S. (1983). Cognition, metacognition, and epistemic cognition.  
+    Human Development 26, 222-232. 
+•   Marchionini, G. (2010). Information Concepts: From Books to Cyberspace  
+    Identities, Morgan & Claypool, 2010. (Chapter 5) 
+•   Pirnay-Dummer, P., Ifenthaler, D., and Seel, N. M. (2012). Designing  
+    Model-Based Learning Environments to Support Mental Models for  
+    Learning. In Jonassen, D. H. and Land, S. (Eds.) Theoretical Foundations of  
+    Learning Environments (2nd ed.) (pp. 66 - 94), New York, NY: Routledge. 
+
+                                                                                           36 

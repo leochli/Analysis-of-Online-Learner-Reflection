@@ -1,0 +1,530 @@
+﻿----------------------- Page 1-----------------------
+
+    IERG3320/ESTR3306 
+Social Media and Human Social Media and Human  
+ Information Interactions 
+
+Week Nine (II): Digital Information 
+
+          Prof. Rosanna Y.-Y. Chan 
+             3 November 2017 
+
+----------------------- Page 2-----------------------
+
+     Digital Cognition and Machine  
+                            Learning 
+
+•   Humans and digital  
+   agents learn in different agents learn in different  
+   directions.directions. 
+
+•  Whereas human  
+   cognition emerged  
+   from bodily perception  
+   and eventually  
+   developed the ability to developed the ability to  
+   think in terms of  
+   abstractions and  
+   symbols, digital  
+   computing works the  
+   other way around. 
+
+                                                                                   2 
+
+----------------------- Page 3-----------------------
+
+     Digital Cognition and Machine  
+                       Learning 
+
+•  We learn and understand by coupling  
+   information with context (e.g., the surrounding information with context (e.g., the surrounding  
+   environment and semantics.). 
+
+•  But digital technology decouples information  
+   from our context (and turns such information  
+   into bits). 
+
+•  For digital technology and machine learning, we  
+   need to produce representations of information  
+   with which computers can work. 
+
+                                                                     3 
+
+----------------------- Page 4-----------------------
+
+Example: Representation of smiley faces by  
+                           vectors.  
+
+        Eyes 
+
+                                                                mouth 
+
+                                                                                 4 
+
+----------------------- Page 5-----------------------
+
+Example: Representation of smiley faces by  
+                             vectors.  
+
+           Eyes 
+
+                                                          Each smiley face can  
+                                                          be represented by a  
+                     (2, 10)(2, 10) 
+                                      (5, 10)(5, 10)      vector with 2 elements vector with 2 elements  
+                                                          in a 2-dimensional  
+                                                          vector space. 
+
+                (1, 6) 
+
+                                              (6, 4) 
+
+                                                         (10, 1) 
+                                                                       mouth 
+
+                                                                                         5 
+
+----------------------- Page 6-----------------------
+
+Example: Representation of smiley faces with  
+                                 vectors.  
+
+        Dimension 2 
+
+                                                                Decontextualize the  
+                                                                smiley faces into two  
+                        (2, 10)(2, 10) 
+                                             (5, 10)(5, 10)     dimensional vectors.dimensional vectors. 
+
+                 (1, 6) 
+
+                                                  (6, 4)(6, 4) 
+
+                                                               (10, 1) 
+                                                                              Dimension 1 
+            0 
+
+                                                                                                 6 
+
+----------------------- Page 7-----------------------
+
+   Similarity Measures (Method 1): 
+                    Cosine Similarity 
+
+•   Item similarity in the vector space can be calculated by the  
+   cosine similarity. 
+•• Suppose Suppose v1v1 and and v2v2 are the vectors representing item 1 and are the vectors representing item 1 and  
+    item 2, respectively: 
+
+     Similarity(item 1, item 2) = 
+
+                                                                                     7 
+
+----------------------- Page 8-----------------------
+
+  (Revision on geometry and vector  
+                                      algebra) 
+
+•  Dot product of two vectors a and b 
+            aa ·· bb = |= |aa | | ××  ||bb | | ×× cos(θ)cos(θ) 
+
+                                             Where: 
+                                              |a | is the magnitude (length) of vectora 
+                                              |b | is the magnitude (length) of vector b 
+                                             θ is the angle between a and b 
+
+                                             Notes:Notes: 
+                                             |a| × |b| × cos(θ) = |a| × cos(θ) × |b|  
+                                             The result of dot product between two vectors is a scalar.  
+                                             The geometrical meaning of a dot product (inner product)  
+                                             of two vectors is, when vector a and b are drawn with a  
+                                             common start point, and we multiply the lengths of b and  
+                                             the “projection of a alongside b”, i.e. in the component of a 
+                                             that is in the same direction as b. Just like shining a light to  
+                                             see where the shadow lies. 
+
+              (Image source and reference: https://www.mathsisfun.com/algebra/vectors-dot-product.html)          8 
+
+----------------------- Page 9-----------------------
+
+         Cosine Similarity Calculation 
+
+    •  The cosine similarity between two vectors (the  
+         representation of two items representation of two items on the Vector Space) on the Vector Space)  
+        equals cos(θ). 
+    •  The value can range from 1 (same direction), 0  
+         (orthogonal), and to -1 (opposite directions).  
+
+    Case 1:                         Case 2:                         Case 3:  
+    The two items are similar       The two items are unrelated     The two items are opposite to each  
+    cos(θ) is near 1)               cos(θ) is near 0                other 
+                                                                    cos(θ) is near -1 
+
+(Image source: http://blog.christianperone.com/2013/09/machine-learning-cosine-similarity-for-vector-space-models-part-iii/) 9 
+
+----------------------- Page 10-----------------------
+
+   Cosine Similarity Calculation 
+
+•  Given a = (a , a  ) and b = (b , b  ) 
+                   1   2                1    2 
+
+                  a · b 
+•  cos(θ) = 
+               |a | ×  |b | 
+
+            = 
+
+E.g., a = (5, 4), b = (1, 6), cos(θ) = 0.7446 
+
+                                                                    10 
+
+----------------------- Page 11-----------------------
+
+Let’s try! 
+
+              Eyes 
+
+                                                                              Who is the most  
+                                                                              similar to him? 
+
+                         (2, 10)(2, 10)                                             (5, 4)(5, 4) 
+                                           (5, 10)(5, 10) 
+
+                     (1, 6) 
+
+                                                    (6, 4) 
+
+                                                                (10, 1) 
+                                                                              mouth 
+
+                                                                                                 11 
+
+----------------------- Page 12-----------------------
+
+    Similarity Measures (Method 2):  
+                     Euclidean Distance 
+
+•  Item similarity in the vector space can also be  
+    calculated by the calculated by the Euclidean Distance Euclidean Distance between between  
+    the two points (using the Pythagorean  
+    theorem). 
+
+                                               Euclidean Distance 
+
+                                 (p(p , q, q )) 
+                                   11  11        dd 
+
+                                                             (p , q ) 
+                                                               2   2 
+
+                                                                                                    12 
+
+----------------------- Page 13-----------------------
+
+Let’s try again! 
+
+              Eyes 
+
+                                                                             Who is the most  
+                                                                             similar to him? 
+
+                         (2, 10)(2, 10)                                            (5, 4)(5, 4) 
+                                           (5, 10)(5, 10) 
+
+                    (1, 6) 
+
+                                                   (6, 4) 
+
+                                                               (10, 1) 
+                                                                              mouth 
+
+                                                                                                13 
+
+----------------------- Page 14-----------------------
+
+         Similarity Measures: Cosine  
+    Similarity vs. Euclidean Distance 
+
+ •  Illustration with a 2-dimensional case 
+
+                                           Euclidean Distance 
+
+                             (x , y ) 
+                                1  1         d 
+
+                                                        (x , y ) 
+                                                          2   2 
+
+              Cosine            θ 
+
+             similaritysimilarity 
+
+•   In high dimensional data spaces, the similarity  
+    measure results by cosine similarity and Euclidean  
+    distance are very similar. (see e.g. Qian, 2004) 
+
+                                                                                               14 
+
+----------------------- Page 15-----------------------
+
+           Document Comparison 
+
+•  Which sentences are more similar to each other? 
+
+             “I am a student at this university.” 
+
+   “She is a student at HKU.” 
+
+                  “He is a student at UST.”“He is a student at UST.” 
+
+             “I am sleepy at this moment!” 
+
+                                                                     15 
+
+----------------------- Page 16-----------------------
+
+       Document Representation 
+
+•  A bag-of-words is a set of words that  
+   represents a document (e.g., a book or a represents a document (e.g., a book or a  
+   sentence); which: 
+    – Ignore any grammar, dependencies,  
+       punctuations, part-of-speech, etc. 
+    – Order of word is not important. 
+    –– E.g., E.g., “I like this course!” “I like this course!” = = {“I”, “like”, “this”, {“I”, “like”, “this”,  
+       “course”} = {“course”, “I”, “this”, “like”}  
+
+                                                                                16 
+
+----------------------- Page 17-----------------------
+
+ Similarity Measure for Documents 
+
+•  Jaccard Similarity (Jaccard’s Index) 
+    –– A similarity measure based on set operations.A similarity measure based on set operations. 
+    – Defined as the ratio between intersection and union  
+       of two given sets. 
+
+    – Can be used to calculate similarity between two  
+       documents given their bags of words. 
+    – But it does not care about whether the words are  
+       important or representative. 
+
+                                                                              17 
+
+----------------------- Page 18-----------------------
+
+                    Term Weighting 
+
+•   Term Frequency & Inverse Document Frequency  
+    ((TFTF--IDF)IDF) 
+•   Determine the importance of a word to a document 
+     –  By how often it appears in the document; and 
+     –  also by how rare it appears across the whole corpus. 
+
+          Nobel,        China, the,      Physics,        Chinese,       the, Hong,  
+          peace,         and, of,       Nobel, the,     China, the,     Kong, city,  
+          prize,        computer,       prize, and,      and, of,         and, of,  
+         book, of        science            of            people           Asia 
+
+                                                                                           18 
+
+----------------------- Page 19-----------------------
+
+Term Weighting 
+
+                           N = number of documents 
+
+                                                            19 
+
+----------------------- Page 20-----------------------
+
+                   Term Weighting 
+
+   Nobel,          China, the,          Physics,          Chinese,          the, Hong,  
+   peace,            and, of,         Nobel, the,        China, the,        Kong, city,  
+prize, book,        computer,         prize, and,          and, of,          and, of,  
+     of              science               of              people              Asia 
+
+                                                                                             20 
+
+----------------------- Page 21-----------------------
+
+              Vector Space Model 
+
+•  Given a weighting scheme of terms in a  
+   document, we can represent a document as a document, we can represent a document as a  
+   vector in a multi-dimensional space:  
+    v   = (w , w , … , w ) 
+     d         1     2           n 
+
+••  where each element (where each element (ww ) represents the ) represents the tftf--idfidf 
+                                           i 
+   weight of a term within that document. 
+
+                                                                                   21 
+
+----------------------- Page 22-----------------------
+
+                  Vector Space Model 
+
+  •   Let’s consider only two terms: “restaurant” and  
+      “hotel”“hotel” 
+       – Given the following set of documents, how similar  
+           are d     and d  ? (in terms of “restaurant” and “hotel”) 
+                   1         2 
+
+       Restaurant, food,  
+d1      Japan, dinner,  
+             hotel 
+
+         Italian, travel,  
+d2 
+         cruise, hotel 
+
+         Japan, travel,  
+d3 
+             guide 
+
+                                                                                                22 
+
+----------------------- Page 23-----------------------
+
+          Cosine Similarity for Multi- 
+                  dimensional Vectors 
+
+•   Let d     and d       be two n-dimensional vectors  
+            1          2 
+    representing two documents; where:representing two documents; where: 
+           d1 = (d11, d21, … , d1n) 
+           d2  = (d21, d22, … , d2n ) 
+where (d ) represents the tf-idf weight of the j-th term  
+              ij 
+within document i. 
+
+••  Similarity(Similarity(dd , , dd  )  = cos()  = cos(θθ)) 
+                      11    22 
+                                        d   · d 
+                                =         1    2 
+                                    |d1 | ×  |d2 | 
+
+                                = 
+
+                                                                                              23 
+
+----------------------- Page 24-----------------------
+
+             Euclidean Distance for  
+         Multi-dimensional Vectors 
+
+•  Euclidean distance between two Euclidean  
+   vectors in Euclidean nvectors in Euclidean n--space:space: 
+
+                                                                            24 
+
+----------------------- Page 25-----------------------
+
+              K-Means Clustering 
+
+•  Clustering groups items into clusters by using  
+   some similarity measures or distance measures.some similarity measures or distance measures. 
+•  The goal of the K-Means clustering algorithm is  
+   to find K points (centroids) in the item space that  
+   represent the K clusters of items. 
+    •  Note: K is a parameter and is chosen manually 
+
+        K = 3 
+
+                                                                             25 
+
+----------------------- Page 26-----------------------
+
+              K-Means Clustering 
+
+•  Standard algorithm for K-Means clustering 
+    Step 1Step 1. Randomly come up with . Randomly come up with KK centroidscentroids.. 
+    Step 2. Determine the cluster membership of each  
+       data point. 
+
+                                                                              26 
+
+----------------------- Page 27-----------------------
+
+              K-Means Clustering 
+
+•  Step 3. Update the k-th centroid (of cluster c ) with  
+                                                                k 
+   the membership assignments (the membership assignments (ZZ is the number of is the number of  
+   points in that cluster). 
+
+•  Step 4. Repeat step 2 and 3 (i.e. Recalculate the  
+   distance between each data point and new obtained  
+   cluster centers, and update the centroids if  
+   necessary) until convergence. 
+
+                                                                             27 
+
+----------------------- Page 28-----------------------
+
+                 K-Means Clustering 
+
+•   How to do document clustering using K- 
+    means? 
+
+•   Outline of the idea: 
+
+     •   Represent documents using the vector  
+         space model. 
+
+     •   Perform the steps described in previous  
+        two slides.  
+
+     •   Use methods such as cosine similarity or  
+         Euclidean distance Euclidean distance to evaluate the to evaluate the  
+         distance between document and the  
+         centroids. 
+
+     •   Here, a cluster centroid is an ‘average’  
+        vector in the document space. 
+
+                                                                                              28 
+
+----------------------- Page 29-----------------------
+
+                             Conclusion 
+
+•   Machines (e.g., computers and networks) work with digital  
+    information basically. 
+
+•   Machines and humans process information differently. 
+     –   While we are able to work with information qualitatively, machines  
+         (mostly) can only handle information quantitatively. 
+     –   Information need to be decontextualized before it can be handled by  
+         machines.  
+
+••  Vector space modeling is used to represent information as multiVector space modeling is used to represent information as multi-- 
+    dimensional vectors.dimensional vectors. 
+
+•   Once information is represented in form of a vector, it can be  
+    processed by machines (e.g., computer programs) using algorithms  
+    (e.g., calculation of cosine similarity).    
+
+                                                                                                  29 
+
+----------------------- Page 30-----------------------
+
+                    Reference 
+
+•  G. Qian, S. Sural, Y. Gu, and S. Pramanik,  
+   “Similarity between Euclidean and cosine “Similarity between Euclidean and cosine  
+   angle distance for nearest neighbor queries”,  
+   in Proceedings of the 2004 ACM symposium  
+   on Applied computing (SAC’04), pp. 1232- 
+   1237. 
+
+•  Acknowledgement: Part of the materials in  
+   this lecture note is provided by Dr. Albert  
+   AuYeung 
+
+                                                                  30 

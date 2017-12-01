@@ -1,0 +1,265 @@
+﻿----------------------- Page 1-----------------------
+
+IERG3320/ESTR3306 Social Media and  
+      Human Information Interaction 
+
+    Week Three (I): Information and Human  
+                      Cognition (1)Cognition (1) 
+
+                   Prof. Rosanna Y.-Y. Chan 
+                     18 September 2017 
+
+----------------------- Page 2-----------------------
+
+                Revisiting the Party 
+
+•  Suppose Alice knows nothing about the family. 
+     – She estimates p(E ) = p(E ) = p(E ) = p(E ) = 1/4. 
+                                   0          1         2          3 
+     –– Where Where p(p(EE ) ) = probably that = probably that ii of the family members of the family members  
+                        i 
+        will go to the party.  
+•  Suppose Bob knows the family well. 
+     – He estimates p(E ) = 1/ 8, p(E ) = 1/ 4, p(E ) = 1/ 2, and  
+                                 0                 1                 2 
+        p(E ) = 1/ 8. 
+             3 
+
+                                                                                            2 
+
+----------------------- Page 3-----------------------
+
+              Revisiting the Party 
+
+•  Now suppose the family’s reply arrives with a  
+   message “3”.message “3”. 
+
+•  For Alice, the information content of this reply is  
+   I(E ) = −log  (P(E )) = −log  (1/4) = 2. 
+       3           2      3            2 
+•  For Bob, the information content of this reply is  
+   I(E ) = −log  (P(E )) = −log  (1/8) = 3. 
+       3           2      3            2 
+
+                                                                             3 
+
+----------------------- Page 4-----------------------
+
+                 Revisiting the Party 
+
+•  The same reply carries more information for  
+    Bob than for Alice.Bob than for Alice. 
+•  If we also consider the entropy of the  
+    information source (i.e. the family): 
+
+              bits 
+     H = 2 for Alice               entropy will be maximum when uncertainty is maximum. 
+
+     H < 2 for BobH < 2 for Bob 
+
+•  So the entropy of a same source is different?! 
+
+                                                                                             4 
+
+----------------------- Page 5-----------------------
+
+              Physical Entropy vs. 
+              Information Entropy 
+
+•  Physical entropy (in thermodynamic) is an  
+   objective quantityobjective quantity.. 
+    – Thermodynamics is a branch of physics concerned  
+      with heat and temperature and their relation  
+      to energy and work. 
+
+•  Information entropy is a subjective quantity. 
+
+•  Informational entropy is not defined without an  
+   “observer”. 
+    – Entropy as a measure of uncertainty (Shannon, 1948) 
+
+                                                                        5 
+
+----------------------- Page 6-----------------------
+
+    Physical Entropy vs. Information  
+                          Entropy 
+
+ •  (Hwang, 2014) Information entropy of a  
+    system is interpreted as physical entropy of a system is interpreted as physical entropy of a  
+    whole composed of both the system and  
+    “memories (of observers)” containing  
+    information about the system. 
+
+     H(SYSTEM)= S(SYSTEM +MEMORY)H(SYSTEM)= S(SYSTEM +MEMORY) 
+
+Information Entropy          Physical Entropy 
+
+                                                                        6 
+
+----------------------- Page 7-----------------------
+
+                  What is Energy? 
+
+•   Energy is what effects changes in nature at all  
+   levels.levels. 
+
+•   Energy can be active (kinetic) or stored  
+   (potential), transformed, and measured. 
+
+••  There There are many kinds of energy (e.g., are many kinds of energy (e.g., light, light,  
+   mechanical, electromagnetic, chemical etc.),  
+   each with basic properties and measures used to  
+   define and study it.  
+
+                                                                                 7 
+
+----------------------- Page 8-----------------------
+
+                What is Energy? 
+
+•  We understand “energy” through the quality  
+   and quantity and quantity of change it effectsof change it effects.. 
+    – For example, a basic measure of energy is the  
+      joule, which combines mass, distance, and time  
+       qualities and quantities. 
+
+    – E.g., a joule is a one newton force that moves an  
+       object one meter. 
+
+                                                                          8 
+
+----------------------- Page 9-----------------------
+
+            Informational Energy 
+
+•  Information is defined by a reduction in  
+   uncertaintyuncertainty.. 
+    – The change brought by informational energy is  
+       reduction in uncertainty. 
+
+••  In In fact, reduction in uncertainty is a kind of fact, reduction in uncertainty is a kind of  
+   change in mental state. 
+
+                                                                                 9 
+
+----------------------- Page 10-----------------------
+
+            Physical vs. Mental 
+          (An “apparent” classification) 
+
+        PhysicalPhysical               MentalMental 
+
+Information                     Run 
+                       Chair 
+
+                     Keyboard 
+     Think                                  Imagine 
+                         Dream 
+              Love 
+                                                           10 
+
+----------------------- Page 11-----------------------
+
+         Change in Mental States 
+
+•   People learn by perceiving information.  
+••  The changes from one state of thought to The changes from one state of thought to  
+   another require some kind of energy form. 
+•   Biologically, neural pathways depend on  
+    biochemical energy flows across neurons. 
+    – Can be detected by fMRI (functional magnetic  
+        resonance imaging).resonance imaging). 
+
+                                                                                  11 
+
+----------------------- Page 12-----------------------
+
+        Understanding and Cognitive  
+              Information Processing 
+
+ •  The way people understand things is through  
+     cognitioncognition, which is the process by which we , which is the process by which we  
+     acquire knowledge and understanding through  
+     thought, experience, and our senses.  
+
+                                      Rehearsal 
+
+                                                   EncodingEncoding 
+ Incoming               Sensory        Working                  Long-Term  
+Information             Memory         Memory                   Memory 
+                                                   Retrieval 
+
+                        Forgotten      Forgotten 
+
+         Human Information Processing Model (Atkinson & Shiffrin, 1968).           12 
+
+----------------------- Page 13-----------------------
+
+       Cognitive Load 
+
+         •   We have mass, weight, force, and load 
+             in mechanics in Physics.in mechanics in Physics. 
+              –  Force is a measure of the interaction  
+                 between bodies.  
+              –  Load is a term frequently used in  
+                engineering to mean the force exerted  
+                on a surface or body.  
+
+         •   Cognitive psychologists also define the  
+            term “Cognitive Load” to indicate the  
+             burden that one’s mental system bears  
+             while engaged in a task. 
+
+Reference: National Physical Laboratory (http://www.npl.co.uk/)    13 
+
+----------------------- Page 14-----------------------
+
+                    Cognitive Load 
+
+•   Cognitive load is related to the amount of information  
+   that that our working our working memory can hold at one time.memory can hold at one time. 
+     –  Intrinsic load refers to the true effort needed to  
+        understand the content (i.e. information)  
+     –  Extraneous load refers to the load that the medium or  
+        delivery system puts on the receiver. 
+     –  Germane load refers to the load that is necessary for  
+        memory schemas construction.memory schemas construction. 
+
+•   Effective transfer of knowledge (via the transmission  
+    of information) must minimize extraneous load. 
+     –  E.g., by applying strategies in information visualization. 
+
+                                                                                     14 
+
+----------------------- Page 15-----------------------
+
+       Cognitive Load - Examples 
+
+•  Which of the below is easier for you to understand? 
+
+                         Image source: https://www.mindtools.com/ 
+
+     – A labeled diagram imposes a lower demand on working  
+        memory than one that has the labels listed at the side,  
+        although they both convey the same information.  
+                                                                                    15 
+
+----------------------- Page 16-----------------------
+
+References and Further Readings 
+
+•   R. C. Atkinson and R. M. Shiffrin. (1968). “Human memory: A  
+    Proposed System and its Control Processes”. In Spence, K.W. and  
+    Spence, J.T.Spence, J.T. The psychology of learning and motivationThe psychology of learning and motivation, (Volume 2). , (Volume 2).  
+    New York: Academic Press. pp. 89– 195. 
+•   A. Hinton, Understanding Context: Environment, Language, and  
+    Information Architecture, O’Relly, 2015. (Chapter 4) 
+•   W.-Y. Hwang, A Coherent View on Entropy. Natural Science, 6 
+    (2014): 540-544. http://dx.doi.org/10.4236/ns.2014.67053 
+•   Gary Marchionini, Information Concepts: From Books to  
+    Cyberspace Identities, Morgan & Claypool, 2010. (Chapter 5) 
+••  J. J. SwellerSweller. . Cognitive Cognitive load during problem solving: Effects on load during problem solving: Effects on  
+    learning. Cognitive Science 12, 2 (1988): 257–285. 
+
+                                                                                                16 

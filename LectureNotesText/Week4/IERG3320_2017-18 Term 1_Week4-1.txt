@@ -1,0 +1,333 @@
+﻿----------------------- Page 1-----------------------
+
+IERG3320/ESTR3306 Social Media and  
+      Human Information Interaction 
+
+     Week Four (I): Information and Human  
+            Cognition Cognition (Social Cognition)(Social Cognition) 
+
+                   Prof. Rosanna Y.-Y. Chan 
+                     25 September 2017 
+
+----------------------- Page 2-----------------------
+
+                        Cognition 
+
+•  Human cognition refers to our ability to  
+   process information though perceptionprocess information though perception .. 
+
+  Definition of Cognition in English  
+  (Oxford Dictionaries by Oxford University Press) 
+  The mental action or process of acquiring knowledge  
+  and understanding through thought, experience, and and understanding through thought, experience, and  
+  the senses. 
+
+  Origin: Late Middle English: from Latin cognitio, from  
+  cognoscere “get to know”. 
+
+                                                                              2 
+
+----------------------- Page 3-----------------------
+
+             Cognitive Processes 
+
+•  Example of cognitive processes: 
+    –– PerceptionPerception 
+    – Attention 
+    – Memory (to code, store, and recover information  
+       internally) 
+    –– ThinkingThinking 
+    – Learning 
+    – Communication 
+
+                                                                              3 
+
+----------------------- Page 4-----------------------
+
+      Cognition: Levels and Dimensions 
+
+    •  There are three vertical levels and multiple  
+        dimensions of human cognition.dimensions of human cognition. 
+
+    Getting to know                     Epistemic 
+                                        Cognition 
+
+                                          Meta- 
+                                        cognitioncognition 
+
+      Distributed      Embodied                            Social          Group 
+…                                       Cognition                                        … 
+      Cognition         Cognition                       Cognition        Cognition 
+     extend 
+
+                                 Condition(s) of knowing 
+
+                                                                                         4 
+
+----------------------- Page 5-----------------------
+
+  Cognition: Levels and Dimensions 
+
+•  The vertical levels describe the purpose and function  
+   of the cognitive processes (e.g., aims at “knowing”)of the cognitive processes (e.g., aims at “knowing”) 
+•  The horizontal dimensions describe the condition in  
+   which the cognitive processes are carried out.  
+•   Upper level cognitive processes are facilitated by  
+   those in a lower level. 
+•  All levels and dimensions of cognitive processes can  
+    intertwine with each other (e.g., intertwine with each other (e.g., social epistemic social epistemic  
+   cognition). 
+•  All of these cognitive processes are essentially human- 
+    information interactions. 
+
+                                                                                    5 
+
+----------------------- Page 6-----------------------
+
+                  HII in Social Media 
+
+•   Interpersonal communication happens when one  
+    person “informs” another person.person “informs” another person. 
+•   Social media greatly facilitate interpersonal  
+    communication and collaboration. (E.g., Wikis, blogs,  
+    and collaborative groupware e.g., Google Docs.) 
+
+            Online social environment 
+
+                 Information  
+                   ObjectObject 
+                                                      = 
+                         “Replies to” 
+
+                 Information  
+                   Object 
+
+       information objects interact with each other                                            6 
+
+----------------------- Page 7-----------------------
+
+       Human Cognition in Online Social  
+                                  Environment 
+
+    Behavioral Response                   Alice’s            Bob’s               Behavioral Response 
+ (e.g., publishing a blog post             PostPost       commentcomment       (e.g., giving a comment  
+  after studying IERG3320)after studying IERG3320)                                  to Alice’s post)to Alice’s post) 
+
+                                              Stimulus event 
+                                        (e.g., reading Alice’s post) 
+Online Social Environment 
+
+ Human cognitive  
+system 
+
+                                                                                                            7 
+
+----------------------- Page 8-----------------------
+
+                  Social Cognition 
+
+•  Social Cognition emphasizes the cognitive  
+   processes and structures processes and structures in social situationsin social situations.. 
+    – (Cognition) individuals perceive and process  
+       information. 
+    – (Social) the information is encoded from a social  
+       context (e.g., the environment including the objects  
+       and also other human individuals within the  
+       environment).environment). 
+
+•  Social cognition describes the mutual influences  
+   between cognition and the social environment. 
+
+                                                                                 8 
+
+----------------------- Page 9-----------------------
+
+•  Which of the following lines is as long as  
+   the Reference Line?  
+
+Reference Line 
+                              A               B                 C 
+
+                                                                          9 
+
+----------------------- Page 10-----------------------
+
+             Reciprocal Determinism 
+
+ •   Reciprocal causation (互為因果) (the central  
+     idea of Albert idea of Albert Bandura’sBandura’s Social Cognitive Theory) Social Cognitive Theory)  
+
+                                Person (P) 
+                                 Beliefs, self- 
+                                 knowledge etc. 
+
+Environment (E)                                           Behaviour (B) 
+
+   A person’s cognition, his/her behavior, and the social  
+   environment are mutually influencing one another. 
+
+                                                                                    10 
+
+----------------------- Page 11-----------------------
+
+ Reciprocal Determinism and Social  
+                          Media 
+
+•  Our internal belief, which are expressed  
+   externally to the social media environment as externally to the social media environment as  
+   online opinions can influence the belief and  
+   behavior of one another. 
+
+  Belief 
+                               Information  
+                            (online opinion) 
+
+                                                                       11 
+
+----------------------- Page 12-----------------------
+
+          Information as Artifacts 
+
+•  Artifacts are information objects created by human effort.  
+   E.g., books, documents, user-generated contents, etc. 
+
+•  Books as an example of physical information artifact: 
+    –  The information in an author’s mind is mapped onto a coding  
+       system (a written language) and the mapping is manifested by  
+       some physical process such as ink carefully placed on paper.  
+    –  The ink and paper artifact is then made available to others who  
+       map the ink bits onto their own minds as information states. 
+
+•  Social media enhance the generation and dissemination of  
+   online information artifacts. 
+
+                                                                               12 
+
+----------------------- Page 13-----------------------
+
+         Examples of Online Information  
+                                Artifacts 
+
+Online information artifacts (can be used for  
+learning analytics)  
+                                                                                      13 
+
+----------------------- Page 14-----------------------
+
+      Social Epistemic Cognition 
+
+•  Definition: Social epistemic cognition (SEC) is a  
+   human individual’s cognition and cognitive human individual’s cognition and cognitive  
+   processes related to epistemic matters when  
+   situated in a social context (Chan et al., 2014). 
+
+•  (A proven theory) Social epistemic cognition can  
+   be mediated by online interactions. be mediated by online interactions.  
+•  SEC can lead to collaborative knowledge  
+   construction (e.g., by providing constructive  
+   comments to each others’ blog posts). 
+
+                                                                             14 
+
+----------------------- Page 15-----------------------
+
+          Collaborative Knowledge  
+                      Construction 
+
+•  In online social networks, we can construct  
+   knowledge together through Collaborative  
+   Knowledge ConstructionKnowledge Construction 
+    –  E.g., People learn from each others through Quora 
+       http://www.quora.com/ 
+    –  E.g., Students learn from each other through online  
+       discussion. 
+
+•  The shared goals of collaborative knowledge  
+   construction amongst all members within a healthy construction amongst all members within a healthy  
+   social network include: 
+    – to solve the problem; 
+    – the continued attempt to construct and maintain a shared  
+       conception of a problem; and 
+    – to individually acquire knowledge. 
+
+                                                                             15 
+
+----------------------- Page 16-----------------------
+
+           Collaborative Knowledge  
+                       Construction 
+
+•  Assimilation vs. Problem-based discussions 
+    –– Assimilation (passive):Assimilation (passive): Some Some online participants online participants simply simply  
+        ignore ignore new information to minimize problems; they may new information to minimize problems; they may  
+       also assimilate peer responses to their beliefs to minimize  
+       differences arising from the discussion. 
+    –  Problem-based discussions (active): Some online  
+        participants, however, treat new information as  
+       something that needs to be further explained and  
+       discussed. 
+
+•  The more the participants engage in problem-based  
+   discussions, the more effective is the knowledge co- 
+   construction in the online community. 
+
+                                                                                  16 
+
+----------------------- Page 17-----------------------
+
+Healthy vs. Unhealthy Online Discussions  
+
+  Example: (https://twitter.com/BillGates/status/253519009121718272) 
+
+                                                                                        17 
+
+----------------------- Page 18-----------------------
+
+ Healthy vs. Unhealthy Online Discussions  
+
+Example: (http://www.quora.com/Cognition/What-is-Epistemic-Cognition)  
+
+                                                                                         18 
+
+----------------------- Page 19-----------------------
+
+      Collaborative Knowledge Construction 
+
+5 levels of responses to unfamiliar information (Chan, 2001)  
+•   Sub-assimilation: New information is reacted to at an apparent  
+    level 
+     –  E.g. Yeah, I guess [the statement] is right (no further explanation) 
+••  Direct assimilation:Direct assimilation: New information is assimilated as if it were New information is assimilated as if it were  
+    something already known 
+     –  Well, [the statement] is basically the same as what I thought 
+•   Surface-constructive: New information is comprehended, but  
+    its implications for one’s beliefs are not considered 
+     –  E.g. I understand [the statement] now, it means….. 
+••  Implicit knowledgeImplicit knowledge--building:building: New information is treated as New information is treated as  
+    something problematic that needs explaining.something problematic that needs explaining. 
+     –  E.g. I am not quite understand about [the statement], would you  
+        please explain more? 
+•   Explicit knowledge building: New information is accumulated  
+    for constructing a coherent domain understanding. 
+     –  E.g. I am not quite understand about [the statement], let me try  
+        explain it in this way / try thinking it in this way……                                 19 
+
+----------------------- Page 20-----------------------
+
+References and Further Readings 
+
+•   Bandura, A. (1986). Social Foundations of Thought and Action: A  
+    Social Cognitive Theory. Englewood Cliffs, NJ: Prentice-Hall. 
+••  Chan, C. K. K. (2001). Peer collaboration and discourse patterns in Chan, C. K. K. (2001). Peer collaboration and discourse patterns in  
+    learning from incompatible information, Instructional Science 29,  
+    443–479. 
+•   R. Y.-Y. Chan, et al. (2014) “Social epistemic cognition in online  
+    interactions,” In Proceedings of the ACM CHI, 2014, pp. 3289-3298. 
+•   C. Chinn, L. Buckland, and A. Samarapungavan, “Expanding the  
+    dimensions of epistemic cognition: arguments from philosophy  
+    and psychology,” Educational Psychologist, vol. 46, no. 3, pp.141- 
+    167, 2011.167, 2011. 
+•   Marchionini, G. (2010). Information Concepts: From Books to  
+    Cyberspace Identities, Morgan & Claypool, 2010. (Chapter 3). 
+
+                                                                                               20 

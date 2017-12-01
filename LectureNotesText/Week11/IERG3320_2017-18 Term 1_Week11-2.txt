@@ -1,0 +1,601 @@
+﻿----------------------- Page 1-----------------------
+
+          IERG3320/ESTR3306 
+      Social Media and Human Social Media and Human  
+       Information Interactions 
+
+Week Eleven (II): Information Visualization II 
+
+                Prof. Rosanna Y.-Y. Chan 
+                  17 November 2017 
+
+----------------------- Page 2-----------------------
+
+       Instantiation and Blending of  
+                             Patterns 
+
+•  A pattern can be  
+    instantiatedinstantiated——that is, it can that is, it can  
+    become represented in the become represented in the   Visual markVisual mark 
+   form of an instance or  
+   occurrence.  
+•  An instance of a pattern is                          Visual structure 
+    usually a visual structure.                              (pattern) 
+•  Any pattern can be  
+    instantiated using many instantiated using many  
+   structures.                                           Visualization 
+•  Visualizations can be formed                    (Blending of patterns) 
+    by blending multiple  
+    patterns. 
+
+                                                                                    2 
+
+----------------------- Page 3-----------------------
+
+                          Patterns 
+
+•  A pattern is “a regularity in some dimension”. 
+••  (Visual) patterns can be observed empirically.(Visual) patterns can be observed empirically. 
+•  Patterns can be used as conceptual tools. 
+
+•  Three categories of patterns: 
+    – Primary patternsPrimary patterns 
+    – Substrate patterns 
+    – Relational patterns 
+
+                                                                               3 
+
+----------------------- Page 4-----------------------
+
+                  Primary Pattern 
+
+•  A Token is a primary  
+   pattern. 
+
+•  Tokens can be used as  
+   primary building  
+   blocks for  
+   visualizations. 
+
+•• Token can be used to Token can be used to  
+   representing an item,  
+   such as an object (e.g.  
+   the vegetables on the  
+   calendar on the  
+   right). 
+
+                                                                              4 
+
+----------------------- Page 5-----------------------
+
+              Substrate Patterns 
+
+•  Examples of substrate patterns include Area,  
+   CellCell, , CoordinateCoordinate, and , and TrackTrack patterns. patterns.  
+•  They are often used for designing underlying  
+   structures in (on/over) which other  
+   representations are placed. 
+
+   ••  E.gE.g. the map . the map  
+      underlying the  
+      visualization is an  
+      Area pattern.  
+
+                                                                          5 
+
+----------------------- Page 6-----------------------
+
+              Relational Patterns 
+
+•  Examples of relational patterns include Branch,  
+   CycleCycle, , GroupGroup, , HierarchyHierarchy, , LinkLink, , ListList, , SpectrumSpectrum, and , and  
+   Stack patterns.  
+•  These patterns are often used for creating  
+   structures that encode relationships, variations,  
+   and/or movements among information items. 
+•  E.g. E.g. sociographssociographs of a social network consists of of a social network consists of  
+   the relational pattern (Link) and the primary  
+   pattern (Token – which are the nodes). 
+
+                                                                              6 
+
+----------------------- Page 7-----------------------
+
+    Relational Patterns – Branch 
+
+•  The branch pattern can be useful when we want  
+   to represent converging and/or diverging (e.g., to represent converging and/or diverging (e.g.,  
+   temporal, categorical, conceptual, or geographic)  
+   features of information. 
+
+                                                                               7 
+
+----------------------- Page 8-----------------------
+
+       Relational Patterns – Link 
+
+•  The link pattern can be used to represent  
+   explicit connections and relationships (and/or explicit connections and relationships (and/or  
+   associations between and among  
+   representations). 
+•  Common examples are network diagrams. 
+
+                                                                        8 
+
+----------------------- Page 9-----------------------
+
+      Relational Patterns - Stack 
+
+•  The stack pattern can be useful when we want to  
+   represent information items that have similar, represent information items that have similar,  
+   co-occurrent, or co-existent features. 
+•  Representations are placed on top of one  
+   another. 
+•  Examples include streamgraphs (left) and  
+   stacked area (right) charts. 
+
+                                                                          9 
+
+----------------------- Page 10-----------------------
+
+                Usage of Patterns 
+
+•   In some situations, we may want to represent  
+   whatwhat (categorical data)(categorical data), , whenwhen (temporal data)(temporal data), ,  
+   and where (spatial data) simultaneously.  
+    – Furthermore, the objects (what) may belong to  
+       different categorical sets and the spatial data (where)  
+       may have divisional regions. 
+
+•• Usually, forUsually, for 
+    – categorical data, we use Token (TK) and Group (GR) 
+    – spatial data, we use Area (AR) and Cell (CL); and 
+    – temporal data, we use Coordinate (CR). 
+
+                                                                                10 
+
+----------------------- Page 11-----------------------
+
+               Blending of Patterns 
+
+•   We can blend different patterns to formulate  
+    representational structures that representational structures that illustrates illustrates different different  
+    organizations.organizations. 
+
+•   The blending of patterns can help to create visual  
+    structures with which users can interact to carry out  
+    complex cognitive activities. 
+
+••  For example (see next slide), nested structures can For example (see next slide), nested structures can  
+    play a powerful role in interactive visualizations  
+    representing complex information spaces that contain  
+    many sub-space levels. 
+
+                                                                                          11 
+
+----------------------- Page 12-----------------------
+
+             Blending of Patterns 
+
+•  Initially, only the high-level space may be  
+   encoded. encoded.  
+•  Subsequently, upon interacting with the  
+   visualizations, deeper levels of these sub-spaces  
+   can be encoded and unfolded progressively. 
+
+           (A representation space viewed as a multi-level system.) 
+
+                                                                             12 
+
+----------------------- Page 13-----------------------
+
+             Blending of Patterns 
+
+•  In addition to self-similar nesting, structures  
+   can can  
+    – overlap one another 
+    – be placed adjacent to each other 
+    – be layered on top of each other, and 
+    –– be placed close to or distant from one another in be placed close to or distant from one another in  
+       the representation space, etc. 
+
+                                                                                13 
+
+----------------------- Page 14-----------------------
+
+     Blending of Patterns: Syntax 
+
+•   In the following examples, we will use the codes below  
+   to denote the 14 patterns.to denote the 14 patterns. 
+     – We will use the symbol “•” to denote a blending, where  
+        blended patterns appear together in square brackets “[]”. 
+     – We will use the symbol “∈” to denote that a visualization  
+        or representational structure “is derived from,” “is based  
+        on,” “instantiates,” or “is an instance of ” a blending. 
+
+                                                                                    14 
+
+----------------------- Page 15-----------------------
+
+    Blending of Patterns: Example 1 
+•  A [AR•TK•BR]-based visualization which represents a  
+    materials flow situation in the context of a residential  
+   area.area. 
+
+                                                                                     15 
+
+----------------------- Page 16-----------------------
+
+Blending of Patterns: Example 2 
+
+•   Example of a [CR•FS•TK•GR]-based visualization  
+    (on next slide) which shows the result of (on next slide) which shows the result of  
+   sentiment analysis on the Bible textual contents. 
+    – The designer has put an area graph (∈∈[CR•FS]) at the  
+        center.  
+    – Bible chapters (e.g., Mark 16) and the titles of these  
+        chapters (e.g., The Resurrection) (∈∈TK) are used as  
+        indices (labels) for the indices (labels) for the positions positions on the circular on the circular  
+        coordinate structure. 
+    – Two major periods of history are grouped into  
+        separate clusters (e.g., Christian and Jewish) (∈GR). 
+
+                                                                                   16 
+
+----------------------- Page 17-----------------------
+
+     Blending of Patterns: Example 2 
+
+(Image source:  
+openbible.info)                                                                 17 
+
+----------------------- Page 18-----------------------
+
+ Blending of Patterns: Example 3 
+
+•   The visualization (on next slide) shows  IMDb movies and the genres to  
+    which they belong ([CL•TK•CR•LS•SP]). 
+     –   The genres are arranged around the outside of the circle and  
+         compartmentalized in a cellcompartmentalized in a cell--like fashion (like fashion (∈∈CL). Thus, each cell CL). Thus, each cell  
+         encodes a genre. 
+     –   The histogram sub-visualizations within the cells encode the relative  
+         number of movies within the genre, and are organized using the  
+         coordinate system from 1-5+ (∈CR) to encode the number of other  
+         genres with which movies are shared. 
+     –   Bubbles within the main circle (∈∈TK) encode the existence of shared  
+         films between/among genres. 
+     –   Bubbles are arranged in a specific order from small to large in a  
+         clockwise fashion (clockwise fashion (∈∈LS).LS). 
+     –   Spectral coloring is used to encode variation of the movies with  
+         respect to time (∈∈SP). 
+
+•   Note: The original visualization is interactive (the sets involved in  
+    an overlap can be inferred by hovering over the respective bubble  
+    (a, b).) 
+                                                                                                     18 
+
+----------------------- Page 19-----------------------
+
+    Blending of Patterns: Example 3 
+
+(Alsallakh et al., 2013)                                                    19 
+
+----------------------- Page 20-----------------------
+
+ Blending of Patterns: Example 4 
+
+•   The visualization (on next slide) shows the polarization of  
+    U.S. political parties and senate networks. Some of the  
+    patterns used include:patterns used include: 
+     –  The horizontal axis (∈∈CR) organizes representations with  
+        respect to time. 
+     –  The coordinate system for the Democrats is stacked on top of  
+        the one for the Republicans in a mirrored fashion (∈ST). 
+     –  Small dots encode individual senators (∈∈TK), and links connect  
+        (∈∈LK) senators to themselves at different points in time. Their  
+        position on the vertical axis is based on the balance of their position on the vertical axis is based on the balance of their  
+        votes with respect to the party (large dot). 
+
+•   One can see from the visualization that in recent years it  
+    has become rare for senators to occupy the middle  
+    ground, suggesting a lack of partisan cooperation. 
+
+                                                                                            20 
+
+----------------------- Page 21-----------------------
+
+Blending of Patterns: Example 4 
+
+             (Moody & Mucha, 2013) (Link to image source)            21 
+
+----------------------- Page 22-----------------------
+
+             Interactive Information  
+                        Visualization 
+
+•   Information can be represented so that it is accessible to  
+   different perceptual modalities such as: 
+     ––  hearing (auditory/sonic representation)hearing (auditory/sonic representation) 
+     –  touch (haptic representation) 
+     –  vision (visual representation) 
+•  There is now general agreement amongst cognitive  
+   scientists that external representations of information (e.g.  
+   visual representation) serve as fundamental components  
+   of cognitive functioning and behavior. 
+
+•   Let’s look at two more examples of interactive information  
+   visualization: 
+     –  (1) BrainX (a large-scale simulation of human brain activity with  
+        real-time interaction) 
+     –  (2) Gartner’s Interactive Hype Cycle 
+                                                                                   22 
+
+----------------------- Page 23-----------------------
+
+              Interactive Information  
+  Visualization (Example 1): BrianX3 
+
+•   BrainX3  (http://www.brainx3.com/) is a large-scale  
+    simulation of human brain activity with realsimulation of human brain activity with real--time time  
+    interaction, rendered in 3D in a virtual reality interaction, rendered in 3D in a virtual reality  
+    environment. 
+     –  It enables human users to explore and analyse the  
+        complex dynamical brain networks interactively. 
+     –  Has been developed with a vision toward a “smart  
+        exploration space for big data” as part of the European  
+        Union CEEDS (Collective Experience of Empathic Data Union CEEDS (Collective Experience of Empathic Data  
+        Systems).Systems). 
+
+•   The information space is the structural connectivity of  
+    human brain neurons obtained from diffusion  
+    spectrum imaging data. 
+
+                                                                                          23 
+
+----------------------- Page 24-----------------------
+
+              Interactive Information  
+  Visualization (Example 1): BrianX3 
+
+•   Users can interact with BrainX3  in real-time by  
+    perturbing brain regions with transient stimulations to perturbing brain regions with transient stimulations to  
+    observe reverberating network activity, simulate lesion observe reverberating network activity, simulate lesion  
+    dynamics or implement network analysis functions from  
+    a library of graph theoretic measures. 
+
+                            Image source: http://www.brainx3.com/                           24 
+
+----------------------- Page 25-----------------------
+
+           Interactive Information  
+Visualization (Example 2): UN Data 
+
+•  UN Data (http://data.un.org/) is a data access  
+   system to UN (United Nations) databases 
+    – Contains 35 databases - 60 million data points 
+    –– Cover a wide range of themes including Cover a wide range of themes including  
+      Agriculture, Education, Employment, Energy,  
+       Environment, Health, Human Development,  
+       Industry, ICT, National Accounts, Population,  
+       Refugees, Tourism, Trade, etc. 
+
+                                                                       25 
+
+----------------------- Page 26-----------------------
+
+             Interactive Information  
+ Visualization (Example 2): UN Data 
+
+•   UN data is launched by the United Nations Statistics  
+    Division (UNSD) as an internet based data service for Division (UNSD) as an internet based data service for  
+   the global user community. 
+     –  Provides UNDataAPI that provides dynamic, programmatic  
+        access to data within the UNdata platform.  
+     –  Developers can use the API to dynamically query UNdata 
+        to obtain the latest data and display the result on a Web  
+        page, download to local storage for further processing,  
+        etc.etc. 
+
+•  Some previous implementation examples: 
+     –  http://www.drasticdata.nl/projects.htm 
+
+                                                                                    26 
+
+----------------------- Page 27-----------------------
+
+             Interactive Information  
+ Visualization (Example 2): UN Data 
+
+•   (More about the UNDataAPI) 
+•• The APIs are implemented as a SOAP Web Service that The APIs are implemented as a SOAP Web Service that  
+   can be used to query the datasets using the SDMX  
+    (Statistical Data and Medata eXchange) standard.  
+    – An SDMX query is an XML document that defines query  
+        parameters in accordance with the dataset you intend to  
+        retrieve (Can be easily created with SDMX Browser).  
+    –– To retrieve the data, use HTTP POST to submit SDMX To retrieve the data, use HTTP POST to submit SDMX  
+       query created.  
+    –  Results will be returned in an XML document structured in  
+       accordance with selected dataset’s Data Structure  
+        Definition. 
+
+                                                                                  27 
+
+----------------------- Page 28-----------------------
+
+      HII in Interactive Information  
+                     Visualization 
+
+•  An interactive information visualization  
+   system system consists of five components:consists of five components: 
+    – Information space 
+    – Representation space 
+    – Interaction space 
+    –– Mental Mental spacespace 
+    – Computing space 
+
+                                                                          28 
+
+----------------------- Page 29-----------------------
+
+              HII in Interactive Information  
+                                 Visualization 
+   •   (Here VR stands for visual representation). 
+
+                                                                           Mental spaceMental space 
+
+                                                                           Interaction space 
+
+                                                                         Representation space 
+
+                                                                          Computing spaceComputing space 
+
+                                                                          Information space 
+
+The multi-level nature of systems: a  
+system is a sub-system of another.                                                                    29 
+
+----------------------- Page 30-----------------------
+
+        HII in Interactive Information  
+                           Visualization 
+
+•   Computing space 
+     –  where data is processed, stored, and prepared; also includes  
+         data mining and analytics proceduresdata mining and analytics procedures (e.g., social media (e.g., social media  
+         analytics and social network analysis).analytics and social network analysis). 
+     –  Non-digital media (e.g., print) do not have this space by default. 
+
+•   Mental space 
+     –  where user performs internal mental events and operations  
+         (e.g., memory encoding, storage, and retrieval; apprehension;  
+        judgment);  
+     ––  in which in which mental structures mental structures exist (e.g., mental models and exist (e.g., mental models and  
+         schemas). 
+
+•   Interaction space 
+     –  consists of actions that users perform and reactions that occur  
+        within the representation and computing spaces. 
+
+                                                                                              30 
+
+----------------------- Page 31-----------------------
+
+      HII in Interactive Information  
+                      Visualization 
+
+•  In interactive information visualization, users can  
+   decompose the same decompose the same representation in representation in different different ways ways  
+   (e.g. to show or hide information), depending on the  
+   perspective from which it is being viewed. 
+
+     (The representation space can be viewed as a multi-level system.)      31 
+
+----------------------- Page 32-----------------------
+
+       HII in Interactive Information  
+                       Visualization 
+
+•  The figure below depicts the hierarchical nature of activities, tasks,  
+   and interactions as the activities are performed over time (itself is  
+   also an example of visualization). 
+
+                                                                               32 
+
+----------------------- Page 33-----------------------
+
+ Visual Analytic Products and Tools 
+
+•  Tableau Software is an U.S. company which  
+   produces interactive data visualization products produces interactive data visualization products  
+   focused on business intelligence. 
+    –  https://www.tableau.com/ 
+    – A demonstration on The History of the Dow 30  
+       (https://www.tableau.com/solutions/workbook/get- 
+      value-data-tableaus-big-data-bi)   
+
+•  Was among the first business intelligence  
+   software companies (founded in 2003) to come  
+   up with technology that lets business analysts  
+   visualize trends based on corporate data. 
+
+                                                                        33 
+
+----------------------- Page 34-----------------------
+
+     Visual Analytic Products and Tools 
+
+•   E.g., an instance of Tableau visual analytic software. 
+     –  Items from the information space are encoded into the  
+        representation space alongside controls and other elements representation space alongside controls and other elements  
+        that help the user work with items in the information space. 
+
+                                                                                              34 
+
+----------------------- Page 35-----------------------
+
+                                D3.js 
+
+•   https://d3js.org/ 
+     –  Is a JavaScript library for manipulating documents based  
+        on data.on data. 
+     –  D3 allows you to bind arbitrary data to a Document  
+        Object Model (DOM), and then apply data-driven  
+        transformations to the document.  
+     –  C3.js (http://c3js.org/) is a D3-based reusable chart library 
+
+                                                                                     35 
+
+----------------------- Page 36-----------------------
+
+                          mpld3 
+
+•  The mpld3 (http://mpld3.github.io/) project  
+   brings togetherbrings together MatplotlibMatplotlib 
+   (https://matplotlib.org/; the popular Python- 
+   based graphing library), and D3js for creating  
+   web-based interactive data visualizations. 
+
+                                                                         36 
+
+----------------------- Page 37-----------------------
+
+ Visual Analytic Products and Tools 
+
+•   Other BI and visual analytic tools and products include: 
+     –  QlikQlik ((http://www.qlik.com/http://www.qlik.com/)) 
+     –  Sisense (https://www.sisense.com/) 
+     –  IBM Analytics (https://www.ibm.com/analytics/ ) 
+     –  Oracle Analytics (https://www.oracle.com/solutions/business- 
+         analytics/index.html) 
+
+•   More example:  
+     ––  NYSE Data and Tech (provides specifications, APIs, and market NYSE Data and Tech (provides specifications, APIs, and market  
+         data fits and connection to New York Stock Exchange markets)data fits and connection to New York Stock Exchange markets) 
+     –  https://www.nyse.com/data-and-tech 
+
+                                                                                                     37 
+
+----------------------- Page 38-----------------------
+
+                           References 
+•   Main reference: 
+     –  Kamran Sedig and Paul Parsons, Design of Visualizations for  
+        Human-Information Interaction: A Pattern-Based Framework,  
+        Morgan & Claypool Publishers, 2016.Morgan & Claypool Publishers, 2016. 
+•   Other References 
+     –  Sedig, K., Parsons, P., Dittmer, M., and Haworth, R. (2013).  
+        Human-centered interactivity of visualization tools: Micro-and  
+        macro-level considerations. In Handbook of Human Centric  
+        Visualization (pp. 717–743). 
+     –  Arsiwalla et al. (2015), “Network Dynamics with BrainX3: A  
+        Large-Scale Simulation of the Human Brain Network with Real- 
+        Time Interaction.” Time Interaction.” Front. Front. NeuroinformNeuroinform. 9:02.. 9:02. 
+     –  Moody, J. and Mucha, P. J. (2013). Portrait of political party  
+        polarization. Network Science, 1(01), 119– 121. 
+     –  Alsallakh, B., Aigner, W., Miksch, S., and Hauser, H. (2013).  
+        Radial sets: Interactive visual analysis of large overlapping sets.  
+        IEEE Transactions on Visualization and Computer Graphics,  
+        19(12), 2496–2505. 
+
+                                                                                           38 

@@ -1,0 +1,546 @@
+﻿----------------------- Page 1-----------------------
+
+     IERG3320/ESTR3306 
+  Social Media and Human  
+  Information Interactions 
+
+Week Ten (II): Social Media Analytic II 
+
+           Prof. Rosanna Y.-Y. Chan 
+            10 November 2017 
+
+----------------------- Page 2-----------------------
+
+                 Introduction 
+
+•  Our beliefs and perceptions of reality, and  
+  the choices we make, are, to a considerable  
+   degree, conditioned upon how others see and  
+   evaluate the world.  
+
+•  For this reason, when we need to make a  
+   decision we often seek out the opinions of  
+   others. This is not only true for individuals  
+   but also true for organizations. 
+
+                                                              2 
+
+----------------------- Page 3-----------------------
+
+                      Introduction  
+
+Types of Information in user-generated content in social  
+    media include: 
+
+•   Facts (corresponds to knowledge) 
+    –  ‘There will be a special exhibition in the museum.’ 
+    –  ‘The shop closes at 5 o’clock.’ 
+
+•  Opinions & Feelings (corresponds to beliefs, emotion,  
+   sentiment) 
+    –  ‘The movie is very interesting.’ 
+    –  ‘This camera has an excellent lens and a large LCD screen.’ 
+    –  ‘I think the Android phones are not as good as the iPhone.’ 
+    –  ‘This is a very sad news to me.’ 
+
+                                                                                 3 
+
+----------------------- Page 4-----------------------
+
+                     Introduction 
+
+•  Sentiment analysis  
+   and opinion mining  
+   analyzes people’s 
+   opinions, sentiments,  
+   evaluations,  
+   appraisals, attitudes,  
+   and emotions towards  
+   entities such as  
+   products, services,  
+   organizations,  
+   individuals, issues,  
+   events, topics, and  
+   their attributes. 
+
+                                                                         4 
+
+----------------------- Page 5-----------------------
+
+Sentiment Analysis Techniques  
+           (Medhat et al., 2014) 
+
+                                                                   Notes: Machine learning  
+                                                                   approach and lexicon-based  
+                                                                   approach can be applied  
+                                                                   together (Hybrid). 
+
+                                                                   In this course, we will learn (1)  
+                                                                   the dictionary-based approach,  
+                                                                   and (2) the use of Naïve Bayes  
+                                                                   classifiers for sentiment  
+                                                                   analysis (a machine learning  
+                                                                   approach).  
+                                                                                                     5 
+
+----------------------- Page 6-----------------------
+
+            Machine Learning 
+
+•  There are two main types of machine learning  
+   approaches: 
+
+•  Supervised Learning  
+   – Needs training dataset (therefore the learning is  
+      “supervised”). 
+
+•  Unsupervised Learning 
+   – Does not need training dataset. 
+
+                                                               6 
+
+----------------------- Page 7-----------------------
+
+    Classification and Clustering 
+
+•  Classification (belongs to “supervised learning”) 
+    – To classify objects (e.g., texts) into predetermined 
+       categories (or classes). 
+    – Needs training dataset. 
+
+•  Clustering (belongs to “unsupervised learning”) 
+    – To group objects (e.g., texts) into clusters so that  
+       objects in the same cluster are similar to each other;  
+       objects in different clusters are dissimilar. 
+    – Does not need training dataset. 
+
+                                                                         7 
+
+----------------------- Page 8-----------------------
+
+•  An illustration. 
+
+         Eyes 
+
+                                                                      mouth 
+
+                                                                                             8 
+
+----------------------- Page 9-----------------------
+
+Classification (Supervised Learning) 
+
+  •  Two Steps in Classification: 
+      1. Train the machine by using labelled data  
+         (‘supervised’). 
+      2. Classify new data. 
+
+                                                                              9 
+
+----------------------- Page 10-----------------------
+
+•  Illustration of classification. 
+
+        Eyes 
+
+                                                                   Is he happy or  
+                                                                   unhappy? 
+
+                   Happy 
+
+                                  Unhappy 
+
+                                                             mouth 
+
+                                                                                10 
+
+----------------------- Page 11-----------------------
+
+Clustering (Unsupervised Learning) 
+
+ •  The goal of clustering is to group data items into  
+    clusters based on similarity. 
+ •  Do not care about the meaning of the groups. 
+ •  No training is required. 
+
+                                                                              11 
+
+----------------------- Page 12-----------------------
+
+•  Illustration of clustering. 
+
+       Eyes 
+
+                                                                       Should he belong to  
+                                                                       Group 1 or Group 2? 
+
+                            Group 1 
+
+                                                       Group 2 
+
+                                                                 mouth 
+
+                                                                                         12 
+
+----------------------- Page 13-----------------------
+
+             Text Classification 
+
+•  In text classification, we have 
+    •  for each document a representation or  
+      description d (e.g., a bag of words) 
+    •  a set of classes C = {C , C , …, C   } (Also called  
+                               1   2      N 
+      categories or labels) 
+
+                                        C = 
+             d 
+                                        {C  , C , C , C }  
+                                           1    2     3    4 
+
+                                                                   13 
+
+----------------------- Page 14-----------------------
+
+             Text Classification 
+
+•  The task of classification is to map documents  
+   to classes 
+    – In order to do so, we need a classifier 
+
+                                          C1 
+
+                    d 
+
+•  A classifier (can be a computer program) can  
+   learn (or be trained) with labelled data. 
+                                                                  14 
+
+----------------------- Page 15-----------------------
+
+  Naive Bayes Text Classification 
+
+•  Naïve Bayes classifier is a probability based  
+   classifier that can be applied to many  
+   different problems 
+    – Naïve: it assumes the independence between  
+      features (which is not true in most cases) 
+
+•  Bayes’ theorem: 
+
+                                                                  15 
+
+----------------------- Page 16-----------------------
+
+          Note: Bayes’ Formula and  
+             Conditional Probability 
+
+•  Conditional probability of A given B, written  
+    as P(A|B) is defined as: 
+
+•  Illustration:  
+
+                                       The unconditional probability P(A) = 0.52.  
+
+                                       The conditional probabilities P(A|B ) = 1,  
+                                                                           1 
+                                       P(A|B ) = 0.75, and P(A|B ) = 0.  
+                                             2                    3 
+
+                                       (Image source: Wikipedia) 
+
+                                                                                    16 
+
+----------------------- Page 17-----------------------
+
+        Note: Bayes’ Formula and  
+           Conditional Probability 
+
+•  Deriving the Bayes’ Theorem 
+
+                                                    (Bayes’ Theorem) 
+
+                                                                     17 
+
+----------------------- Page 18-----------------------
+
+  Naive Bayes Text Classification 
+
+•  Some notations: 
+    – P(c) is the probability of the class c 
+    – P(d|c) is the probability of a document d given class c 
+    – P(c|d) is the probability of class c given document d 
+    – P(w|c) is probability of a word w given class c 
+
+•  We want to find P(c|d) 
+    – Given a document d, what is the probability that it is  
+       in class c? 
+
+                                                                         18 
+
+----------------------- Page 19-----------------------
+
+  Naive Bayes Text Classification 
+
+•  Main idea: Probability of a document  
+   belonging to a class depending on the  
+   probability of the words in the document  
+   belonging to the class. 
+
+•  In text classification tasks 
+       P(c|d) is unknown and is something that we  
+    want to find out, 
+       P(d|c) and P(w|c) can be known. 
+
+                                                                  19 
+
+----------------------- Page 20-----------------------
+
+    Naive Bayes Text Classification 
+
+                                                           Bayes’ Theorem 
+
+                                                          Assume all words  
+                                                          are independent 
+
+Note: The last equation gives a score that we can computed based on the  
+words in the documents. 
+                                                                                      20 
+
+----------------------- Page 21-----------------------
+
+  Naive Bayes Text Classification 
+
+•  When training a Naive Bayes Classifier, we  
+   need to estimate P(c) and P(w|c) 
+
+                                     f denotes frequency of occurrence. 
+
+                                                                         21 
+
+----------------------- Page 22-----------------------
+
+    Naive Bayes Text Classification 
+
+  •  An example 
+
+                                                                          Given 
+
+                                                                        Unknown 
+
+(Note: using the equation in p.21) 
+                                                                               22 
+
+----------------------- Page 23-----------------------
+
+     Naive Bayes Text Classification 
+
+                                                        c = “Yes” 
+
+    = 2/3 x (1+2)/(5+4) x (1+2)/(5+4) x (1+1)/(5+4) x (1+0)/(5+4) x (0+0)/(5+4) 
+    = ? 
+(Note: using the equations in p.22)                                                 23 
+
+----------------------- Page 24-----------------------
+
+  Naive Bayes Text Classification 
+
+•   P(w|c) = 0 if the document contains any unseen word w.  
+•  To avoid zero probabilities assigned to unseen word-class  
+    relations, we use “add-one smoothing”: 
+
+                                                            Total number of  
+                                                            unique words in all  
+                                                            documents. 
+
+  = 2/3 x (1+2+1)/(5+4+7) x (1+2+1)/(5+4+7) x (1+1+1)/(5+4+7) x  
+  (1+0+1)/(5+4+7) x (0+0+1)/(5+4+7) 
+  = 2/3 x 4/16 x 4/16 x 3/16 x 2/16 x 1/16 = 0.00006. 
+                                                                                    24 
+
+----------------------- Page 25-----------------------
+
+       Naive Bayes Text Classification 
+
+                                                         c = “No” 
+
+•  (with add-one smoothing): 
+
+      = 1/3 x (0+1)/(4+7) x (0+1)/(4+7) x (0+1)/(4+7) x (0+1)/(4+7) x (1+1)/(4+7)  
+      = 0.000004 
+
+                                                                                     25 
+
+----------------------- Page 26-----------------------
+
+  Naive Bayes Text Classification 
+
+•  Given document d , the corresponding result is  
+                           4 
+         0.00006 when c = “Yes”; and 
+         0.000004 when c = “No”. 
+•  Since P (c|d) is proportional to this score, we conclude  
+   that d4  is more likely to belong to c = “Yes”.  
+
+•  The mathematical expression for Naïve  Bayes 
+   classification is: 
+
+•  Where cNB  denotes the class obtained by Naïve Bayes classification  
+   method. Argmax means “argument of the maxima”. 
+                                                                            26 
+
+----------------------- Page 27-----------------------
+
+        Sentiment Classification 
+
+     Opinion document d 
+                                       Positive 
+
+                                 ? 
+                                       Negative 
+
+    E.g., “This camera is good!” 
+
+•  Sentiment classification is actually very similar to  
+   document classification. 
+•  We use the words (bag-of-words) are our  
+   linguistics features to represent the document. 
+
+                                                                    27 
+
+----------------------- Page 28-----------------------
+
+         Sentiment Classification 
+
+•  We can use sentiment classification to detect the  
+   polarity of an opinion. 
+    –  Estimate the polarity of the opinions of the writer. 
+    –  Classify an opinion document (e.g., a book review, a  
+       movie review). 
+    –  Polarity classes: positive, negative (can also include  
+       “neutral”). 
+
+•  When we have some documents which we know their  
+   sentiment class, we can use them to train a classifier.  
+   E.g., 
+    –  Documents in positive class usually contain: good,  
+       excellent, reasonable, price, durable, etc. 
+    –  Documents in negative class usually contain: too,  
+       expensive, easily, broken, bad, etc. 
+                                                                             28 
+
+----------------------- Page 29-----------------------
+
+       Lexicon-Based Approach 
+
+•  Opinion words are employed in many  
+   sentiment classification tasks. E.g. 
+   – Positive opinion words (good) are used to express  
+      some desired states 
+   – Negative opinion words (poor) are used to  
+      express some undesired states.  
+
+•  Dictionary-based approach and corpus-based  
+   approach are two of the major approaches to  
+   compile the opinion word list. 
+
+                                                               29 
+
+----------------------- Page 30-----------------------
+
+     Dictionary-based Approach 
+
+•  Assume that you have a dictionary of words, with their  
+   sentiment orientation (or polarity scores) 
+    –  Idea: check whether +ve or –ve words appear in the  
+       document/sentences to be classified, e.g.: 
+
+                                                                          30 
+
+----------------------- Page 31-----------------------
+
+     Dictionary-based Approach 
+
+•  A small set of opinion words is collected manually with  
+   known orientations.  
+•  Then, this set is grown by searching in the well known  
+   corpora such as WordNet for their synonyms and  
+   antonyms.  
+•  The newly found words are added to the seed list then  
+   the next iteration starts.  
+•  The iterative process stops when no new words are  
+   found. 
+•  After the process is completed, manual inspection can  
+   be carried out to remove or correct errors. 
+
+                                                                     31 
+
+----------------------- Page 32-----------------------
+
+     Dictionary-based Approach 
+
+•  (Hu and Liu, 2004) 
+
+                                                                       32 
+
+----------------------- Page 33-----------------------
+
+                   WordNet 
+
+•  WordNet (https://wordnet.princeton.edu/) is  
+  a lexical database created by Princeton  
+   University 
+
+•  Included in the Python NLTK corpus 
+
+•  To import wordnet 
+       from nltk.corpus import wordnet 
+
+                                                            33 
+
+----------------------- Page 34-----------------------
+
+                                      WordNet 
+
+•    E.g. to obtain the synonyms and antonyms to “good” 
+
+•    Will return {'beneficial', 'just', 'upright', 'thoroughly', 'in_force', 'well', 'skilful', 'skillful',  
+     'sound', 'unspoiled', 'expert', 'proficient', 'in_effect', 'honorable', 'adept', 'secure', 'commodity',  
+     'estimable', 'soundly', 'right', 'respectable', 'good', 'serious', 'ripe', 'salutary', 'dear', 'practiced',  
+     'goodness', 'safe', 'effective', 'unspoilt', 'dependable', 'undecomposed', 'honest', 'full', 'near',  
+     'trade_good'} {'evil', 'evilness', 'bad', 'badness', 'ill'}  
+                                                                                                                        34 
+
+----------------------- Page 35-----------------------
+
+    Dictionary-based Approach 
+
+•  After obtaining the opinion words, assign an  
+   average ‘sentiment score’ to the  
+   document/sentences (N is the total number of  
+   words in the document) 
+•  Normalized between -1 to +1 for further  
+   comparisons 
+
+                                                                 35 
+
+----------------------- Page 36-----------------------
+
+                        References 
+
+•  W. Medhat, A. Hassan, and H. Korashy, Sentiment analysis  
+   algorithms and applications: A Survey. Ain Shams Engineering  
+   Journal, 5, 1093-1113, 2014. 
+•   Bing Liu. Sentiment Analysis and Opinion Mining. Morgan &  
+   Claypool Publishers, May 2012. 
+    –   http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.244.9480 
+       &rep=rep1&type=pdf 
+•   M. Hu, B. Liu, Mining and summarizing customer reviews, in:  
+   Proceedings of 10th ACM SIGKDD International Conference on  
+   Knowledge Discovery and Data Mining, ACM, 2004, pp. 168– 177.  
+    https://www.cs.uic.edu/~liub/publications/kdd04-revSummary.pdf 
+
+•  Acknowledgement: Part of the lecture notes was contributed by  
+    Dr. Albert AuYeung 
+
+                                                                                  36 

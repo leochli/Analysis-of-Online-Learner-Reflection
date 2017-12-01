@@ -1,0 +1,418 @@
+﻿----------------------- Page 1-----------------------
+
+    IERG3320/ESTR3306 
+Social Media and Human Social Media and Human  
+ Information Interactions 
+
+Week Nine (I): Digital Information 
+
+          Prof. Rosanna Y.-Y. Chan 
+             30 October 2017 
+
+----------------------- Page 2-----------------------
+
+      Physical, Semantic, and Digital  
+                           Information 
+
+•   The same information (e.g., location of  
+    a person) can be a person) can be represented represented  
+    physically, semantically, and digitally.physically, semantically, and digitally. 
+
+•   Physical Information 
+     –  If you see your friend on the street, your  
+        friend is an object in the physical  
+        environment. 
+     ––  His or her face has surface patterns that His or her face has surface patterns that  
+        you can recognize, there are also events  
+        that specifies information in the way the  
+        friend moves or speaks.  
+     –  Note that the friend is within a close  
+        physical distance to where you are. 
+
+                                                                                          2 
+
+----------------------- Page 3-----------------------
+
+     Physical, Semantic, and Digital  
+                     Information 
+
+•  Semantic Information 
+    –– Suppose you meet your friend in Suppose you meet your friend in  
+      Shatin.  
+    – You know that Shatin is (the name  
+      of) a town in Hong Kong, which is  
+      situated on a map that you’ve seen  
+       many times in your life.  
+    – You probably couldn’t tell exactly  
+      where, but it is good-enough for  
+      you to locate it on the map (an  
+      example of satisficing). 
+
+                                                                        3 
+
+----------------------- Page 4-----------------------
+
+     Physical, Semantic, and Digital  
+                       Information 
+
+•  Digital Information 
+    –– When you meet your friend, your When you meet your friend, your iPhone’siPhone’s GPS GPS  
+       location is: 22.39813, 114.21265.  
+    – This is coordinate information that doesn’t  
+       correspond with any semantic or physical  
+       reference point for human users.  
+    –– Technically, this is semantic information Technically, this is semantic information  
+       (numbers), but it is a piece of digital information  
+       and has its digital affordance.  
+         •  E.g., it can be input to some software and be  
+           translated into a city name or a point on a map. 
+
+                                                                               4 
+
+----------------------- Page 5-----------------------
+
+           Interfaces and Humans 
+
+•   Both of these are hardware interfaces for sharing  
+   data between two systems. In the keyboard’s data between two systems. In the keyboard’s  
+   case, one of the systems is human. 
+
+       Small Computer System            A keyboard for the structured- 
+       Interface (SCSI)                 language input from human fingers 
+
+                                                                                    5 
+
+----------------------- Page 6-----------------------
+
+             Interfaces and Humans 
+
+•   Human users interact with digital information as well as  
+    and semantic / physical information. 
+•• Translation between the digital and physical / semantic Translation between the digital and physical / semantic  
+    modes of information is needed before it can be  
+    processed by computers or transmitted over the internet. 
+
+                                                  00010010101011001 
+                                                  01010101010001010 
+                            DIGITAL 
+                                                  10101010101000010 
+                                                  10000101011101001 
+
+                                                         A tree. 
+                          SEMANTIC 
+
+                           PHYSICAL 
+
+                                                                                       6 
+
+----------------------- Page 7-----------------------
+
+                Simulated Objects 
+
+•  A picture of an object only represented  
+   something; it afforded seeing light of varying something; it afforded seeing light of varying  
+   shades of color. 
+     – E.g., the picture below is indeed “not a tobacco  
+        pipe”. 
+
+      Magritte’s The Treachery of Images (© Herscovici, Brussels/Artists Rights Society [ARS], New York) 
+
+                                                                                     7 
+
+----------------------- Page 8-----------------------
+
+ Semantic Function of Information  
+                         Objects 
+
+•  Below shows a spectrum of how objects use  
+   invariant cues to inform our behavior, from invariant cues to inform our behavior, from  
+   physical to semantic. 
+
+•  Each of these objects has significant  
+   characteristics (discussed in next two slide). 
+
+                                                                         8 
+
+----------------------- Page 9-----------------------
+
+ Semantic Function of Information  
+                           Objects 
+
+•  Information can range from the simple  
+   intrinsic physical to the highly abstract intrinsic physical to the highly abstract  
+   semantic. 
+    – E.g., the stairs are directly perceived by our  
+       bodies as affording upward motion. Their  
+       affordance is intrinsic to their invariant structure. 
+    –– The Engine Start button also has intrinsic The Engine Start button also has intrinsic  
+       structure. It’s an object that can be pressed into  
+       its surrounding surface. The label is a signifier  
+       with semantic function which inform us that the  
+       button controls a broader system. 
+
+                                                                             9 
+
+----------------------- Page 10-----------------------
+
+  Semantic Function of Information  
+                           Objects 
+
+•  (Continue) 
+    –– The Windows Start button is similar to the Engine The Windows Start button is similar to the Engine  
+       Start button, except that it isn’t a physical button.  
+       It’s using graphical information to simulate the  
+       contours of conventional, physical buttons. 
+    – The Add button with the “+” symbol has a circle  
+       around it does not contain any words.around it does not contain any words. It use a It use a  
+       graphical symbol to convey the meaning of its  
+       function. 
+
+                                                                              10 
+
+----------------------- Page 11-----------------------
+
+  Digital Objects and Interaction 
+
+•   The information presented on the screen is all semantic  
+    and has semantic affordance. 
+     ––  It involves signifiers that are “drawn” on a surface. It involves signifiers that are “drawn” on a surface.  
+     –  It’s either simulating physical objects or presenting text for  
+        reading. 
+
+•   But such information objects are also stored digitally and  
+    have digital affordance. 
+
+                                                                                           11 
+
+----------------------- Page 12-----------------------
+
+  Digital Objects and Interaction 
+
+•  Very often, an on-screen digital image is not  
+   merely a decorative picture, but an interactive merely a decorative picture, but an interactive  
+   object (has digital affordance) that simulate  
+   physical affordance. 
+
+•   E.g., the camera icon in iOS7 is an iconic signifier,  
+   mimicking the shape of a physical camera, which  
+   supports the supports the interaction of “interaction of “Add Picture” Add Picture”  
+   through the digital interface. 
+
+                                                                                12 
+
+----------------------- Page 13-----------------------
+
+       Information Foraging Theory  
+             (Pirolli and Card, 1999) 
+
+••  According to theories on According to theories on informationinformation--seekingseeking, ,  
+    humans look for information by using behavior humans look for information by using behavior  
+    patterns similar to those used by other animals  
+   when foraging for food. 
+
+•  Two key concepts: 
+    –– Information patch:Information patch: A A structurestructure in the environment in the environment  
+       where information is present. 
+    – Information scent: The stimuli produced by the  
+        information patches that enable a user to assess the  
+       value of the corresponding informational object. 
+
+                                                                                  13 
+
+----------------------- Page 14-----------------------
+
+    Information Foraging Theory 
+
+•  Detailed user process modeling and adaptation  
+   analysis (e.g., studied the momentanalysis (e.g., studied the moment--byby--moment moment  
+   behavior of people interacting with information  
+   e.g., online web-browsing and offline book  
+   searching) were performed.  
+
+•  Information foraging theory suggests that human  
+   users users augment their information augment their information searchsearch (e.g., (e.g.,  
+   time allocation and item selection heuristics)  
+   through assessing the value and quality of the  
+   surrounding cues.  
+
+                                                                         14 
+
+----------------------- Page 15-----------------------
+
+Case Study 
+
+       Information Foraging Theory:  
+ Recent Findings (Lee & Pang, 2016) 
+
+••  Paper title: “Information Paper title: “Information scent scent –– credibility and gaze interactions: credibility and gaze interactions:  
+    an eye-tracking analysis in information behaviour” 
+
+•   The study aims to understand users’ attentional focus on  
+    information patches on: 
+     –  Lonely Planet (LonelyPlanet.com) travelling website (well known;  
+        perceived as high information credibility); and 
+     –  A food blog (not well known; perceived as low information credibility) 
+
+•   Users may perceive the information patch as credible due to factors  
+    such as brand popularity and expertise status. 
+
+•   The researchers used eye-tracking data and user interviews (N = 52)  
+    to study users’ (who are information seekers) attention during  
+    online information searching. 
+                                                                                        15 
+
+----------------------- Page 16-----------------------
+
+  Case Study 
+
+                  Eye-tracking Analysis 
+
+•   Eye-tracking analysis uses users’ gaze  
+    (where one is looking) to infer their  
+    attentional focus (e.g., when browsing a  
+    website).website). 
+
+•   Quantitative eye-tracking metrics  
+    includes fixation durations, scanpath, and  
+    areas of interest (AOIs).  
+
+•   Gaze fixation: 
+     ––  A common fixation threshold value for A common fixation threshold value for  
+         eye-tracking studies is 100 millisecond (1  
+         second). 
+     –   AOIs on the webpage (e.g., headers or  
+         headline captions, advertisements,  
+         images, text) can be identified according  
+         to users’ gaze fixation. 
+
+                (Image source: https://www.tobiidynavox.com/about/about-us/how-eye-tracking-works/) 16 
+
+----------------------- Page 17-----------------------
+
+Case Study 
+
+          Eye-tracking Analysis 
+
+•  Samples (partial page) of eye-fixation (heatmap)  
+   on LonelyPlanet and food blogger webpage. 
+
+    LonelyPlanet (travel website)   Food blogger page (food blog) 17 
+
+----------------------- Page 18-----------------------
+
+  Case Study 
+
+Results: Fixations on Information Patches 
+
+                                                                            18 
+
+----------------------- Page 19-----------------------
+
+  Case Study 
+
+       Results: Advertisement Cues 
+
+•   Low fixations and low number of  
+    clicks were found on the  
+    advertisements in both advertisements in both  
+    LonelyPlanet and food blog sites.  
+     –   This suggest advertisement has a  
+         weak information scent for users in  
+         general, despite of information  
+         credibility. 
+
+•   The advertisement also produced a  
+    cluster effect cluster effect –– users didn’t look at users didn’t look at  
+    or click on the category links which  
+    were located near the  
+    advertisements. 
+     –   This suggest that advertisements  
+         enclosed within the site affect the  
+         scent cue perception. 
+                                                         LonelyPlanet               Food blog 
+                                                                                                  19 
+
+----------------------- Page 20-----------------------
+
+     Digital Cognition and Machine  
+                            Learning 
+
+•   Humans and digital  
+   agents learn in different agents learn in different  
+   directions.directions. 
+
+•  Whereas human  
+   cognition emerged  
+   from bodily perception  
+   and eventually  
+   developed the ability to developed the ability to  
+   think in terms of  
+   abstractions and  
+   symbols, digital  
+   computing works the  
+   other way around. 
+
+                                                                                  20 
+
+----------------------- Page 21-----------------------
+
+     Digital Cognition and Machine  
+                       Learning 
+
+•  We learn and understand by coupling  
+   information information with with context (e.g., the surrounding context (e.g., the surrounding  
+   environment and semantics.). 
+
+•  But digital technology decouples information  
+   from our context (and turns such information  
+   into bits). 
+
+•  For digital technology and machine learning, we  
+   need to produce representations of information  
+   with which computers can work. 
+
+                                                                     21 
+
+----------------------- Page 22-----------------------
+
+Example: Representation of smiley faces with  
+                               vectors.  
+
+            Eyes 
+
+                                                            Each smiley face can  
+                                                            be represented by a  
+                       (2, 10)(2, 10) 
+                                        (5, 10)(5, 10)      vector with 2 elements vector with 2 elements  
+                                                            in a 2-dimensional  
+                                                            vector space. 
+
+                  (1, 6) 
+
+                                                (6, 4) 
+
+                                                           (10, 1) 
+                                                                         mouth 
+
+                                                                                          22 
+
+----------------------- Page 23-----------------------
+
+                             References 
+
+•   A. Hinton, Understanding Context: Environment, Language, and  
+    Information Architecture, O’Relly, 2015. (Chapter 14). 
+
+•   P. Pirolli and S. Card, Information foraging, Psychological Review,  
+    106(4), Oct 1999, 643-675. 
+•   P. Pirolli, S. Card, and M. Van Der Wege, Visual information foraging  
+    in a focus + context visualization, ACM CHI 2001, pp.506-513. 
+
+•   Lee, H. & Pang, N. (2017). Information scent – credibility and gaze  
+    interactions: an eyeinteractions: an eye--tracking analysis in information behaviour tracking analysis in information behaviour  
+    InIn Proceedings of ISIC, the Information Behaviour Conference, Proceedings of ISIC, the Information Behaviour Conference,  
+    Zadar, Croatia, 20 -23 September, 2016: Part 2. Information  
+    Research, 22(1), paper isic1613). 
+     •   http://www.informationr.net/ir/22-1/isic/isic1613.html 
+
+                                                                                                 23 

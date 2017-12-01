@@ -1,0 +1,325 @@
+﻿----------------------- Page 1-----------------------
+
+          IERG3320/ESTR3306 
+      Social Media and Human Social Media and Human  
+      Information Interactions 
+
+Week Eleven (I): Information Visualization I 
+
+               Prof. Rosanna Y.-Y. Chan 
+                 13 November 2017 
+
+----------------------- Page 2-----------------------
+
+                         Introduction 
+
+•   We often work with the visual representation of  
+    information; where 
+     –– Visual representationVisual representation is the is the signifiersignifier 
+     –  Information is the signified 
+•   Being able to interact with the representations  
+    significantly enhances the effectiveness of the activity.  
+    •   This is especially true in the context of big data and large information  
+        spaces. 
+
+                Image source: https://phys.org/news/2015-03-human-brain-big-brainx3.html 
+
+                                                                                            2 
+
+----------------------- Page 3-----------------------
+
+                        Introduction 
+
+•   Visualization communicates information in a visually  
+    perceptible form. 
+••  Consider the visualization example below, where the Consider the visualization example below, where the  
+    information space is an electromagnetic field. 
+
+                                 Electro- 
+                                magnetic  
+                                   FieldField 
+
+         Realty             Information Space 
+
+                                                           Representation Space 
+
+                                                                                          3 
+
+----------------------- Page 4-----------------------
+
+                        Introduction 
+
+•   The information items that need to be represented  
+    include:  
+     ––  electric dipoleselectric dipoles, , a set of coa set of co--occurring electric fieldsoccurring electric fields with with  
+        different boundaries, and equipotential lines that  
+        converge and diverge from the poles and are always  
+        moving perpendicular to the electric fields. 
+
+•   Its visualization is composed of these design patterns: 
+     –– the positive and negative poles (the positive and negative poles (TokenToken), the lines that ), the lines that  
+        converge and diverge from these poles (Branch), the  
+        arrows that show the direction of the flow of these  
+        equipotential lines (Link), the two groups (Group) of  
+        concentric ovals (Area) that encode the co-occurring fields  
+        and bounded areas. 
+
+                                                                                         4 
+
+----------------------- Page 5-----------------------
+
+           An Example: Interactive  
+          Information Visualization 
+•  The Oscar Sentimeter rates tweets that cite Academy  
+   Awards nominees and scores them on a more-positive  
+   / more/ more--negative scale and support interactive queries. negative scale and support interactive queries.  
+
+         (Image source: http://graphics.latimes.com/senti-meter/ )            5 
+
+----------------------- Page 6-----------------------
+
+    Information and Representation 
+
+•   Information visualization design is fundamentally  
+    concerned with encoding information. I.e., converting  
+    information from one form to another. information from one form to another.  
+•   (Semantic) information is converted from an abstract form  
+    in information space (e.g., concepts, statistics, facts, data)  
+   to a concrete (i.e., visual with a “physical” shape) form in  
+    representation space. 
+
+                                                                                     6 
+
+----------------------- Page 7-----------------------
+
+          Information Space and  
+           Representation Space 
+
+•  An information space contains all kinds of data,  
+   concepts, ideas, processes, models, etcconcepts, ideas, processes, models, etc.. 
+    – These items can be conceptualized as having spatial  
+       characteristics.  
+
+•  Representation space is the space in which  
+   information items are encoded into perceptible information items are encoded into perceptible  
+   visual forms. 
+    – A representation space can be reified in a physical  
+       display such as a computer monitor and a mobile  
+       device display. 
+
+                                                                              7 
+
+----------------------- Page 8-----------------------
+
+                   Visual Marks 
+
+•  Visual marks are the primitive  
+   building blocks of visualizations  
+   which can form into more complex which can form into more complex  
+   representation.  
+•  E.g., dots, lines, and simple shapes. 
+
+•  A visual mark can also represents  
+   an information item (e.g., a car)  
+   which can be symbolic or  
+   analogical. 
+
+                                                                        8 
+
+----------------------- Page 9-----------------------
+
+         Visual Marks: Examples 
+
+•   Different ways of mapping information items  
+   from information space to visual marks in from information space to visual marks in  
+   representation space.  
+
+                                                                                 9 
+
+----------------------- Page 10-----------------------
+
+                 Visual Structure 
+
+•  Visual structures in the representation space are  
+   composite, being made up of two or more visual  
+   marks (e.g. lines and dots) according to the marks (e.g. lines and dots) according to the  
+   organization of information (e.g., the structure of a  
+   social network). 
+•  Examples of abstract structures include coordinate  
+   structures, cellular structures, hierarchical structures,  
+   tabular structures, containment structures, and  
+   geometric structures. 
+
+                                                                              10 
+
+----------------------- Page 11-----------------------
+
+                  Visual Variables 
+
+•  Visual variables are visual properties that can  
+   meaningfully encode information in meaningfully encode information in  
+   visualization representation. 
+    – E.g., color, size, angle/orientation, texture, shape,  
+       curvature, and motion (in dynamic displays). 
+
+••  Some of these properties (e.g., color, spatial, Some of these properties (e.g., color, spatial,  
+   size, motion) have more specific sub-features: 
+    – E.g., color can vary with respect to hue,  
+       saturation, and luminance. 
+
+                                                                              11 
+
+----------------------- Page 12-----------------------
+
+                   Visual Variables 
+
+•  Visual variables can be used to encode information. 
+•   E.g., in addition to encoding the existence of three  
+    items in the information space, different visual items in the information space, different visual  
+   variables can be adjusted to encode more information  
+   from the information space using: size (b); color hue  
+    (c); shape (d); spatial location (e); and color saturation  
+    (f). 
+
+                                                                                    12 
+
+----------------------- Page 13-----------------------
+
+                    Visual Variables 
+
+•   In the example below, a geographical map of the U.S. itself  
+    encodes the spatial position (latitude and longitude (i.e.,  
+    location).  
+     ––  (Left) The (Left) The size variablesize variable of the visual marks (dots) can be used to of the visual marks (dots) can be used to  
+        further encode the population of each areas.  
+     –  (Right) The additional variable of color hue can be used to  
+        encode a property of the population (e.g., has used two hues  
+        to encode two possible values for a property of the areas such  
+        as whether the majority of residents prefer one sport over  
+        another). 
+
+                                                                                          13 
+
+----------------------- Page 14-----------------------
+
+                          Visual Tasks 
+
+•   To human users, some visual variables are more  
+    effective than others in supporting effective than others in supporting visual tasks visual tasks such as such as  
+    perceptual judgments and comparisonsperceptual judgments and comparisons. .  
+
+•   Visual tasks can be roughly divided into low-level and  
+    high-level tasks. 
+     –  Low-level visual tasks refer to goal-driven behaviors that  
+        are performed by the human visual system while looking  
+        at visualizations (e.g., perceiving the comparative sizes of at visualizations (e.g., perceiving the comparative sizes of  
+        two visual marks) (cognitive). 
+     –  High-level visual tasks are driven by high-level goals such  
+        as categorizing a set of items while solving a problem  
+        (metacognitive or epistemic cognitive). 
+
+                                                                                            14 
+
+----------------------- Page 15-----------------------
+
+                         Visual Tasks 
+•   The type of visual variables has an effect on low-level  
+    visual tasks during human visual processing.  
+     –  Human users demonstrate different level of accuracy when  
+        looking at visualizations with different visual variables.looking at visualizations with different visual variables. 
+•   Furthermore, these effects are especially accentuated  
+    when the time available to perform the tasks is very short. 
+
+                                                                                           15 
+
+----------------------- Page 16-----------------------
+
+    Complex Cognitive Activities 
+
+•  Complex cognitive activities are activities that  
+   have at least two essential attributes:have at least two essential attributes: 
+    – (1) Complex mental processes: requiring the  
+       combination and interaction of more elementary  
+       perceptual and attentive processes as well as higher- 
+       level controlled thought processes—e.g., visual  
+       perception, focused attention, memory processes,  
+       mental models, and analytical reasoning. 
+    –– (2) Complex external conditions: (2) Complex external conditions: e.g., external e.g., external  
+       processes and structures may be dynamic, non-linear,  
+       non-deterministic, characterized by uncertainty,  
+       noise, and/or with many variables exhibiting a high  
+       level of interaction and interdependence. 
+
+                                                                                16 
+
+----------------------- Page 17-----------------------
+
+     Complex Cognitive Activities 
+
+•   Complex cognitive activities often involve high-level  
+    cognitive processescognitive processes such as learning, problem solving, such as learning, problem solving,  
+    decisiondecision--making, and analytical reasoning.making, and analytical reasoning. 
+     – They are essentially the epistemic cognitive processes  
+        (involving knowledge). 
+
+•   Complex cognitive activities are often performed with  
+    complex information spaces (e.g., large, dynamic,  
+    interconnected, interdependent, heterogeneous interconnected, interdependent, heterogeneous  
+    information spaces). 
+     –  E.g. analyzing large collections of medical documents to  
+        make clinical diagnoses, exploring multiple heterogeneous  
+        datasets to make sense of global climate change patterns. 
+
+                                                                                        17 
+
+----------------------- Page 18-----------------------
+
+         Complex Cognitive Activities and  
+     Interactive Information Visualization 
+
+•   There are three aspects in a complex cognitive activity: cognitive,  
+    interactive, and visual.  
+     ––  Different tasks require different distributions of visual, cognitive, and Different tasks require different distributions of visual, cognitive, and  
+         interactive processing. 
+
+•   In the age of big data and increasingly large information spaces  
+    made of federations of heterogeneous datasets, information  
+    visualization tools need to appropriately generate an interactive  
+    visualizations to help users work effectively in complex situations. 
+
+                                                                                               18 
+
+----------------------- Page 19-----------------------
+
+  Distributed Cognition and Human  
+             Visualization System 
+
+•  Research has demonstrated that interactive  
+   computational tools (when designed well) can computational tools (when designed well) can  
+   become active partners in cognition,  
+   distributing the requisite load of cognitive  
+   processing. 
+
+••  When using visualization tools to support the When using visualization tools to support the  
+   performance of complex cognitive activities,  
+   the user(s) and the tool are coupled together  
+   such that they form a joint cognitive system . 
+
+                                                                       19 
+
+----------------------- Page 20-----------------------
+
+                        References 
+
+••  KamranKamran SedigSedig and Paul Parsons, and Paul Parsons, Design of Design of  
+    Visualizations for Human-Information Interaction:  
+   A Pattern-Based Framework, Morgan & Claypool  
+    Publishers, 2016. 
+
+••  SedigSedig, K., Parsons, P., Dittmer, M., and Haworth, , K., Parsons, P., Dittmer, M., and Haworth,  
+    R. (2013). HumanR. (2013). Human--centered interactivity of centered interactivity of  
+   visualization tools: Micro-and macro-level  
+   considerations. In Handbook of Human Centric  
+    Visualization (pp. 717–743). 
+
+                                                                                  20 

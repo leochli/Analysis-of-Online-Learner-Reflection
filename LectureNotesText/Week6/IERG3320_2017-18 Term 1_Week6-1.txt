@@ -1,0 +1,322 @@
+﻿----------------------- Page 1-----------------------
+
+    IERG3320/ESTR3306 
+Social Media and Human Social Media and Human  
+ Information Interactions 
+
+Week Six (I): Modes of Information 
+
+          Prof. Rosanna Y.-Y. Chan 
+              9 October 2017 
+
+----------------------- Page 2-----------------------
+
+                          Information 
+
+  •  Before around 1960, people didn’t use the word  
+     “information” nearly as much as they do today.“information” nearly as much as they do today. 
+  •  We now talk of living in the “Information Age”. 
+
+                                                                           Information 
+
+Search for “information” in books from 1900 to 2000, using Google’s Ngram Viewer (https://books.google.com/ngrams/ ). 2 
+
+----------------------- Page 3-----------------------
+
+                     Information 
+
+•  For people whose job it is to make  
+   environments with information (i.e., us), we environments with information (i.e., us), we  
+   need a specialized understanding about  
+   information. 
+
+••  We need a We need a practical, working modelpractical, working model for how for how  
+   information works, and how it can meet the  
+   everyday expectations of its users. 
+
+                                                                           3 
+
+----------------------- Page 4-----------------------
+
+              Information Engineers and  
+                              Information 
+
+                                                                Human-information interaction 
+
+Images captured from http://cheekyscientist.com/ ,http://www.mi2g.com/ and Wikipedia.      4 
+
+----------------------- Page 5-----------------------
+
+Information: Modes and Layers 
+
+                                                                             5 
+
+----------------------- Page 6-----------------------
+
+      Pace Layers of Information 
+
+                                    Information Technology 
+
+                                    Information Organization & Design 
+                                    Written / Graphical Language 
+                                    Spoken Language 
+                                    Perception / Cognition 
+
+Pace layering: The lower-level layer changes more slowly over  
+time than the next, and so on. 
+                                                                           6 
+
+----------------------- Page 7-----------------------
+
+        Perception and Cognition 
+
+•  Perception is the core mechanisms for a body  
+   to receive information from the environment.to receive information from the environment. 
+    – E.g., lizards perceive (to climb surfaces to eat  
+       bugs), humans perceive (to walk around). 
+
+••  Perception and cognitionPerception and cognition change very slowly change very slowly  
+   for all organisms (including humans). 
+
+                                                                                7 
+
+----------------------- Page 8-----------------------
+
+               Spoken Language 
+
+•  Spoken language has been around for a very  
+   long time for our specieslong time for our species 
+
+•  Even though particular languages can change  
+   a lot over centuries, the essential  
+   characteristics of spoken language change characteristics of spoken language change  
+   much more slowly. 
+
+                                                                             8 
+
+----------------------- Page 9-----------------------
+
+    Written/Graphical Language 
+
+•  Written/graphical language is the way we use  
+   physical objects to encode verbal language for physical objects to encode verbal language for  
+   communicating beyond the present moment.  
+
+•  Writing is also a way of encoding information,  
+   which is a precursor to digital code. 
+
+                                                                           9 
+
+----------------------- Page 10-----------------------
+
+     Information Organization and  
+                        Design 
+
+•  The ability to freeze speech on a surface and  
+   relate it to other frozen speech on the same relate it to other frozen speech on the same  
+   surface opened up the ability to have maps,  
+   diagrams, broadsides, folios, all of which  
+   required organization and layout.  
+
+•  Similarly, we can also design and organize  
+   digital information for computing. 
+
+                                                                    10 
+
+----------------------- Page 11-----------------------
+
+         Information Technology 
+
+•  Information technology changes very rapidly 
+    –– Even in our own lifetimes.Even in our own lifetimes. 
+
+•  Depended on the invention of computer and  
+   networking hardware and also digital  
+   softwaresoftware.. 
+    – It’s the layer that has most disrupted our  
+       experience of the other two modes (physical and  
+       semantic), in the shortest time.  
+
+                                                                             11 
+
+----------------------- Page 12-----------------------
+
+                           Remarks 
+
+•  The ways in which people interact with information  
+    have evolved over timehave evolved over time; some aspects are ; some aspects are  
+   foundational and more stable, whereas other aspects  
+   are more variable and change more quickly. 
+
+•   Most system design begins with technology first.  
+
+••  However, a better way is to However, a better way is to understand how the world understand how the world  
+    makes sense to us in the first place—with bodies,  
+   surfaces, and objects—and build the rest of our  
+    understanding from that foundation. 
+
+                                                                                  12 
+
+----------------------- Page 13-----------------------
+
+Three Modes of Information 
+
+                  The three modes of information. 
+
+                                                                              13 
+
+----------------------- Page 14-----------------------
+
+              Physical Information 
+
+•  This is the information an entity (e.g.,  
+   animals, human) use to perceive their  
+   environment for purposes of environment for purposes of taking physical taking physical  
+   action.  
+
+•   It is information that functions  
+    “ecologically”—that is, in the relationship  
+    between an entity and its environment. 
+
+•   It’s about surfaces, edges, substances,  
+   objects, and the ways in which those things  
+   contain and relate to one another to support  
+   an entity’s behaviors and even survival. 
+
+                                                                                  14 
+
+----------------------- Page 15-----------------------
+
+              Semantic Information 
+
+•   This is information created for the purpose of  
+    communicating meanings.  
+     ––  Often referred to as “language”. Often referred to as “language”.  
+     –  Includes all sorts of communication such as  
+         gestures, signs, graphics, speech and writing. 
+
+•   Semantic information is more fluid than  
+    physical information but it still creates                                  EXIT 
+    environmental structure for us.environmental structure for us. 
+     –  It overlaps the Physical mode because much of the It overlaps the Physical mode because much of the  
+         human environment depends on complementary  
+         qualities of both of these modes; 
+     –  such as the signage and maps positioned in  
+         physical locations and written on physical surfaces  
+         in an airport. 
+
+                                                                                               15 
+
+----------------------- Page 16-----------------------
+
+Embodied Cognition 
+
+             •   Embodied cognition recognizes the  
+                 relationship between cognition, relationship between cognition,  
+                 body (embodiment), and external body (embodiment), and external  
+                environments (embedment).  
+
+             •  There exist relationship between  
+                semantic function (the use of  
+                 language as part of the  
+                environment), human perception, environment), human perception,  
+                and the augmentation of physical  
+                affordance (opportunities for real  
+                action specified from physical  
+                information).  
+
+                                                                      16 
+
+----------------------- Page 17-----------------------
+
+A Basic Model of Cognition 
+
+                                             (2) 
+     (1)                                                   1.    The brain gathers data  
+                                                                 about the world  
+                                                                 through the body’s through the body’s  
+                                                                 senses. 
+                                                           2.    It then works  
+                                                                 with abstract  
+                                                                 representations of  
+                                                                 what is sensed. 
+                                                           3.    The brain processes  
+                                                                 the representational  
+                                                                 data by using rules,  
+    (4)(4)                                                       models, and logical models, and logical  
+                                               (3)               operations. 
+                                                           4.    The brain then takes  
+                                                                 this abstract  
+                                                                 information and  
+                                                                 translates it into  
+                                                                 instructions to the  
+                                                                 body. 
+                                                                                               17 
+
+----------------------- Page 18-----------------------
+
+             Embodied Cognition 
+
+•  There’s a continuous loop of action and perception in  
+   which the entire environment is involved. 
+
+            A model for the brain-body-environment relationship.  
+
+                                                                             18 
+
+----------------------- Page 19-----------------------
+
+             Embodied Cognition 
+
+•  Related theories: situated cognition, and  
+   distributed cognitiondistributed cognition.. 
+•  E.g., we can “distribute” (externalize) thought  
+   into bodily engagement with our environment  
+   through sketching or using sticky notes. 
+
+                                                                            19 
+
+----------------------- Page 20-----------------------
+
+                Digital Information 
+
+•  This is the “information technology” sort of  
+    information by which computers operate, and information by which computers operate, and  
+   communicate with other computers.  
+•   Digital information overlaps the semantic mode,  
+    because it’s made of encoded semantic information. 
+•   It also affects our physical environment. 
+
+••  Digital information may not be “readable” Digital information may not be “readable” by by human.human. 
+    – That’s because it works by stripping out people-centric  
+        context so that machines can talk among one another  
+        with low error rates, as quickly and efficiently as possible.  
+
+                                                                                   20 
+
+----------------------- Page 21-----------------------
+
+    Information: Modes and Layers  
+                        Revisited 
+
+•  How can we design information and communication technologies  
+   for better UX with our new understanding about information? 
+
+                                                                        21 
+
+----------------------- Page 22-----------------------
+
+                         References 
+
+(Disclaimer: This lecture notes contain materials  
+   extracted from the following references and should extracted from the following references and should  
+   only be used as an internal reference.) 
+
+•  A. Hinton, Understanding Context: Environment,  
+    Language, and Information Architecture, O’Relly, 2015. 
+
+••  PP. . DourishDourish, “What We Talk About When We Talk About , “What We Talk About When We Talk About  
+   Context.” Personal and Ubiquitous Computing.  
+    London: Springer-Verlag, February 2004; 8(1):19–30. 
+
+                                                                                   22 

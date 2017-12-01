@@ -1,0 +1,623 @@
+﻿----------------------- Page 1-----------------------
+
+        IERG3320/ESTR3306 
+     Social Media and Human  
+      Information Interactions 
+
+Week Twelve (II): Social Network Analysis II 
+
+              Prof. Rosanna Y.-Y. Chan 
+               24 December 2017 
+
+----------------------- Page 2-----------------------
+
+     Networks in the Real World 
+
+•  Networks exist everywhere in the real-world 
+    – Our network of family and friends 
+    – Transportation networks 
+    – Telephone networks 
+    – Distribution network shops 
+    – Banking network; etc. 
+
+                                                                   2 
+
+----------------------- Page 3-----------------------
+
+Networks and Complex Systems 
+
+•  “Being networked” / being connected is a  
+   fundamental characteristic of complex  
+   systems. 
+
+                                                               3 
+
+----------------------- Page 4-----------------------
+
+Networks and Complex Systems 
+
+•  Complex systems consist of entities (e.g. agents  
+   or actors) that interact with each other and their  
+   system environment. 
+    – The agents act in a self-organized manner. 
+
+•  Network represents a wide variety of structures  
+   in which: 
+    – The entities of the complex system are represented  
+      by the nodes of the network 
+    – The relationships or interactions between the entities  
+      are represented by the edges of the network  
+
+                                                                    4 
+
+----------------------- Page 5-----------------------
+
+          Networks - Examples 
+
+•  Edges representing physical links 
+•  Pairs of nodes can be physically connected by  
+   a tangible link; e.g. 
+    – Physical network behind the internet 
+    – Urban street networks 
+    – Road/underground networks 
+    – Water or electricity supply networks 
+    – Neural and vascular networks 
+
+                                                                  5 
+
+----------------------- Page 6-----------------------
+
+            Networks - Examples 
+
+•  Edges representing ethereal  
+   connections 
+•  Pairs of nodes can be  
+   connected by intangible  
+   connections 
+•  E.g. information is sent from  
+   one node and is received at  
+   another (irrespective of the  
+   physical path) 
+    – E.g. phone call networks,  
+                                             http://www.urbagram.net/v1/show/The+Living+City 
+
+       online discussions 
+
+                                                                         6 
+
+----------------------- Page 7-----------------------
+
+             Networks - Examples 
+
+•  Edges representing  
+   mass/energy exchange 
+•  Pairs of nodes can be  
+   connected by relations that  
+   indicate the interchange of  
+   mass and/or energy between  
+   them; e.g. 
+    – Chemical reaction networks 
+    – Metabolic networks 
+    – Food webs 
+    – Trade networks 
+                                                     Example of metabolic networks 
+                                                     http://www.nature.com/articles/srep01695 
+
+                                                                             7 
+
+----------------------- Page 8-----------------------
+
+             Networks - Examples 
+
+•  Edges representing  
+   conceptual linking 
+    – Pairs of nodes can be  
+       conceptually connected  
+       to each other as in  
+       dictionaries and  
+       citation networks 
+    – E.g. The Small World of  
+       Words (Mapping the  
+       Mental Lexicon)                            http://blogs.cornell.edu/info2040/2014/09/15/ 
+                                                  the-small-world-of-words-mapping-the- 
+                                                  mental-lexicon/ 
+
+                                                                                 8 
+
+----------------------- Page 9-----------------------
+
+                                 Graphs  
+
+   •   We can use formal mathematical language (in Graph  
+       Theory) to describe a network.  
+
+   •   Graphs are mathematical structures used to represent  
+       relationships between objects. 
+   •   A graph contains a collection of vertices (nodes) and edges 
+       (lines). 
+   •   Formally, G = (V, E): 
+           V is a set of vertices. 
+           E is a set of edges. 
+
+Remark: “Vertices” (V) and “edges” (E) are the  
+generic terms used in Graph Theory in  
+mathematics. While nodes (N) and lines (L) are  
+        a 
+used specifically in social network analysis (SNA). 
+
+                                                                                          9 
+
+----------------------- Page 10-----------------------
+
+Graphs  
+
+                                                 10 
+
+----------------------- Page 11-----------------------
+
+                         Graphs 
+
+  •  Order of a graph = Number of Vertices 
+  •  Size of a graph = Number of Edges 
+
+Remark: |A| denotes the cardinality (i.e. the number of elements) of a finite set A. 11 
+
+----------------------- Page 12-----------------------
+
+    Density (of Undirected Graph) 
+
+•  Density of an undirected graph 
+    = Proportion of possible edges in the graph 
+
+•  Number of possible edges is given by: 
+
+    |V| 
+       C2  possible unordered pair of nodes (a combination problem) 
+
+             = 
+
+•  Therefore, density of an undirected graph is given by: 
+                 D = |E| / (number of possible edges) 
+
+                                                                              12 
+
+----------------------- Page 13-----------------------
+
+     Density (of Directed Graph) 
+
+•  Density of a directed graph 
+    = Proportion of possible edges in the graph 
+
+•  Number of possible edges is given by: 
+    |V|P2  possible ordered pair of nodes (a permutation  
+       problem) 
+       = |V|(|V|-1) 
+
+•  Therefore, density of an undirected graph is given by: 
+                D = |E| / (number of possible edges) 
+
+                                                                         13 
+
+----------------------- Page 14-----------------------
+
+   Adjacency Matrix of a Graph 
+
+•  An adjacency matrix represent a graph as a  
+   square matrix. 
+
+                                                = 
+
+                                                                    14 
+
+----------------------- Page 15-----------------------
+
+                      Exercise 
+
+•  Can you draw a graph represented by this  
+   matrix? 
+•  Is it a directed or undirected graph? 
+
+                                                                  15 
+
+----------------------- Page 16-----------------------
+
+                        Exercise 
+
+•  Draw the sociogram on this page 
+
+                                                                       16 
+
+----------------------- Page 17-----------------------
+
+        Social Network Analysis 
+
+•  A social network is a network of social actors (e.g.,  
+   human) who have agency and are able to act. 
+
+•  Quantitative network metrics allow us to evaluate a  
+   social network or compare between social networks. 
+
+•  Some of the SNA indexes that will be covered in this  
+   course include 
+    –  Degree Centrality 
+    –  Betweenness Centrality 
+    –  Closeness Centrality 
+
+                                                                        17 
+
+----------------------- Page 18-----------------------
+
+  Social Network Analysis – Idea of  
+                          Centrality 
+
+Bob                   Carol     •   Consider a star-shape social  
+                                    network. 
+
+            Alice 
+                                •   Three distinct structural properties  
+                                    are uniquely possessed by the  
+                                    center node of the star: 
+                                     –  It has the maximum possible degree; 
+                                     –  It falls on the geodesics between the  
+                                        largest possible number of other  
+                                        nodes; and 
+                                     –  It is located at the minimum distance  
+                                       from all other nodes, in other words,  
+  David                    Eve          it is maximally close to them. 
+
+                                                                               18 
+
+----------------------- Page 19-----------------------
+
+  Social Network Analysis - Degree 
+
+•  Degree of a vertex = No. of edges connected to the vertex 
+
+•  In-degree and Out-degree (for directed graphs) 
+
+                                                                              19 
+
+----------------------- Page 20-----------------------
+
+  Social Network Analysis - Degree 
+
+•  In-degree and Out-degree (Digraph) 
+    – While in-degree and out-degree both reflects  
+      how many people are connected to an actor, their  
+      meanings can be different. 
+    – Consider Twitter or Weibo. 
+
+                                                                    20 
+
+----------------------- Page 21-----------------------
+
+  Social Network Analysis - Degree 
+
+•  What is the meaning of the degree of an  
+   actor? 
+    – It is the number of ties a person has in a social  
+      network. 
+    – It is the number of people a person is connected  
+      to. 
+    – Might reflects the importance of this actor among  
+      other people. 
+
+                                                                    21 
+
+----------------------- Page 22-----------------------
+
+                  Degree Centrality 
+
+•   For an adjacency matrix with entries x  , degree  
+                                                              ij 
+    centrality of node n  is: 
+                                  i 
+
+•   Normalized degree centrality 
+     –  Normalization is needed so that the size of the network  
+        won’t affect the centrality. 
+     –  Normalized Degree Centrality has value between 0 to 1.  
+        For a network with g nodes: 
+
+                                                                                          22 
+
+----------------------- Page 23-----------------------
+
+         Social Network Analysis - 
+                      Closeness 
+
+•  Shortest Path between Two Vertices 
+    – There may be more than one paths between two  
+      vertices, we consider the ‘shortest path’ or ‘geodesic’ 
+    – Distance between two vertices is the length of the  
+      shortest path 
+
+                                                                    23 
+
+----------------------- Page 24-----------------------
+
+         Social Network Analysis - 
+                     Closeness 
+•  Closeness refers to the extent to which an actor  
+   is close to all other people in the social network 
+•  Closeness Centrality of a vertex is the inverse of  
+   the summation of shortest distance from this  
+   vertex to all other vertices 
+
+    – What is the closeness of D? 
+
+                                                                   24 
+
+----------------------- Page 25-----------------------
+
+                 Closeness Centrality 
+
+•   Closeness centrality is based on the inverse of the  
+    geodesic distance of the actor to every other actor in the  
+    network. 
+•   Closeness Centrality (for a connected network): 
+
+                                                              1 
+                                           g                
+                             C (n )  d (n , n  )  
+                                c   i                i   j 
+                                          j 1              
+
+•   Closeness centrality increases with decreasing distance  
+    between n  to other nodes. 
+                      i 
+•   Normalized Closeness Centrality of a network with g  
+    nodes: 
+
+                                ' 
+                             C    (n )  (C        (n ))(g 1) 
+                               C     i          C     i 
+
+                                                                                                    25 
+
+----------------------- Page 26-----------------------
+
+      Social Network Analysis – 
+                Betweenness 
+
+•  Betweenness of a vertex represents the  
+   proportion of shortest paths between all  
+   other actor pairs that the actor in concern  
+   resides on. 
+   – E.g. What is the betweenness of C? 
+
+                                                              26 
+
+----------------------- Page 27-----------------------
+
+               Betweenness Centrality 
+
+Where g         = the number of geodesics connecting node j  and node k,  
+             jk 
+and g      (n)  = the number of g               that node i is on. 
+        jk    i                              jk 
+
+Measure the sum of probability that node n  is “involved” in the  
+                                                                     i 
+communication between other node pairs.  
+
+Normalized Betweenness Centrality for a network with g nodes 
+(obtained by dividing CB  by the maximum possible value: such value  
+occurs at the central node of a star network): 
+
+                            ' 
+                        C  (n )  C  (n ) /[(g 1)(g 2) / 2] 
+                           B      i         B      i 
+
+                                                                                                           27 
+
+----------------------- Page 28-----------------------
+
+        Social Network Analysis – 
+                   Betweenness 
+
+•  Betweenness centrality can be used to measure  
+   the importance of an actor in a social network 
+    – Actor with high betweenness centrality is likely to  
+      control the flow of information within the network. 
+    – If an actor with high betweenness centrality is 
+      removed, many shortest paths will be altered. 
+    – Consider an extreme case: 
+
+                                                                    28 
+
+----------------------- Page 29-----------------------
+
+  SNAP (Stanford Network Analysis  
+                     Project) 
+
+•  URL: http://snap.stanford.edu/ 
+   – Developed by Jure Leskovec from Stanford  
+      University since 2004. 
+
+•  SNAP is a general purpose, high performance  
+   system (written in C++) for analysis and  
+   manipulation of large networks. 
+•  Contains resources (Datasets, and Python  
+   interface, etc.) for analysis of large social and  
+   information networks. 
+
+                                                              29 
+
+----------------------- Page 30-----------------------
+
+Case Study 
+
+    Finding Java Experts from Big Data 
+
+   •  Remark: Tutorial and hands-on exercise of this case is available  
+      from SNAP (http://snap.stanford.edu/proj/snap-www/) 
+
+   •  Stack Overflow is a popular question-and-answer website for  
+      developers. 
+       –  http://stackoverflow.com/ 
+
+   •  Question-answering is a community-driven knowledge creation  
+      process; its end product can have enduring value to a broad  
+      audience.  
+       –  Users with specific expertise and deep knowledge of the subject have  
+          become increasingly important. 
+
+   •  The goal of this study is to find the top 10 Java experts in the Stack  
+      Overflow online forum. 
+
+                        (Reference: Rok Sosič and Jure Leskovec, WWW2015)            30 
+
+----------------------- Page 31-----------------------
+
+Case Study 
+
+   Finding Java Experts from Big Data 
+
+  •  The online discussion dataset is publicly  
+     available by Stack Overflow  
+     https://archive.org/download/stackexchange/ 
+     stackoverflow.com-Posts.7z 
+
+  •  In this case study, 
+      – 8,978,719 questions and 15,074,572 answers  
+        have been collected. 
+      – From Jul 2008 to Apr 2015. 
+      – 33GB of data. 
+
+                   (Reference: Rok Sosič and Jure Leskovec, WWW2015) 31 
+
+----------------------- Page 32-----------------------
+
+Case Study 
+
+    Finding Java Experts from Big Data 
+
+   •  Although Stack Overflow has a reputation score,  
+      however, it is not Java specific. 
+
+   •  Solution: The researchers have created a social  
+      network and compute the user centrality to determine  
+      the most prestigious users. 
+
+   •  They have constructed a directed graph where: 
+       –  Each node represents an individual user. 
+       –  Each edge represents the relationship in which a question  
+         owner points to the owner of the accepted answer. 
+
+                     (Reference: Rok Sosič and Jure Leskovec, WWW2015)      32 
+
+----------------------- Page 33-----------------------
+
+Case Study 
+
+   Finding Java Experts from Big Data 
+
+   •  Method Overview: 
+      – Step 1: Extract relevant fields from input 
+      – Step 2: Select questions about Java 
+           •  In the total 8,978,719 questions, 810,071 of them are  
+             related to Java  
+
+      – Step 3: Build the graph 
+           •  Find owners of accepted answers  
+
+      – Step 4: Analyze the graph 
+
+                     (Reference: Rok Sosič and Jure Leskovec, WWW2015)    33 
+
+----------------------- Page 34-----------------------
+
+Case Study 
+
+   Finding Java Experts from Big Data 
+
+   •  (Left) Questions XML format in Posts.xml 
+   •  (Right) Answers XML format in Posts.xml 
+
+  Questions XML format                        Answers XML format 
+
+                     (Reference: Rok Sosič and Jure Leskovec, WWW2015)    34 
+
+----------------------- Page 35-----------------------
+
+Case Study 
+
+    Finding Java Experts from Big Data 
+
+   •  Step 1. Process input file to extract relevant  
+      fields. This involves the following tasks: 
+      – Get lists of questions and answers 
+      – Identify Java posts 
+      – Convert XML format to TSV (tab separated values)  
+
+                     (Reference: Rok Sosič and Jure Leskovec, WWW2015)    35 
+
+----------------------- Page 36-----------------------
+
+Case Study 
+
+   Finding Java Experts from Big Data 
+
+   •  Step 2. Select only those questions related to  
+     Java. 
+
+                    (Reference: Rok Sosič and Jure Leskovec, WWW2015)    36 
+
+----------------------- Page 37-----------------------
+
+Case Study 
+
+   Finding Java Experts from Big Data 
+
+  •  Step 3. Construct the directed graph by  
+     finding owners of accepted answers. 
+
+                    (Reference: Rok Sosič and Jure Leskovec, WWW2015)   37 
+
+----------------------- Page 38-----------------------
+
+Case Study 
+
+   Finding Java Experts from Big Data 
+
+  •  Step 4. Analyze the graph to find top Java  
+     experts. 
+
+  •  The following metrics were calculated using  
+     SNAP for python: 
+      – Top 10 users by PageRank ranking algorithm 
+      – Top 10 users by HITs ranking algorithm 
+      – Top 10 users with highest in-degree 
+
+                   (Reference: Rok Sosič and Jure Leskovec, WWW2015) 38 
+
+----------------------- Page 39-----------------------
+
+Case Study 
+
+   Finding Java Experts from Big Data 
+
+   •  Results show that in-degree ranking in general  
+      matches with PageRank and HITS ranking algorithms  
+      (numbers are the user IDs). 
+   • Conclusion: The Java experts can be found by SNA on  
+      big data collected from a popular online forum. 
+
+                     (Reference: Rok Sosič and Jure Leskovec, WWW2015)    39 
+
+----------------------- Page 40-----------------------
+
+                  References 
+
+•  E. Estrada and P.A. Knight (2015). A First  
+   Course in Network Theory. Oxford University  
+   Press.  
+•  S. Wasserman & K. Faust (1994). Social  
+  network analysis: Method and analysis.  
+   Cambridge University Press. 
+•  Rok Sosič, Jure Leskovec (2015). Tutorial:  
+   Large Scale Network Analytics with SNAP.  
+  WWW, 2015. 
+
+                                                             40 

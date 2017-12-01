@@ -1,0 +1,375 @@
+﻿----------------------- Page 1-----------------------
+
+     IERG3320/ESTR3306 
+Social Media and Human Social Media and Human  
+ Information Interactions 
+
+            Week Thirteen (I):  
+      Virtual Virtual and Ambient Placesand Ambient Places 
+
+             Prof. Rosanna Y.-Y. Chan 
+               27 November 2017 
+
+----------------------- Page 2-----------------------
+
+              Digital Environment 
+
+•  Information and communication technology has  
+   changed how we experience “changed how we experience “placeplace”. ”.  
+•  E.g., the on-screen places for shopping are expected  
+   more and more to be integrated with physical stores.  
+    –  users begin shopping on the Web—a place without a  
+       physical location—but is “placed” in a “store” to see  
+       necessary information about products. 
+
+                                                                                2 
+
+----------------------- Page 3-----------------------
+
+             Digital Environment 
+
+•  Nowadays, there are also physical objects in  
+   our surroundings that are digitally enabled.our surroundings that are digitally enabled. 
+    – We may encounter digital information on a  
+       screen alone or in the ambient digital activity in  
+       our surroundings (e.g., embodiment or with  
+       contextual computing). 
+
+                                                                           3 
+
+----------------------- Page 4-----------------------
+
+      Architecture + Information 
+
+•  Designers and researchers have been exploring  
+   how to structure semantic information within how to structure semantic information within  
+   digital systems into environmental structures 
+   that would make sense to human users. 
+
+       (Image source: HK Science Museum)  (Image source: Landmark Entertainment Group) 4 
+
+----------------------- Page 5-----------------------
+
+         Information Architecture 
+
+•  Information architecture (IA) is an area in UX  
+    Design Design that that is focused on making is focused on making information information  
+    findable and understandable by human users. 
+
+         (Image source: http://insuranceblog.accenture.com/mobile-device-showing-augmented-reality/) 
+                                                                                         5 
+
+----------------------- Page 6-----------------------
+
+         Information Architecture 
+
+•   E.g.: Bloomberg’s Financial Product UX  
+    ((https://www.bloomberg.com/ux/https://www.bloomberg.com/ux/)) 
+
+                    (Image sources: Bloomberg (left) and wikimedia.org (right)) 
+
+                                                                                             6 
+
+----------------------- Page 7-----------------------
+
+        Information Architecture 
+
+•  Good IA design: Information products and services  
+   are perceived by people asare perceived by people as places made of places made of  
+   information, and that these information  
+   environments can be organized so that you can  
+   find the information you need and understand it  
+   once you have found it. 
+
+•  That’s why context is so important! 
+
+                                                                           7 
+
+----------------------- Page 8-----------------------
+
+              What Make Places? 
+
+•  Place is a function of the relationship between an  
+   agent and the layout of its environment. agent and the layout of its environment.  
+    – A place affords meaningful actions. E.g., a workplace.  
+    – We can create structures that we intend to be perceived  
+       as places. 
+    –  It’s through making sense of “space” that the space  
+       becomes a place. 
+
+•  From an embodied point of view, place is perceiver- 
+   specific.  
+    –  Places can shift in what they are to a perceiver, depending  
+       on what action is happening in the moment. 
+
+                                                                                 8 
+
+----------------------- Page 9-----------------------
+
+            Information and Place 
+
+•  As human, there’s no escaping the places we make with  
+    information. The semantic information we add to our  
+    environment plays a powerful role in how we comprehend, environment plays a powerful role in how we comprehend,  
+    experience, and inhabit places. 
+
+•   In everyday life, humans perceive physical information and  
+    semantic information as one blended environment.  
+     –  (Remark: Such physical/semantic information can be further  
+        “digitized” into digital information.) 
+
+                         (Image source: http://www.malagaairport.eu/)                9 
+
+----------------------- Page 10-----------------------
+
+                                Map 
+
+•   IA is largely concerned with  
+    both describing and both describing and  
+    instantiating places; while  
+   these places are made largely  
+   of semantic information. 
+
+•  A map is a semantic- 
+    information artifact information artifact that helps that helps  
+    us understand the  
+   environment that it describes  
+    (even though the place does                       A map in a map editor. 
+    not exist yet). 
+
+                                                                                  10 
+
+----------------------- Page 11-----------------------
+
+                 Object and Place 
+
+•  There has always been a contextual  
+   relationship betweenrelationship between placeplace andand objectobject. .  
+    – A building is an object; however, because of how it  
+       is used, and because people can fit inside its  
+       boundaries, it is usually experienced as a place.  
+
+           (Pictures inside and outside a convention center in Erie, PA) 
+                                                                               11 
+
+----------------------- Page 12-----------------------
+
+                 Object and Place 
+
+•  E.g., a smartphone camera app is represented  
+   as an as an objectobject on a phone’s on a phone’s Home screenHome screen, but , but  
+   after the app is “opened” and we are “in” it. 
+     – the app has nested  
+        structures of layouts,  
+        providing places that align  
+        with categories of action: with categories of action:  
+        e.g., taking a photo,  
+        browsing a collection of  
+        photos, etc.                                (Image source: iMore.com) 
+
+                                                                                12 
+
+----------------------- Page 13-----------------------
+
+      Virtual Place: An Example 
+
+•  The same semantic environment (in  
+   LambdaMOO; one of the oldest multi-user  
+   online game) simulated in different formats.online game) simulated in different formats. 
+    – A MOO (MUD: multi-user domain, object-oriented) is  
+       a text-based multiplayer real-time virtual world in  
+       which multiple players are connected at the same  
+      time. 
+
+                       (Word-based simulation)                          13 
+
+----------------------- Page 14-----------------------
+
+       Virtual Place: An Example 
+
+•  The map (left) and how a room looks as  
+   rendered according to the map (right).rendered according to the map (right). 
+•  The game can “take place” in word-based as well  
+   as computer rendered environment. 
+
+                                                                            14 
+
+----------------------- Page 15-----------------------
+
+   Augmented and Blended Places 
+
+•  Nowadays, digital environments  
+   are nested within our physical  
+   environment.  
+
+•  Semantic information is now  
+                                                            (Smart home) 
+   dynamically and actively engaged  
+   in our entire environment, not  
+   just static marks on surfaces or  
+   displays. 
+
+•  Physical place can also become a  
+                                                            (RFID retail tags) 
+   “cyberplace”, shaped by the maps  
+   of information we engage through  
+   the digital systems pervading our  
+   surroundings.  
+
+(Image sources: https://recombu.com/, http://rp3.com.ec/, and Samsung.com) (Samsung smart signage) 15 
+
+----------------------- Page 16-----------------------
+
+Case Study 1 
+
+        Tesco’s Subway Virtual Store 
+
+    •  (Video link: https://youtu.be/GEwvh_8MQb8) 
+
+          Shoppers scan simulated products for home delivery, while  
+          waiting for the subway. 
+
+                                                                                16 
+
+----------------------- Page 17-----------------------
+
+Case Study 1 
+
+        Tesco’s Subway Virtual Store 
+
+    •  Supermarket company Tesco created a wall-of- 
+       objects, which are wall-sized posters that look like  
+       store shelves full of products. store shelves full of products.  
+
+    •   Each product has a QR code customers can scan with  
+       their phones, purchase from an app, and then have  
+       delivered to their doors after they’ve arrived home. 
+
+                          (Image source: http://www.designboom.com/)              17 
+
+----------------------- Page 18-----------------------
+
+Case Study 1 
+
+       Tesco’s Subway Virtual Store 
+
+    •  This environmental innovation takes advantage  
+       of a real, contextual insightof a real, contextual insight 
+        – subway passengers have to stand and wait for trains,  
+           and they are often in a hurry to get to or from home.  
+        – In addition, they need to remember a list of things  
+          they should get at the store rattling around in their  
+           heads.  
+
+    •  Cleverly, these simulated store shelves take the  
+       context of customer behavior into account,  
+       bringing the store to the customer. It transforms  
+       one context into being another at the same time. 
+
+                                                                             18 
+
+----------------------- Page 19-----------------------
+
+Case Study 1 
+
+       Tesco’s Subway Virtual Store 
+
+    •  It’s the combination between the physical  
+      posters and digital technologies (e.g., mobile posters and digital technologies (e.g., mobile  
+      network access, smartphones, QR codes, etc.)  
+      that make the “objects” what they are.  
+      Otherwise, they’d just be pictures of dish  
+      soap and soft drinks. 
+
+    •  Result: This novel idea reportedly increased  
+      sales for Tesco’s Home Plus brand by 130  
+      percent. 
+
+                                                                       19 
+
+----------------------- Page 20-----------------------
+
+Case Study 2 
+
+                         Yelp Monocle 
+
+    •  Smartphone potentially turns  
+        any environment into a richly any environment into a richly  
+        interactive, semantically  
+        layered place.  
+
+    •  Yelp is a social reviewing  
+        platform that augments our  
+        understanding of the places understanding of the places  
+        of business in our  
+        environment. 
+         – https://www.yelp.com/ 
+
+                                                         (Yelp’s search-results view, showing  
+                                                         summary contextual information  
+                                                         about restaurants in Ann Arbor, MI) 20 
+
+----------------------- Page 21-----------------------
+
+Case Study 2 
+
+                        Yelp Monocle 
+
+    •  (Video link: https://youtu.be/VFaIengNrxY) 
+
+                 Yelp’s Monacle feature, layering thumbnail  
+                 review information over the surrounding street. 
+
+                                                                                21 
+
+----------------------- Page 22-----------------------
+
+Case Study 2 
+
+                          Yelp Monocle 
+
+     •  Adding a digital-powered semantic-information  
+        dimension to the environment dimension to the environment shifts the entire shifts the entire  
+        marketplace of restaurantmarketplace of restaurant--going.going. 
+
+     •  Wherever Yelp is in heavy use, chain restaurant  
+        popularity has decreased, yielding ground to local,  
+        independent restaurants. 
+
+     •• Result: Result: it is reported that a oneit is reported that a one--star increase in an star increase in an  
+        independent’s rating affects its revenue positively up  
+        to 9 percent—a benefit that the chain restaurants  
+        don’t experience.  
+
+                                                                                          22 
+
+----------------------- Page 23-----------------------
+
+Implications to Human Information  
+                      Interaction 
+
+•  The semantic functions we use to design  
+   information environments are no longer just information environments are no longer just  
+   hyperlinks contained in screens.  
+•  They can now involve any action that users might  
+   take in any place they inhabit. 
+
+                                                        “YOU” 
+
+                                                                        23 
+
+----------------------- Page 24-----------------------
+
+ Reference and Further Reading 
+
+••  A. Hinton, A. Hinton, Understanding Context: Understanding Context:  
+   Environment, Language, and Information  
+   Architecture, O’Relly, 2015. (Chapter 15 – 17). 
+
+•  The Wall Street Journal, Zara Builds Its  
+   Business Around RFIDBusiness Around RFID, 2014. (URL: , 2014. (URL:  
+   https://www.wsj.com/articles/at-zara-fast- 
+   fashion-meets-smarter-inventory- 
+   1410884519)  
+
+                                                                        24 

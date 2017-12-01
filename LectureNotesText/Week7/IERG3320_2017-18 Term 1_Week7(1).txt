@@ -1,0 +1,353 @@
+﻿----------------------- Page 1-----------------------
+
+      IERG3320/ESTR3306 
+  Social Media and Human Social Media and Human  
+   Information Interactions 
+
+Week Seven: Semantic Information (I) 
+
+            Prof. Rosanna Y.-Y. Chan 
+               16 October 2017 
+
+----------------------- Page 2-----------------------
+
+            What is Information? 
+
+(Cambridge Dictionary of Philosophy) 
+•• Information is an objective Information is an objective (mind(mind--independent) independent) entityentity. .  
+   It can be generated or carried by messages (words,  
+   sentences) or other products of cognizers 
+   (interpreters).  
+    –  Information Theory focuses primarily on conditions  
+       involved in the generation and transmission of coded  
+       (linguistic) messages. 
+
+•  Remark: Information entropy, which is a quantitative  
+   measure of information (i.e., the meaning conveyed  
+   by a message) in terms of reductions of uncertainty, is  
+   a subjective measure.   
+
+                                                                               2 
+
+----------------------- Page 3-----------------------
+
+   Information as Semantic Content 
+
+•   Semantic is the study of “meaning”. 
+••  Semantic information Semantic information regards information as semantic regards information as semantic  
+    content (i.e. content that conveys meaning).content (i.e. content that conveys meaning). 
+•   The semantic mode of information is highly related to  
+    language (written and spoken). 
+
+                                                                                                 3 
+
+----------------------- Page 4-----------------------
+
+      Language and Sensemaking 
+
+•  When we consciously try to make sense of  
+    our experience, it is an expressly linguistic our experience, it is an expressly linguistic  
+    activity. 
+
+ What do I do  
+      next?next? 
+
+                                                                             Where should  
+                                                                                  I go? 
+
+                               (Image source: www.livinginhongkong.org) 
+
+                                                                                                     4 
+
+----------------------- Page 5-----------------------
+
+      Language and Sensemaking 
+
+•  We engage in a dialogue with ourselves about  
+    the environment and our choices in it, putting the environment and our choices in it, putting  
+    the mirror of language in front of us to “reflect”  
+    on our actions. 
+
+•   People gain coherent understanding through People gain coherent understanding through  
+    communicationcommunication and the use of language.and the use of language. 
+
+                                                                                         5 
+
+----------------------- Page 6-----------------------
+
+     How Semantic Information  
+                          Works 
+
+•  Nouns are essentially copies of the objects that  
+   people see and name in their daily living people see and name in their daily living  
+   environment. 
+    – Language (e.g., words) has meaning because of  
+       semantic (語義) convention.  
+
+••  To understand how To understand how semantic information semantic information  
+   functions in our environment, we need to begin  
+   with some basics about signs and symbols, and  
+   the mechanisms of signification. 
+
+                                                                         6 
+
+----------------------- Page 7-----------------------
+
+ Signs: Icons, Indexes, and Symbols 
+
+•   In the fields of linguistics and semiotics, a sign is  
+   something that can be interpreted as something that can be interpreted as having a having a  
+   meaning other than its own form. 
+
+•  While physical information has intrinsic meaning, 
+    – e.g., Physical stairs are real things and can support  
+       our physical actionsour physical actions 
+   semantic information has a meaning other than  
+   its own form.  
+    – E.g., “stairs“means physical stairs, however, you  
+       cannot walk up with the word “stairs”. 
+
+                                                                                 7 
+
+----------------------- Page 8-----------------------
+
+           Signified and Signifiers 
+
+•   In semiotics (the study of signs and symbols and  
+   their use or interpretation), a sign has two their use or interpretation), a sign has two  
+   components: 
+    – Signifier: the material aspect of it, such as the image,  
+        mark, sound, written word etc. 
+    – Signified: mental concept of what the signifier stands  
+       for, it could be a concept, object or emotion. 
+
+                  (Image source: https://reeceharry.wordpress.com/) 
+
+                                                                                   8 
+
+----------------------- Page 9-----------------------
+
+                                Icons 
+
+•  The signifier in an icon has some physical  
+    resemblance to its referentresemblance to its referent——it looks or it looks or  
+    behaves as portrayed by the signified. 
+
+     The standard icon for “stairs” from the AIGA “Symbol Signs” collection  
+     (http://www.aiga.org/symbol-signs/).  
+
+                                                                                     9 
+
+----------------------- Page 10-----------------------
+
+                                Icons 
+
+•  Iconic signifiers can be more or less realistically  
+   detailed. 
+    –– E.g., the two pictures below demonstrate that a E.g., the two pictures below demonstrate that a  
+       detailed drawing of a tree can resemble its subject  
+       down to the tiniest branch, but a simple pictograph 
+       with a green triangle and a descending brown rectangle  
+       also looks enough like a tree to be an effective iconic  
+       signifier, depending on the level of specificity required. 
+
+                                                                                  10 
+
+----------------------- Page 11-----------------------
+
+                               Indexes 
+
+•   A sign that involves a direct temporal or spatial  
+    connection between signifier and signified is working connection between signifier and signified is working  
+    as anas an indexindex.. 
+•   E.g. a fuel gauge directly indicates the level of fuel in  
+    the tank. 
+     – The letters “F” and “E” are situated spatially along a  
+        continuum. The needle indicates a specific amount of  
+        fuel. 
+
+                                                                                          11 
+
+----------------------- Page 12-----------------------
+
+                          Symbols 
+
+•  Symbols are signifiers that could mean anything,  
+   but have specific meaning only because of but have specific meaning only because of  
+   conventional usage in a given culture.  
+
+•  We know what they mean only by experiencing  
+   their use in a system of other symbols and  
+   contexts.contexts. 
+
+•  Words are a kind of symbol. 
+
+                                                                              12 
+
+----------------------- Page 13-----------------------
+
+              Visual Information 
+
+•  Graphics is also semantic information. It can  
+   be used when words are not well suited. be used when words are not well suited.  
+
+•  Visual information is especially good at  
+   borrowing from the objects of the physical  
+   environment to create explanations, environment to create explanations,  
+   metaphors, and spatial arrangements for  
+   conveying meaning. 
+
+                                                                          13 
+
+----------------------- Page 14-----------------------
+
+               Visual Information 
+
+•  Presenting ideas into representations of physical  
+   objects can make them easier to grasp.objects can make them easier to grasp. 
+    – E.g., Venn diagram shows the intersection of  
+       mathematical sets allows otherwise disembodied  
+       ideas to be visualized as if they were concrete  
+       objects. 
+
+                                                                              14 
+
+----------------------- Page 15-----------------------
+
+              Visual Information 
+
+•  Sometimes, graphics are used in strictly an iconic  
+   manner (e.g., used as icons for what they depict.).  
+
+•  Some visual metaphors are for functions that have no  
+   present, physical referent. 
+    –  E.g., a padlock’s open or closed state represents whether  
+       an administrator has unlocked settings so that he/she can  
+       make changes to settings. 
+
+    The locked and unlocked states in the Macintosh OS X dialog box. 
+
+                                                                            15 
+
+----------------------- Page 16-----------------------
+
+                Visual Information 
+
+•  Visual information lets  
+    us us model abstraction model abstraction  
+    and work with thoughts  
+    and concepts  
+   symbolically, while  
+    managing to provide managing to provide  
+    objects objects that we that we can see, can see,  
+    manipulate, and  
+    arrange.  
+
+                                                       A graphical parking sign  
+                                                       (toparkornottopark.com). 
+                                                                                    16 
+
+----------------------- Page 17-----------------------
+
+                Semantic Function 
+
+•   Semantic information (including  
+    language) is something human add to  
+   the environment to extend our the environment to extend our  
+    abilities. It can function as structure 
+   that people add to the environment. 
+
+•   While physical affordance refers to  
+    physical information’s direct  
+    specification of physical  
+    opportunities for action; opportunities for action; semantic semantic  Semantic function Semantic function  
+   function indicates the way we use                        surrounds human  
+    language (including signs and  
+    symbols) as part of our environment.                    perception and  
+     –  That has a real, functional  role as                augments physical  
+        invariant structure in our surrounding.             affordance. 
+
+                                                                                     17 
+
+----------------------- Page 18-----------------------
+
+   Semantic Function: An Example 
+
+•  Language can work like objects that controls  
+   something beyond its present physical form.something beyond its present physical form. 
+
+                What does this light switch do? 
+
+    It flips up and                                    It turns on the  
+        down.                                                light. 
+
+                                                                                18 
+
+----------------------- Page 19-----------------------
+
+               Semantic Function 
+
+•  The red stoplight is a physical  
+   object that emits light in three object that emits light in three  
+   colors. 
+    – In the context and learned  
+       conventions of roadway driving,  
+       its red mode means Stop. 
+
+••  Although it is not a direct, Although it is not a direct,  
+   physical barrier, it is a semantic  
+   sign that indirectly controls our  
+   environment and act as a  
+   barrier.  
+
+                                                                               19 
+
+----------------------- Page 20-----------------------
+
+          Semantic Information as  
+                    Infrastructure 
+
+•  Semantic information (e.g., language and  
+   signs) signs) is part of the humanis part of the human--made made  
+   environment like everything else we build. It  
+   establishes structures and rules that we live in  
+   together. It creates architecture.  
+
+••  E.g., we E.g., we use language to construct cultural use language to construct cultural  
+   machinery made of rule-systems, so that  
+   people co-inhabiting a shared understanding  
+   of a set of rules. 
+
+                                                                        20 
+
+----------------------- Page 21-----------------------
+
+           Semantic Information as  
+                     Infrastructure 
+•  The diagram below shows the semantics of  
+   physical layout for a baseball field. It illustrates  
+   how semantic information how semantic information can can integrate with integrate with  
+   physical action and become an inseparable part of  
+   context within a physical environment.   
+
+                                                                         21 
+
+----------------------- Page 22-----------------------
+
+         References and Further  
+                         Readings 
+
+•• ReferenceReference 
+    – A. Hinton, Understanding Context: Environment,  
+       Language, and Information Architecture, O’Relly,  
+       2015. (Chapter 8 – 11). 
+
+•  Further Readings 
+    –– LL. . FloridiFloridi, Is Semantic Information Meaningful Data? , Is Semantic Information Meaningful Data?  
+       Philosophy and Phenomenological Research, 2005,  
+       70(2), 351-370. 
+    – Pulvermüller, Friedemann. “Brain mechanisms linking  
+       language and action”. Nature Reviews  
+       Neuroscience July, 2005, 6, 576–82. 
+
+                                                                            22 

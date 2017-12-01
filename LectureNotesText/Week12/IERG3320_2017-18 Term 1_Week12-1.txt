@@ -1,0 +1,430 @@
+﻿----------------------- Page 1-----------------------
+
+         IERG3320/ESTR3306 
+     Social Media and Human Social Media and Human  
+      Information Interactions 
+
+Week Twelve (I): Social Network Analysis I 
+
+               Prof. Rosanna Y.-Y. Chan 
+                 20 November 2017 
+
+----------------------- Page 2-----------------------
+
+                      Social Networks 
+
+•   A social network can be viewed as a group of actors that are socially  
+    tied to each other. 
+     ––  Examples of social tie include social connections or social interactions, Examples of social tie include social connections or social interactions,  
+         etc. 
+•   Online social networks are social networks where the social  
+    interactions are carried out online. 
+
+•   The social network can be represented by a graph, where the nodes 
+    represent the actors; the edges represent the social ties between  
+    them.  
+
+                                                                                                 2 
+
+----------------------- Page 3-----------------------
+
+ Online Social Networks: Examples 
+
+•  Examples of online social networks include: 
+    –– FacebookFacebook users and their “friendship”users and their “friendship” 
+    – Twitter users and their follower-followee 
+       relationships 
+    – Members in our course blogger community and  
+       their “commenting” relationships   
+
+                                  (image source: thenextweb.com)             3 
+
+----------------------- Page 4-----------------------
+
+    Online Social Networks: Examples 
+
+•   Actors who are the most important or the most prominent are  
+    usually located in strategic locations within the social network. 
+
+ Sociogram of Twitter users (with 1000 nodes and 1908 edges) visualized with NodeXL. 
+
+             Source: https://www.flickr.com/photos/marc_smith/6231701213                  4 
+
+----------------------- Page 5-----------------------
+
+         Social Network Analysis 
+
+•  A key goal of social network analysis (SNA) is the  
+   identification of the most important actors identification of the most important actors in a in a  
+   social network. 
+
+•   Importance of a node within a social network  
+   can be determined by 
+    –– Its ability to communicate directly with other nodes;Its ability to communicate directly with other nodes; 
+    – Its closeness to many other nodes; and 
+    – Its indispensability to act as a communicator between  
+       different part of a network, etc.  
+
+                                                                                 5 
+
+----------------------- Page 6-----------------------
+
+          Social Network Analysis 
+
+•   E.g., (Case Study in Week  
+    NineNine--I)Researchers I)Researchers  
+    performed social media  
+   analytics on 50,414 tweets to  
+    understand cruise tourism  
+   and offered a number of  
+    insights.  
+    ––  (They used (They used ScraperWikiScraperWiki [Now [Now  
+        renamed as QuickCode] to  
+        collect and archive tweets  
+       that contained the cruise-                        (Park et al., 2015) 
+        related search words such as  
+       #cruise and #cruisechat) 
+
+                                                                                    6 
+
+----------------------- Page 7-----------------------
+
+         A Simple Social Network 
+
+•   Let’s consider a small social network composed  
+   of four members based on friendship.of four members based on friendship. 
+
+•  Suppose we have the follow social ties amongst  
+   Alice, Bob, Carol, and David: 
+    –– Alice Alice likes likes CarolCarol and Davidand David 
+    – Bob likes Carol and David 
+    – Carol likes Alice 
+    – David likes Alice and Bob 
+
+                                                                                    7 
+
+----------------------- Page 8-----------------------
+
+          A Simple Social Network 
+
+•  Graphical representation (sociogram) 
+
+                     AliceAlice                                 BobBob 
+
+                   Carol 
+
+                                                                 David 
+                                                                                             8 
+
+----------------------- Page 9-----------------------
+
+                A Simple Social Network 
+
+•  Graphical representation (sociogram) 
+
+                                            AliceAliceAlice                                       BobBob 
+
+                                             CarolCarolCarolCarol                                DavidDavidDavidDavid 
+
+                                                                                                                                                             9 
+
+----------------------- Page 10-----------------------
+
+                     A Simple Social Network 
+
+•    A graph consists of nodes joined by edges. 
+••   Denote the set of Denote the set of gg actors by actors by  
+
+•    For the ordered pair <n , n >, define x                                           as the value of  
+                                                       i     j                      ij 
+     the tie from the n  (the ith  actor) to n  (the j th  actor) 
+                                           ii                                     jj 
+     on the relation between on the relation between nn  andand nn .. 
+                                                             i             j 
+
+       – A g x g sociomatrix X is formed. 
+       –  (Sometimes for simplicity, we only consider dichotomous  
+           relation, i.e. xij  is either 0 or 1).   
+
+                                                                                                                         10 
+
+----------------------- Page 11-----------------------
+
+               A Simple Social Network 
+
+•    We can represent the relation X of the simple social 
+      network by the sociomatrix X 
+       –– where {Alice, Bob, Carol, David} corresponds to {where {Alice, Bob, Carol, David} corresponds to {nn , , nn , , nn , ,  
+                                                                                                            1     2      3 
+            n  }. 
+              4 
+
+                                              AliceAlice    BobBob        CarolCarol    DavidDavid 
+
+                                AliceAlice         ––             00            11            11 
+
+                                 BobBob             00           ––             11            11 
+
+                                CarolCarolCarolCarol 1111         0000         ––––          0000 
+
+                                 DavidDavid         11            11           00            –– 
+
+       – The elements along the diagonal of a sociomatrix can be  
+            undefined (such as this example). They correspond to the  
+            “self-choices” elements and are ignored in this case.  
+
+                                                                                                                                  11 
+
+----------------------- Page 12-----------------------
+
+                                    Graphs 
+
+•   A graph G consists of two sets of information 
+      – A set of nodes, A set of nodes,  
+      –– A set of lines,A set of lines, 
+
+•   There are g nodes and L lines. 
+•   In a graph, the nodes represent actors, and the lines  
+    represent the ties that exist between pairs of actors  
+    on the relation. 
+••  A line                         is included in the set of lines, A line                         is included in the set of lines, LL, if , if  
+    there is a tie present between the two actors in the  
+    network who are represented by nodes n  and n  in  
+                                                                               i           j 
+    the graph.   
+      – n  and n  are adjacent. 
+           i         j 
+
+                                                                                                       12 
+
+----------------------- Page 13-----------------------
+
+                           Graphs 
+
+•  Graphs can be undirected or directed. 
+••  Graphs Graphs –– refer torefer to undirected graphs.undirected graphs. 
+•  Digraphs – refer to directed graphs. 
+
+                                                                             13 
+
+----------------------- Page 14-----------------------
+
+                             Graphs 
+
+•  If the direction of a link is not important, or  
+   equivalently, if existence of a link between nodes equivalently, if existence of a link between nodes ii 
+   and and jj  necessarily implies the existence of a link from necessarily implies the existence of a link from  
+   j to i, we say that this network is an undirected  
+   graph. 
+
+•  An undirected graph can be represented by a  
+   symmetrical matrix X. 
+
+•  E.g. A Facebook online social network is an  
+   undirected graph; whereas the Weibo online social  
+   network is a directed graph. 
+
+                                                                                14 
+
+----------------------- Page 15-----------------------
+
+     Example (Undirected Graph) 
+
+•  E.g. In the following graph G, the set of nodes  
+    and lines areand lines are 
+
+                    n 
+                      1 
+
+                            l 
+           l                 1 
+            3 
+
+ nn                                 nn 
+   5                                  2 
+                          l 
+                           2 
+
+                     l 
+                      4 
+          n                   n 
+            4                   3 
+
+                                                                                                       15 
+
+----------------------- Page 16-----------------------
+
+           Example (Directed Graph) 
+
+•  In a directed graph, the direction of the lines is  
+    specified.specified. 
+
+                      n 
+                        1 
+
+                               l 
+             l                 3 
+              1 
+
+   nn                                  nn 
+     5                                   2 
+                             l  , l 
+                              2   4 
+
+                       l 
+                        5 
+            n                    n 
+              4                    3 
+
+                                                                                                           16 
+
+----------------------- Page 17-----------------------
+
+       Power Law Distribution and  
+              Scale-Free Networks 
+
+•  Some measurement metrics (e.g., height, weight,  
+   and IQ) have a and IQ) have a normal distributionnormal distribution 
+    – Have a characteristic scale (with a “bell curve”  
+       distribution). 
+
+•  In social networks, the measurement metrics  
+   may not follow the normal distribution.may not follow the normal distribution. 
+    – E.g., number of friends of an individual in a typical  
+       social network. 
+•  Instead, they follow a power law distribution. 
+
+                                                                              17 
+
+----------------------- Page 18-----------------------
+
+              Power Law Distribution and  
+                       Scale-Free Networks 
+
+            Homogeneous Network                                           Heterogeneous Network  
+                    ConnectivityConnectivity                                      ConnectivityConnectivity 
+
+  No. of                                                    No. of  
+  nodes                                                     nodes 
+
+                                                                             A very few nodes have  
+                         Majority of                                             very high degree  
+                        nodes have  
+                      degree within a  
+                       characteristic  
+                           scalescale 
+
+                                                   Node                                                     Node 
+                                                  Degree                                                    Degree 
+
+                  Normal distribution                                    Power law distribution 
+                      (bell shaped)                                              (fat-tailed) 
+
+(E.g. a LAN with computers having similar                            (E.g. Online social networks.)  
+configurations.)                                                                                                 18 
+
+----------------------- Page 19-----------------------
+
+       Power Law Distribution and  
+             Scale-Free Networks 
+
+•  A network with degree distribution following  
+   a power law is said to be a a power law is said to be a scalescale--free free  
+   network. 
+    – There is no characteristic scale (i.e. no average  
+      value can be found in the large majority of cases). 
+
+••  ScaleScale--free networks have free networks have nonnon--identical identical  
+   elements. 
+    – There exists some nodes (e.g., the hubs) which  
+       have more connections. 
+
+                                                                        19 
+
+----------------------- Page 20-----------------------
+
+               Self-Organization 
+
+•  Many networks have grown without any  
+   blueprints or supervision.blueprints or supervision. 
+
+•  But heterogeneous connectivity has been found  
+   in many real-world complex networks. 
+
+•  The overall organization of systems emerges  
+   from the collective action of its elements. 
+    – There exists a bottom up process of self-organization. 
+
+                                                                        20 
+
+----------------------- Page 21-----------------------
+
+                   Self-Organization 
+
+•   Heterogeneity may arise from some kind of regular,  
+    ordered behavior as the outcome of a complex, largely  
+    unsupervised process.unsupervised process. 
+
+•   The development of large networks is governed by robust  
+    self-organizing phenomena that go beyond the particulars  
+    of the individual systems. 
+
+•   Understanding to origin of this self-organized order is still  
+    one of the central challenges of network scientists.one of the central challenges of network scientists. 
+     –  E.g., in this course, we are trying to understand this mechanism  
+        from human information interaction perspectives (e.g., why and  
+        how you comment on your classmates’ blog in order to achieve  
+        collaborative knowledge building and what are the social  
+        epistemic cognitive processes involved). 
+
+                                                                                         21 
+
+----------------------- Page 22-----------------------
+
+   Self-Organization and Power Law  
+                          Distribution 
+
+•   Barabasi and Albert (1999) suggested two generic  
+    mechanisms for the phenomenon:mechanisms for the phenomenon: 
+     – (i) networks expand continuously by the addition of  
+        new vertices, and 
+     – (ii) new vertices attach preferentially to sites that are  
+        already well connected. 
+
+••  The probability The probability P(k)P(k) that a vertex in the network that a vertex in the network  
+    interacts with interacts with kk other vertices decays as a power other vertices decays as a power  
+    law, following: 
+
+                                                             Where γ is a  
+                                                             network-specific  
+                                                             parameter.  
+
+                                                                                     22 
+
+----------------------- Page 23-----------------------
+
+ Power Law Distribution – Examples  
+             in Real World Networks 
+
+(Barabasi & Albert, 1999) The distribution function of connectivities for various  
+large networks. (A) Actor collaboration graph with N = 212,250 vertices and  
+average connectivity <k> = 28.78. (B) WWW, N = 325,729, <k> = 5.46 (6). (C)  
+Power grid data, N = 4941, <k> = 2.67. The dashed lines have slopes 
+
+                                                                                    23 
+
+----------------------- Page 24-----------------------
+
+                     References 
+
+••  E. Estrada and P.A. Knight (2015). E. Estrada and P.A. Knight (2015). A First A First  
+   Course in Network Theory. Oxford University  
+   Press.  
+•  S. Wasserman & K. Faust (1994). Social  
+   network analysis: Method and analysis.  
+   Cambridge University PressCambridge University Press.. 
+•  A.-L. Barabasi and R. Albert, Emergence of  
+   Scaling in Random Networks, Science 286,  
+   509-512, 1999. 
+
+                                                                        24 

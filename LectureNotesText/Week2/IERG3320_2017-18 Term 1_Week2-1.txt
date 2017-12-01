@@ -1,0 +1,320 @@
+﻿----------------------- Page 1-----------------------
+
+IERG3320/ESTR3306 Social Media and  
+      Human Information Interaction 
+
+      Week Two: Environments, Elements,  
+                  and and Information (I)Information (I) 
+
+                   Prof. Rosanna Y.-Y. Chan 
+                     11 September 2017 
+
+----------------------- Page 2-----------------------
+
+          Information in Context 
+
+•  We receive information from our surrounding  
+   environment continuously environment continuously  
+   (https://youtu.be/JrRS8qRYXCQ).  
+
+                                                                           2 
+
+----------------------- Page 3-----------------------
+
+What is Information? 
+
+                                                                  3 
+
+----------------------- Page 4-----------------------
+
+     A Communication System (Shannon, 1948;  
+                     Shannon & Weaver, 1949) 
+
+Claude Shannon (1948). "A Mathematical Theory of Communication". Bell System Technical Journal 27 (July and  
+October): pp. 379–423, 623–656.  
+
+                                                                                                       4 
+
+----------------------- Page 5-----------------------
+
+•  An example – When I talk to you… (Shannon &  
+   Weaver, 1949) 
+
+    My       My voice         Air (the channel)    Your ear      Your 
+
+  mind        system                               and nerve     mind 
+
+                                                                           5 
+
+----------------------- Page 6-----------------------
+
+ Information in Information Theory 
+
+•  The source contains a finite set of information  
+   units (bits).units (bits). 
+    – They are well-defined alternatives, e.g. 00, 01, 10, 11  
+       are the alternatives for information units with two  
+       bits. 
+
+•  The source codes these units using a protocol  
+   appropriate appropriate to the channel (e.g., to the channel (e.g., TCP/IP packets TCP/IP packets  
+   to be sent over the Internet). 
+•  The channel propagates the encoded signals to a  
+   receiver. 
+•  The receiver decodes the signals received. 
+
+                                                                                 6 
+
+----------------------- Page 7-----------------------
+
+                      An Example 
+
+•  Suppose you send out an invitation to a family (2  
+   parents and a child) to parents and a child) to a dinner party and a dinner party and wait wait  
+   for their reply message (information) about the  
+   number of attendants. 
+
+                                                                              7 
+
+----------------------- Page 8-----------------------
+
+                        An Example 
+
+•  The information source (i.e. the family) has a set of  
+    four four alternativesalternatives 
+     –  representing whether 0, 1, 2, or 3 people in the family will  
+        come to dinner. 
+
+•   Assume that any of the alternatives is equally likely. 
+     –  Before you (the destination) receive the reply for this  
+        invitation (the message), you have maximum uncertainty 
+        about how about how many people from the family will come. many people from the family will come.  
+     – You have a one in four chance of guessing how many  
+        people will come from this family. 
+     –  I.e. your probability of correctly guessing how many  
+        people will come from this family is .25. 
+
+                                                                                       8 
+
+----------------------- Page 9-----------------------
+
+                     An Example 
+
+•  When the reply comes, you are now  
+   “informed” “informed” about this event.about this event. 
+    – The source of the information codes the message  
+       and sends it via the channel and you receive it. 
+
+••  You have reduced your uncertainty about You have reduced your uncertainty about  
+   how many people from this family will come. 
+    – from a best case of .25 ability to guess a correct  
+       event to knowing exactly (1.0 ability to tell). 
+
+                                                                             9 
+
+----------------------- Page 10-----------------------
+
+                        An Example 
+
+•  Suppose you might know (e.g., from experience)  
+   that that this family seldom this family seldom brings their child but brings their child but  
+    often comes to parties as a couple and,  
+    occasionally, one will come alone.  
+
+•   Instead of a equal probability distribution, you  
+    estimate the respective probabilities as p(E ) =  
+                                                                        0 
+    11// 8, 8, p(Ep(E ) ) = = 11// 4, 4, p(Ep(E ) ) = 1= 1// 2, and 2, and p(Ep(E ) ) = = 11// 8.8. 
+                11                 22                        33 
+     – Where p(E )  represents the probability of the event  
+                      0 
+        that 0 people come to the dinner, etc. 
+     – E.g., you are only 1/8 = 0.125 certain that all three  
+        members of the family will come to the party. 
+
+                                                                                    10 
+
+----------------------- Page 11-----------------------
+
+                        An Example 
+
+•   Now, when the reply arrives 
+     –– You are more surprised if the reply says all three You are more surprised if the reply says all three family family  
+        members are coming.members are coming. 
+     – You are less surprised if the reply says that two are  
+        coming. 
+
+•  You thus have a corresponding larger reduction in  
+    uncertainty in the first case. 
+
+•  The quantity of information for the case that “all three  
+    are coming” should be more than the quantity of  
+    information for the more expected case that “the  
+    couple are coming without their child”. 
+
+                                                                                    11 
+
+----------------------- Page 12-----------------------
+
+                     An Example 
+
+•  By considering this quantity to be reduction in  
+   uncertainty, we can see that the uncertainty, we can see that the more more  
+   surprising event carries more information. 
+    – It causes more reduction in uncertainty. 
+
+••  When the probabilities are not the same for When the probabilities are not the same for  
+   all events, we need a better estimate for the  
+   initial amount of uncertainty and for this,  
+   Shannon identified the concept as entropy.  
+
+                                                                          12 
+
+----------------------- Page 13-----------------------
+
+                             Entropy 
+
+•  Some basic concepts: 
+     –– A A sourcesource has a number of has a number of alternative itemsalternative items, each , each  
+        with associated probability estimates for selection.  
+     – The receiver has uncertainty about which is selected.  
+        P(E) is the probability that event E will be selected  
+        from the possible alternatives in the source.  
+     –– The The logarithm (log) of a number for a given base logarithm (log) of a number for a given base is is  
+        the power to which that base must be raised to yield  
+        that number.  
+          •  E.g., the log   of 100 is 2 because 102 = 100. 
+                          10 
+
+                                                                                      13 
+
+----------------------- Page 14-----------------------
+
+                            Entropy 
+
+•  Shannon defined the information content in a  
+   single event as single event as I(EI(E) ) = −= −loglog (P(E))(P(E)).. 
+                                           22 
+•   For the party invitation example with 1/8 as the  
+    probability that all three family members will  
+   come, we have I(E ) = −log (1/ 8) = 3. 
+                                3            2 
+    – i.e. the “information content” of a reply that “all  
+       three family members will come” is 3. 
+••  For the case of only the For the case of only the couple comingcouple coming, we have , we have  
+   I(E ) = log (1/ 2) = 1. 
+        2         2 
+    – the “information content” of a reply that “two family  
+        members will come” is 1. There is less surprise that  
+       the couple comes without their child. 
+
+                                                                                   14 
+
+----------------------- Page 15-----------------------
+
+                         Entropy 
+
+•  Thus, we have a theoretical foundation for  
+   measuring the quantity of information in a measuring the quantity of information in a  
+   message.  
+•  Shannon further generalized and described  
+   the uncertainty in a given set of choices  
+   rather than a single event. 
+••  He defined entropy asHe defined entropy as 
+
+                                                                          15 
+
+----------------------- Page 16-----------------------
+
+                                Entropy 
+
+•   You can substitute the probabilities for  
+     –  (Case 1) you have no idea about the family (i.e. even probability (Case 1) you have no idea about the family (i.e. even probability  
+         distribution); anddistribution); and 
+     –  (Case 2) you have some knowledge about the habit of the  
+         family (i.e. you know that they often do not bring the child to  
+         attend parties) 
+and find that the entropy in the first case is larger than the  
+second case. 
+
+••  There is more uncertainty in the overall situation in Case 1 There is more uncertainty in the overall situation in Case 1  
+    than Case 2.  
+•   To the receiver, the reply message in Case 1 contains  
+    “more information” than Case 2. (because the receiver  
+    have already learned about the family and gained  
+    information previously!) 
+
+                                                                                               16 
+
+----------------------- Page 17-----------------------
+
+  Shannon’s Information Theory 
+
+•  Shannon’s work has been used as the basis for  
+   Communications Engineering Communications Engineering as well as modern as well as modern  
+   telecommunications systems ranging from  
+   telephones to the WWW. 
+
+•   It is also used in biology and other fields to give It is also used in biology and other fields to give  
+   computable predictions for system dynamics.computable predictions for system dynamics. 
+    – E.g., it provides the basis for biological treatments of  
+        information flow in organisms and in human brain  
+        networks. 
+
+                                                                                   17 
+
+----------------------- Page 18-----------------------
+
+  Shannon’s Information Theory 
+
+•   Shannon and Weaver (1949) acknowledge that this  
+    model of communication model of communication addresses the engineering addresses the engineering  
+    aspects of communicationaspects of communication but not the but not the semantic and semantic and  
+    effectiveness aspects of communication that people  
+    are concerned with in their usual communication  
+    events.  
+
+•   Shannon’s Information Theory serve two important  
+    purposes: purposes:  
+     –  First, it provides a precise model for building  
+        communication systems.  
+     –  Second, it provides a model for thinking about  
+        information as the act of informing others (reducing  
+        uncertainty). 
+
+                                                                                     18 
+
+----------------------- Page 19-----------------------
+
+ Three Levels of Communications Problems  
+               (Shannon & Weaver, 1949) 
+
+•• Three interrelated levels of communication problemsThree interrelated levels of communication problems 
+     –  Level A. How accurately can the symbols of  
+        communication be transmitted? (The technical problem.) 
+     –  Level B. How precisely do the transmitted symbols convey  
+        the desired meaning? (The semantic problem) 
+     –  Level C. How effectively does the received meaning affect  
+        conductconduct in the desired way? (The effectiveness problem.)in the desired way? (The effectiveness problem.) 
+
+•   Level B and C involve non-technical aspects of  
+    information and communication. 
+
+                                                                                    19 
+
+----------------------- Page 20-----------------------
+
+References 
+
+•  Shannon, C. (1948). “A Mathematical Theory  
+   of Communication”. Bell System Technical of Communication”. Bell System Technical  
+   Journal 27 (July and October): pp. 379–423,  
+   623–656.  
+•  Shannon, C. and Weaver, W. (1949). The  
+   mathematical theory of communication. The  
+   University of Illinois Press, Urbana, IllinoisUniversity of Illinois Press, Urbana, Illinois.. 
+•  Gary Marchionini. 2010. Information  
+   Concepts: From Books to Cyberspace  
+   Identities, Morgan & Claypool. 
+
+                                                                       20 

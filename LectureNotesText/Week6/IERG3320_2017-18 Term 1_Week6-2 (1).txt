@@ -1,0 +1,558 @@
+﻿----------------------- Page 1-----------------------
+
+    IERG3320/ESTR3306 
+Social Media and Human Social Media and Human  
+ Information Interactions 
+
+Week Six (II): Physical Information 
+
+          Prof. Rosanna Y.-Y. Chan 
+             13 October 2017 
+
+----------------------- Page 2-----------------------
+
+             Perception and Physical  
+                         Information 
+
+•  We acquire knowledge and understanding through  
+   thought, experience, and our thought, experience, and our sensessenses.. 
+    – Cognition bounds up in the structures of our bodies and  
+       physical surroundings. 
+
+•  Creatures directly perceive and act in the world by  
+   their bodies’ ability totheir bodies’ ability to detect informationdetect information about the about the  
+   structures in the physical environment. 
+    – As a “body-to-environment” coupling mediated by  
+       physical information. 
+
+                                                                               2 
+
+----------------------- Page 3-----------------------
+
+          Perception and Physical  
+                     Information 
+
+•  When ambient energy—such as light and  
+   soundsound——interacts with physical structures, it interacts with physical structures, it  
+   produces perceivable information about the  
+   intrinsic properties of those structures. 
+
+                                                                       3 
+
+----------------------- Page 4-----------------------
+
+              Perception and Physical  
+                           Information 
+
+•  The information source (e.g., the agent) picks up  
+    information in the sea of energy (e.g., luminous information in the sea of energy (e.g., luminous  
+    energy) around it through perception. 
+
+                    Perception 
+                                                  agent    001010100… 
+                                Visible light 
+
+          subjectsubject 
+
+ The information source picks up physical  
+  information from the environment. 
+
+                                                                                             4 
+
+----------------------- Page 5-----------------------
+
+             Perception and Physical  
+                           Information 
+
+•   The world is full of structures that inform bodies about  
+    what actions those structures afford. 
+     ––  Physical information Physical information is what organisms perceive in the physical is what organisms perceive in the physical  
+        environment that informs the possibilities for physical action. 
+
+•   To perceive is to be aware of the surfaces of the  
+    environment and of oneself in it. 
+     –  Perception (a first level cognition) is about the agent, figuring  
+        out the elements of its surroundings and understanding how  
+        the agent itself is one of those elements. the agent itself is one of those elements.  
+
+•   We still depend on the same bodies and brains that our  
+    ancestors used thousands of years ago to allow us to act in  
+    our environment, no matter how digitally enhanced. 
+
+                                                                                          5 
+
+----------------------- Page 6-----------------------
+
+  Action and the Perceptual System 
+
+•   Perception is a function of the whole bodily context.  
+     ––  Our eyes are a part of our Our eyes are a part of our perceptual systemperceptual system.. 
+     –  E.g., movie audience leaned to the side to see more of the  
+        face of the actress. 
+
+    A semi-hidden phone conversation movie scene (Source: Paramount pictures). 
+                                                                                             6 
+
+----------------------- Page 7-----------------------
+
+ Action and the Perceptual System 
+
+•  What we see is influenced by how we move  
+   and what we touch, smell, and hear, and vice and what we touch, smell, and hear, and vice  
+   versa. 
+•  The embodiment principles have been  
+   applied in UX (user experience) in Virtual  
+   Reality. 
+
+                                            Photo: http://www.nextvr.com/ 
+                                                                               7 
+
+----------------------- Page 8-----------------------
+
+              Information Pickup 
+
+•  Information pickup refers to how we pick up, or  
+   detect, the information in the environment  
+   that our bodies use for taking action. that our bodies use for taking action.  
+    – The environment specifies what our bodies can or  
+       cannot do (there exists a mutual structural  
+       compatibility for action between bodies and  
+       environments). 
+
+•  Most of our action is  
+   calibrated on the fly by our  
+   bodies, tuning themselves in  
+   real time to the tasks at hand. 
+                                                   (Source: http://www.alamy.com/) 
+                                                                           8 
+
+----------------------- Page 9-----------------------
+
+                      Affordance 
+
+•  Affordances are properties of environmental  
+   structures that provide opportunities for action structures that provide opportunities for action  
+   to complementary organisms. 
+
+•  “Complementary” refers to the way organisms’  
+   physical abilities are complementary to (and  
+   work together with) work together with) the particular affordances in the particular affordances in  
+   the environment. 
+    – E.g., Our eyes (and the rest of our visual system) can  
+       couple with the structure of light reflected from  
+       surfaces and object. 
+
+                                                                              9 
+
+----------------------- Page 10-----------------------
+
+                       Affordance 
+
+•  For example, our bodies require no explanation of  
+   how stairs work, because the information our bodies how stairs work, because the information our bodies  
+   need is intrinsic in the structure of the stairs. 
+•  Our bodies have properties that are complementary  
+   with the affordances of such physical arrangements. 
+
+                                                                                10 
+
+----------------------- Page 11-----------------------
+
+                          Affordance 
+
+•   Affordances exist in the environment whether they are  
+    perceived or not.perceived or not. 
+     – The affordance is a property of the object. 
+     –  E.g., We might not be able to see the stairs around the  
+        corner in a building, but that doesn’t mean the stairs’  
+        ability to support climbing doesn’t exist.  
+
+•   The information we need for action is actually in the  
+    structures of the structures of the physical environment. physical environment.  
+     –  E.g., all the information necessary is intrinsic to the shape  
+        and substance of the stairs.  
+     –  Prior learned experience (or knowledge) might influence  
+        our usage in some way. 
+
+                                                                                        11 
+
+----------------------- Page 12-----------------------
+
+                           Affordance 
+
+•   A display is a surface that exhibits information for  
+    more than just the surface itself (Gibson, 1979). 
+
+•   E.g., on a smartphone screen, a surface with  
+    writing on it has no intrinsic meaning outside of its  
+    surface’s physical information; but we aren’t  
+    interested in the surface so much as what we  
+    interpret from the writing.  
+     –  Images, words, digital interfaces—these things all  
+        provide information, but the ultimately relevant  
+        meaning we take away from them is not intrinsic.meaning we take away from them is not intrinsic. 
+
+•   The knowledge one can gain from these  
+    information artifacts as mediated or indirect—that  
+    is, compared to direct physical information pickup,                 (Image source: ebay.com) 
+    these provide information via a medium. 
+
+                                                                                            12 
+
+----------------------- Page 13-----------------------
+
+                         Satisficing 
+
+•  Satisficing is a concept that explains how we  
+   conserve energy by doing whatever is just conserve energy by doing whatever is just  
+   enough to meet a threshold of acceptability. 
+    – It’s a blended word combining “satisfy” and “suffice.”  
+
+•  Users Users useuse what the UX designers design.what the UX designers design. 
+    – Users aren’t motivated by first understanding the  
+       environment. 
+    – They act based on the most obvious information  
+       available and with as little concentration as possible.  
+
+                                                                                13 
+
+----------------------- Page 14-----------------------
+
+                        Satisficing 
+
+•  We see this when we observe people using  
+   software: they’ll often try things out just to software: they’ll often try things out just to  
+   see what happens. 
+    – Just the act of looking is a physical action that  
+       probes the environment for structural affordance  
+       information, picking up the minimum that seems  
+       to be needed to move and then appropriating the to be needed to move and then appropriating the  
+       environment to their needs.  
+
+                                                                               14 
+
+----------------------- Page 15-----------------------
+
+                Implication to UX 
+
+•  Context is a function of the active engagement of  
+   the user. the user.  
+    – Contextual meaning of the environment is dynamic  
+       and is not absolutely established. 
+
+•  The primary aim of the UX designer is not to  
+   design ways for the design ways for the informational artifact informational artifact to be to be  
+   used but instead to design the artifact to be  
+   clearly understood by the users, so the users can  
+   recruit it into their full environmental experience  
+   in whatever way they needs. 
+
+                                                                              15 
+
+----------------------- Page 16-----------------------
+
+                Implication to UX 
+
+•  The mechanics of physical life shape the way  
+   we understand abstractions such as language, we understand abstractions such as language,  
+   social systems, and software. 
+    – When using software, users’ perception seems to  
+       expect that environment to behave according to  
+       the same laws we rely on in the physical world. 
+
+                         (Source: http://www.conceptdraw.com/)              16 
+
+----------------------- Page 17-----------------------
+
+ Implication to Digital Systems and  
+             Smart Environments 
+
+•  The presence of digital systems are part of  
+   our environment.our environment. 
+    – At the same time, “we” are also part of the digital  
+      systems’ environment. 
+
+•  New “smart” products like intelligent  
+   thermostats and selfthermostats and self--driving carsdriving cars——and even and even  
+   basic websites and apps—essentially use our  
+   bodies as interfaces between our needs and  
+   their actions.  
+
+                                                                        17 
+
+----------------------- Page 18-----------------------
+
+            Case Study: Embodied  
+                  Cognition and VR 
+
+•  What if our brain is given information that What if our brain is given information that  
+   tricks it into thinking it has a different body? 
+
+         Research Article: D. Banakoua, R. Grotena, and M.  
+         Slatera, “Illusory ownership of a virtual child body  
+         causes overestimation of object sizes and implicit  
+         attitude changes,” Proceedings of the National  
+         Academy of Sciences of the United States of America Academy of Sciences of the United States of America  
+         (PNAS), vol. 110, no. 31, 12846-12851, 2013. 
+
+         URL to original article: http://www.pnas.org/content/110/31/12846 
+         URL to the related news reported by BBC:  
+         http://www.bbc.com/news/science-environment-23285154 
+
+                                                                                      18 
+
+----------------------- Page 19-----------------------
+
+Case Study 
+
+                            Background 
+
+   •   The issue of how the brain represents the body has  
+       been approached extensively in philosophy, cognitive been approached extensively in philosophy, cognitive  
+       neuroscience, robotics, and virtual environments.neuroscience, robotics, and virtual environments. 
+
+   •   With VR technologies, it is straightforward to generate  
+       the illusion in people that their body has changed. 
+        –  E.g., uses immersive virtual reality (IVR) to manipulate and  
+           introduce illusions with respect to the body  
+           representation of people in terms of structure, size, and representation of people in terms of structure, size, and  
+           morphology. 
+        –  Synchronous multisensory and sensorimotor stimulation  
+           can lead to illusory perceptions of body shape, size, and  
+           symmetry that are very different from the normal body  
+           form.  
+
+                                                                                          19 
+
+----------------------- Page 20-----------------------
+
+Case Study 
+
+                        Background 
+
+   •  Body size serves as a fundamental reference in  
+      visual perception of object size.visual perception of object size. 
+
+   •  The combination of information from different  
+      visual and oculomotor (nerve governing the  
+      eyeball movement) cues also affects this  
+      perception.perception. 
+
+   •  E.g., previous studies have shown that hand size  
+      affects the perceived sizes of external objects. 
+
+                                                                              20 
+
+----------------------- Page 21-----------------------
+
+Case Study 
+
+                        Background 
+
+   •  People can recall childhood memories and the  
+      environment in which they were set.environment in which they were set. 
+       – E.g., we often find how objects now seem  
+         considerably smaller when revisiting our childhood  
+         school. 
+
+   •  The research studied how embodiment of adults  
+      in a body of a child might influence:in a body of a child might influence: 
+       1.   Size-perception of the environment; and 
+       2.   Categorizations of self compared with  
+            children or adults. 
+
+                                                                             21 
+
+----------------------- Page 22-----------------------
+
+Case Study 
+
+               Experimental Setup 
+
+  •  The body of the participant was substituted by a  
+     sexsex--matched virtual body, viewed from firstmatched virtual body, viewed from first-- 
+     person perspective, onto which body and head  
+     movements were mapped in real time.  
+
+  •  The body could also be seen as reflected in a  
+     virtual mirror. 
+
+  •  The body each participant viewed depended on  
+     the condition C (for a 4-year old child) or A (for  
+     adult) to which each one was assigned.  
+
+                                                                        22 
+
+----------------------- Page 23-----------------------
+
+Case Study 
+
+                      Experimental Setup 
+
+                                                                                (A) A female  
+                                                                                     participant in a participant in a  
+                                                                                     child’s body.  
+
+                                                                                (B) A female  
+                                                                                     participant in a  
+                                                                                     scaled-down  
+                                                                                     adult’s body. 
+
+                                                                                (C) Participants’  
+                                                                                     body movements body movements  
+                                                                                    were tracked by  
+                                                                                     34 Optitrack  
+                                                                                     markers. 
+
+                                                                                                            23 
+
+----------------------- Page 24-----------------------
+
+Case Study 
+
+                         Participants 
+
+   •  The experiment was conducted as a within- 
+      group design with 30 participants.group design with 30 participants. 
+
+   •  Participants experienced respectively: 
+       – a child virtual body (Condition C); and 
+       –– a scaled down adult virtual body (Condition A). a scaled down adult virtual body (Condition A).  
+
+   •  Their two trials were separated by 1 wk. 
+
+                                                                                  24 
+
+----------------------- Page 25-----------------------
+
+Case Study 
+
+            Method and Measures 
+
+   •  Participants were trained to hold their hands  
+      apart with the distance between the two hands apart with the distance between the two hands  
+      representing the estimated sizes of objects.  
+   •  The locations of the two hands were tracked and  
+     the distance between them recorded. 
+
+                                                                          25 
+
+----------------------- Page 26-----------------------
+
+Case Study 
+
+                Method and Measures 
+
+   •   They were required to carry out these estimations twice,  
+       for three differently sized cubes (15 cm, 30 cm, 45 cm). 
+        ––  The first estimates were obtained after they had entered the The first estimates were obtained after they had entered the  
+            virtual environment but before embodiment in a virtual body  
+            (the non-embodiment size; which is the baseline size).  
+        –  After some experience of being in the virtual body, the  
+            participants were required to make the estimations again (the  
+            embodiment size). 
+        –  Differences between the two means were obtained (denoted  
+            as as dmean15dmean15, , dmean30dmean30, , dmean45dmean45).). 
+
+                    Virtual environments for Condition C (left) and Condition A (right). 
+                                                                                                26 
+
+----------------------- Page 27-----------------------
+
+ Case Study 
+
+                                Result 
+
+•  Bar chart size-estimation result for the experiment. The variable  
+   dmean15, dmean30, and dmean45 are the differences between the  
+   embodiment size estimations and non-embodiment (i.e. baseline) size  
+   estimations, for the boxes of the three different sizes. 
+
+                                                                                  27 
+
+----------------------- Page 28-----------------------
+
+Case Study 
+
+                       The IAT Test 
+
+   •  Participants also completed an Implicit  
+     Association Test (IAT) at the end of both Association Test (IAT) at the end of both  
+      conditions and while still in the virtual  
+      environment. 
+      – The IAT paired child or adult with self and child- 
+         related categories (e.g., toys). 
+
+   •  Results showed that Condition C resulted in  
+      significantly faster reaction times for the  
+      classification of self with child-like compared  
+      with adult-like attributes.  
+
+                                                                          28 
+
+----------------------- Page 29-----------------------
+
+Case Study 
+
+             The IAT Test – Result 
+
+  •  Bar charts for the IAT results for both conditions.  
+     A higher IAT score represents faster response  
+     times for self compared with child categories.  
+                                                                       29 
+
+----------------------- Page 30-----------------------
+
+Case Study 
+
+                        Discussion 
+
+   •  The result suggests that there was a strong  
+      bodybody--ownership illusionownership illusion in both Condition C in both Condition C  
+      and Condition A. 
+
+   •  There was an overestimation of the sizes of  
+      objects compared with a nonobjects compared with a non--embodied embodied  
+      baseline. Moreover, such overestimation was  
+      significantly greater for Condition C compared  
+     with Condition A. 
+
+                                                                          30 
+
+----------------------- Page 31-----------------------
+
+Case Study 
+
+                          Discussion 
+
+   •  An implicit association test (IAT) showed that  
+      Condition C resulted in significantly faster Condition C resulted in significantly faster  
+      reaction times for the classification of self with  
+      child-like compared with adult-like attributes. 
+
+   •  The researchers concluded that there are  
+      perceptual and behavioral correlates of bodyperceptual and behavioral correlates of body-- 
+      ownership illusions that occur as a function of  
+      the type of body in which VR embodiment  
+      occurs. 
+
+                                                                              31 
+
+----------------------- Page 32-----------------------
+
+          References and Further  
+                         Readings 
+
+•• A. Hinton, A. Hinton, Understanding Context: Environment, Understanding Context: Environment,  
+   Language, and Information Architecture, O’Relly,  
+   2015. (Chapter 4) 
+•  J. J. Gibson, The Ecological Approach to Visual  
+   Perception. Boston: Houghton Mifflin, 1979. 
+•  D. Banakoua, R. Grotena, and M. Slatera, “Illusory  
+   ownership of a virtual child body causes ownership of a virtual child body causes  
+   overestimation of object sizes and implicit attitude  
+   changes,” Proceedings of the National Academy of  
+   Sciences of the United States of America (PNAS), vol.  
+   110, no. 31, 12846-12851, 2013. 
+
+                                                                              32 

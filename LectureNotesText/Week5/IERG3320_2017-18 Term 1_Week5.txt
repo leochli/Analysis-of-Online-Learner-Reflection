@@ -1,0 +1,428 @@
+﻿----------------------- Page 1-----------------------
+
+IERG3320/ESTR3306 Social Media and  
+      Human Information Interaction 
+
+     Week Five: Human-Information Interaction  
+         from a Global Citizenship Perspective from a Global Citizenship Perspective  
+
+                      Prof. Rosanna Y.-Y. Chan 
+                          6 October 2017 
+
+----------------------- Page 2-----------------------
+
+                Global Citizenship 
+
+•  2 CUHK University-wide Themes 
+    –– Innovation and design: Innovation and design: to develop the “ability to to develop the “ability to  
+       think out of the box, with critical thinking from  
+       multiple angles, with high ethical standard, and  
+       be innovative and creative.” 
+    – Global citizenship and social enterprisingness: to  
+       develop the “ability and readiness to embark on develop the “ability and readiness to embark on  
+       creative and new ventures of social value, in line  
+       with global and ethical values.” 
+
+                                                                                 2 
+
+----------------------- Page 3-----------------------
+
+                   Global Citizenship and  
+                Sustainable Development 
+
+•  What is Global Citizenship? (UNESCO, 2017) 
+    –– It is a sense of belonging to a broader community, It is a sense of belonging to a broader community,  
+       beyond national boundaries, that emphasizes our  
+       common humanity and draws on the  
+       interconnectedness between peoples as well as  
+       between the local and the global.  
+    –– Global citizenship is based on the universal values Global citizenship is based on the universal values  
+       of human rights, democracy, non-discrimination  
+       and diversity. It is about civic actions that  
+       promote a better world and future. 
+
+                                                                             3 
+
+----------------------- Page 4-----------------------
+
+                   Global Citizenship and  
+                Sustainable Development 
+
+•  What is Sustainable Development? (UNESCO,  
+   2017)2017) 
+    – Sustainable development refers to “development that  
+       meets the needs of the present without comprising  
+       the ability of future generations to meet their own  
+       needs.” 
+    – The environment, economic issues and social issues  
+       are interlinked. Development (are interlinked. Development (economic and social economic and social –– 
+       including technological) might need to be made at  
+       the expense of the environment.  
+    – Sustainable development is about balancing the  
+       demands of the environment, economy and society. 
+
+                                                                             4 
+
+----------------------- Page 5-----------------------
+
+         Global Citizenship and  
+       Sustainable Development 
+
+        Global Citizenship 
+
+    Sustainable Development 
+
+(Picture adapted from UNESCO, 2017)             5 
+
+----------------------- Page 6-----------------------
+
+       United Nations (UN) Sustainable  
+             Development Goals (SDGs) 
+
+   •   The Sustainable Development Goals (SDGs) is a set of  
+       universal universal Global GoalsGlobal Goals spearheaded by the United spearheaded by the United  
+       Nations involving its 193 Member States.Nations involving its 193 Member States. 
+
+URL: http://www.un.org/sustainabledevelopment/sustainable-development-goals/              6 
+
+----------------------- Page 7-----------------------
+
+   SDGs and Engineering Students 
+
+                            Does Information Does Information  
+                             Engineering has  
+                              anything to do  
+                           with the 17 SDGs? 
+
+                                                                                7 
+(Image source: https://www.pinterest.com/pin/130534089176330246/) 
+
+----------------------- Page 8-----------------------
+
+             ICTs and the SDGs 
+
+•  “The spread of information and communication  
+   technologytechnology and and global interconnectednessglobal interconnectedness has has  
+   great potential to accelerate human progress, to  
+   bridge the digital divide and to develop  
+   knowledge societies.” (The 2030 Agenda for  
+   Sustainable Development) 
+
+•  URL:  
+   https://sustainabledevelopment.un.org/post201 
+   5/transformingourworld 
+
+                                                                    8 
+
+----------------------- Page 9-----------------------
+
+       ITU’s #ICT4SDG Campaign 
+
+•  The #ICT4SDG campaign is launched by the  
+   International Telecommunication Union (ITU) 
+•  ITU is the United Nations specialized agency for  
+   information and communication technologies (ICTs). 
+    ––  allocates global radio spectrum and satellite orbits;allocates global radio spectrum and satellite orbits; 
+    –  develops the technical standards that ensure networks  
+       and technologies seamlessly interconnect; and 
+    –  strives to improve access to ICTs to underserved  
+       communities worldwide.  
+
+                                                                                 9 
+
+----------------------- Page 10-----------------------
+
+                       #ICT4SDG 
+
+•  ITU’s ICT4SDG aims at promoting ICTs as  
+   catalytic drivers to enable the achievement of catalytic drivers to enable the achievement of  
+   all the SDS.  
+•  In particular, it has identified 4 SDG targets as  
+   specific references 
+    – SDG4 Quality Education (4b) 
+    –– SDG5 Gender Equality (5b)SDG5 Gender Equality (5b) 
+    – SDG9 Industry, Innovation and Infrastructure (9c) 
+    – SDG 17 Partnerships for the Goals (17.8, as a  
+       means of implementation) 
+
+                                                                          10 
+
+----------------------- Page 11-----------------------
+
+                         #ICT4SDG 
+
+•  Goal 4. Ensure inclusive and equitable quality  
+   education and promote lifelong learning education and promote lifelong learning  
+   opportunities for all  
+    – 4.b By 2020, substantially expand globally the  
+       number of scholarships available to developing  
+       countries, in particular least developed countries,  
+       small island developing States and African countries,  
+       for enrolment in higher education, for enrolment in higher education, including including  
+       vocational training and information and  
+       communications technology, technical, engineering  
+       and scientific programmes, in developed countries  
+       and other developing countries 
+
+                                                                                11 
+
+----------------------- Page 12-----------------------
+
+                     #ICT4SDG 
+
+•  Goal 5. Achieve gender equality and  
+   empower all women and girlsempower all women and girls 
+    – 5.b Enhance the use of enabling technology, in  
+      particular information and communications  
+      technology, to promote the empowerment of  
+      women. 
+
+                                                                     12 
+
+----------------------- Page 13-----------------------
+
+                        #ICT4SDG 
+
+•  Goal 9. Build resilient infrastructure,  
+   promote inclusive and sustainable promote inclusive and sustainable  
+   industrialization and foster innovation 
+    – 9.c Significantly increase access to information  
+       and communications technology and strive to  
+       provide universal and affordable access to the  
+       InternetInternet in least developed countries by 2020. in least developed countries by 2020.  
+
+                                                                               13 
+
+----------------------- Page 14-----------------------
+
+                       #ICT4SDG 
+
+•  Goal 17. Strengthen the means of  
+   implementation and revitalize the global implementation and revitalize the global  
+   partnership for sustainable development  
+    – 17.8 Fully operationalize the technology bank and  
+       science, technology and innovation capacity- 
+       building mechanism for least developed countries  
+       by 2017 and by 2017 and enhance the use of enabling enhance the use of enabling  
+       technology, in particular information and  
+       communications technology. 
+
+                                                                          14 
+
+----------------------- Page 15-----------------------
+
+       The Connect 2020 Agenda  
+
+•   The Connect 2020 Agenda is a global agenda to shape the future  
+    of the ICT sector (http://www.itu.int/en/connect2020/). 
+     –– Has four goals.Has four goals. 
+     –  Has been unanimously adopted at the ITU. 
+•   Through the Connect 2020 Agenda ITU Member States committed  
+    to work towards the shared vision of “an information society,  
+    empowered by the interconnected world, where  
+    telecommunication and ICT enables and accelerates socially,  
+    economically and environmentally sustainable growth and  
+    development for everyone.” 
+
+    GOAL 1                  GOAL 2                  GOAL 3                  GOAL 4 
+
+                                                                                         15 
+
+----------------------- Page 16-----------------------
+
+     Global Connectivity Overview 
+
+  •  Distribution of the offline population 2016 by  
+      region and development level.region and development level. 
+
+(Image source: ITU, 2017b) 
+                                                                                     16 
+
+----------------------- Page 17-----------------------
+
+     Global Connectivity Overview 
+
+  •  Key characteristics of the world offline population. 
+
+(Image source: ITU, 2017b)                                             17 
+
+----------------------- Page 18-----------------------
+
+    Global Connectivity Overview 
+
+  •  Key Internet adoption barriers.  
+
+(Image source: ITU, 2017b)                                         18 
+
+----------------------- Page 19-----------------------
+
+      Global Connectivity Overview 
+
+(SOURCE: McKinsey and Company, 2014)                                   19 
+
+----------------------- Page 20-----------------------
+
+    #ICT4SDG: Successful Cases 
+
+(Source: ITU, 2017a)                                               20 
+
+----------------------- Page 21-----------------------
+
+    #ICT4SDG: Successful Cases 
+
+(Source: ITU, 2017a)                                               21 
+
+----------------------- Page 22-----------------------
+
+    #ICT4SDG: Successful Cases 
+
+(Source: ITU, 2017a)                                               22 
+
+----------------------- Page 23-----------------------
+
+    #ICT4SDG: Successful Cases 
+
+(Source: ITU, 2017a)                                               23 
+
+----------------------- Page 24-----------------------
+
+             Group Project One 
+
+•  Develop a Policy Report under the theme of  
+   #ICT4SDG using the suggested title:#ICT4SDG using the suggested title: 
+    – “Achieving Sustainable Development with  
+       Information and Communication Technologies: A  
+       Policy Report” 
+    – (You can also come up with your own title) 
+
+                                                                        24 
+
+----------------------- Page 25-----------------------
+
+               Group Project One 
+
+•  Your Policy Report (i.e. the group project  
+   report) will has three main parts:report) will has three main parts: 
+
+•  Part One: The Issue 
+•  Part Two: The Research 
+••  Part Three: RecommendationsPart Three: Recommendations 
+
+                                                                               25 
+
+----------------------- Page 26-----------------------
+
+              Part One: The Issue 
+
+•  (About 120 to 200 words) 
+•• Identify Identify ONEONE existing sustainability issue. In this existing sustainability issue. In this  
+   part of your report, specify and describe: 
+    – What is the issue? 
+    – Where does it happen? 
+    – Who are those suffering from this issue? 
+    – (List any source and/or references relate d to the  
+       issue that you have identified).issue that you have identified). 
+
+•  Name the SGD(s) and the corresponding SDG  
+   target(s) related to the issue that you have  
+   identified. 
+
+                                                                               26 
+
+----------------------- Page 27-----------------------
+
+           Part Two: The Research 
+
+•   (About 120 to 200 words plus charts and tables whenever  
+    appropriate) 
+••  Access the databases hosted at UNSD (United Nations Access the databases hosted at UNSD (United Nations  
+    Statistic Division) 
+     –  https://unstats.un.org/home/ 
+•   Identify relevant dataset(s) that give information about the  
+    issue you have identified in Part One. 
+•   Generate charts and/or tables from the data to support  
+    your arguments. your arguments.  
+
+•   (Note: You can also use statistics and data available in  
+    other online resources and/or literatures; remember to  
+    cite your references)  
+
+                                                                                      27 
+
+----------------------- Page 28-----------------------
+
+                  Part Two: The Research 
+
+ •    E.g., if you mention “gender inequality in education level in South Africa”  
+      (addressing SDG4 & SDG5), you can provide the following chart to support  
+      your argument (try drawing the chart by yourself instead of copy-and=paste  
+      from existing materials directly). Cite the reference(s) and/or data source. from existing materials directly). Cite the reference(s) and/or data source.  
+
+Reference: Deen-Swarray, M.; Gillwald, A.; Morrell, A. 2013. Lifting the veil on ICT gender indicators in Africa. Research  
+ICT Africa, Cape Town, South Africa.                                                                                    28 
+
+----------------------- Page 29-----------------------
+
+  Part Three: Recommendations 
+
+•   (About 200 to 400 words plus illustrative diagrams  
+    whenever appropriate) 
+••  Apply the knowledge that you have gained / will gain in Apply the knowledge that you have gained / will gain in  
+    this course and make professional recommendations on  
+    how ICTs can be applied to solve or mitigate the issue that  
+    you have identified in Part One. 
+
+•   Justify your recommendation(s) with principles in Human- 
+    Information Information and/or the nature of Information Information Information and/or the nature of Information  
+    (e.g., the three modes of information and the role played (e.g., the three modes of information and the role played  
+    by information in your suggested solution). 
+     –  I.e. what do you understand about HII and ICTs; and how these  
+        principles can be applied to solve/mitigate the issues you have  
+        identified. 
+
+                                                                                           29 
+
+----------------------- Page 30-----------------------
+
+                   Online Learning 
+
+•  Classes on 20 and 23 Oct will be conducted in web- 
+    based learning format.based learning format. 
+    – There will be no lectures. 
+•   Please allocate 3 lecture-hours to read the report  
+    “Information Lives of the Poor: Fighting Poverty with  
+   Technology” and watch the videos from this website: 
+    –  https://www.idrc.ca/en/article/information-lives-poor- 
+       fightingfighting--povertypoverty--technologytechnology 
+•  These online materials provide very helpful  
+    information for your Group Project One.  
+    –  In fact, the report is a good exemplar of Policy Report  
+        authored by a team of Canadian researchers. 
+
+                                                                                   30 
+
+----------------------- Page 31-----------------------
+
+   References and Further Readings 
+
+(Disclaimer: This lecture notes contain materials extracted from the following  
+     references and should only be used as an internal reference.) 
+
+•    UNESCO (2017). Schools in action, global citizens for sustainable development: a  
+    guide for students (PDF). Paris, UNESCO. 
+•    UN (2015) Transforming our world: the 2030 Agenda for Sustainable  
+     Development. 
+      –   https://sustainabledevelopment.un.org/post2015/transformingourworld 
+•    ITU (2017a). The role of ICTs in accelerating the achievement of the SDGs: New  
+    innovation approaches to support the implementation of the sustainable  
+    development goals.  
+      –   http://unctad.org/meetings/es/Presentation/cstd2016_p06_DoreenBogdan_ITU_en.pdf 
+••   ITU (2017b). Discussion paper for Special Meeting of the Broadband ITU (2017b). Discussion paper for Special Meeting of the Broadband  
+    Communication and the WEF, Davos 2017, Connecting the Unconnected. 
+•    McKinsey and Company (2014). Offline and falling behind: Barriers to Internet  
+    adoption.  
+•    L. Elder, R. Samarajiva, A. Gillwald, and H. Galperin (2013). Information lives of the  
+    poor: Fighting poverty with technology, International Development Research  
+    Centre. 
+
+                                                                                                          31 
