@@ -1,4 +1,7 @@
 # Analysis of Online Learner Reflection
+Members: LI Chenghui, HUO ruixin, YANG Zheyuan
+
+## Overview
 This is the project of online learner reflection analysis. In this project, we analyse:
 
 * the personality score of online learners
